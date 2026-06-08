@@ -11,14 +11,11 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-> I choose the University of Texas at Dallas, i need a RAG system that can pull and webscrape from all sources and give me a good review per class per professor taking into account the classes and prof. history including but not limited to difficulty, topics, and any changes made to the course.
-reddit: https://www.reddit.com/r/utdallas
-utd grades: https://utdgrades.com/ 
-utd trends: http://trends.utdnebula.com/ 
-utd rmp: https://www.ratemyprofessors.com/school/1273 
-utd galaxy: https://www.utdallas.edu/galaxy/ 
-utd: 
-discords:  there are too many and most require hotkey to connect and enter with an account (unless another method is discovered)
+
+I chose the University of Texas at Dallas, specifically class and professor reviews. I need a RAG system that can pull from a bunch of different sources (reddit, RMP, utdgrades, utdnebula, the galaxy catalog) and give me a real review per class and per professor, taking into account history like difficulty, topics covered, and any changes made to the course over time.
+
+The official UTD catalog (galaxy) tells you what a course is *supposed* to be: credit hours, prereqs, the official description. It will never tell you that a prof's exams are basically impossible without going to every lecture, that a course got way harder after the professor switched, or that the curve is what's actually keeping the GPA at a 3.0. That stuff only lives on RMP, reddit, and in Discords. The system should be able to answer questions like "is CS 4337 hard with Prof X?", "what topics actually show up on the midterm in CS 3345?", and "did the workload change after the professor swap?".
+
 ---
 
 ## Documents
@@ -28,16 +25,18 @@ discords:  there are too many and most require hotkey to connect and enter with 
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | r/utdallas | Top results from searching the sub for "CS 4337": review threads and comment chains on the programming languages course | https://www.reddit.com/r/utdallas/search?q=CS+4337 |
+| 2 | r/utdallas | Top results from searching the sub for "CS 3345": algorithms course threads, prof comparison posts | https://www.reddit.com/r/utdallas/search?q=CS+3345 |
+| 3 | r/utdallas | Threads tagged with the "Academics" flair: general "is this prof hard" / "should I take X with Y" posts | https://www.reddit.com/r/utdallas/?f=flair_name%3A%22Academics%22 |
+| 4 | Rate My Professors (UTD) | RMP pages for the top-reviewed UTD CS professors at collection time. Full review lists with ratings, difficulty, and "would take again" rates. | https://www.ratemyprofessors.com/school/1273 (top-reviewed prof pages reached from this school root) |
+| 5 | Rate My Professors (UTD) | RMP pages for the profs that teach CS 4337 / CS 3345 most often, captured at collection time (review counts, difficulty scores, written reviews) | https://www.ratemyprofessors.com/school/1273 |
+| 6 | utdgrades.com | Grade distribution page for CS 3345 (A/B/C/D/F % by section and semester) | https://utdgrades.com/results/CS%203345 |
+| 7 | utdgrades.com | Grade distribution page for CS 4337, grade % by semester so I can see if a prof switch shifted the curve | https://utdgrades.com/results/CS%204337 |
+| 8 | trends.utdnebula.com | GPA trend page for a core CS course over the last several semesters, average GPA by prof and term | https://trends.utdnebula.com/ (specific course page) |
+| 9 | UTD Galaxy (official catalog) | Official course catalog entry for CS 3345, the "official" description to contrast against the real student takes | https://catalog.utdallas.edu/now/undergraduate/courses/cs3345 |
+| 10 | UTD Galaxy (official catalog) | Official catalog entry for CS 4337. Same idea, used as the baseline "official" source | https://catalog.utdallas.edu/now/undergraduate/courses/cs4337 |
+
+> Note: Discord servers were considered but most UTD Discords are invite-only or require a hotkey/verification flow I can't automate. I'm leaving them out of the doc set for now and noting it under Anticipated Challenges.
 
 ---
 
@@ -48,11 +47,17 @@ discords:  there are too many and most require hotkey to connect and enter with 
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** ~400 characters (roughly 80–100 tokens)
 
-**Overlap:**
+**Overlap:** ~50 characters
 
 **Reasoning:**
+
+Most of what I'm working with is short, opinion-dense text. RMP reviews are usually 1–3 sentences, stuff like "exams are nothing like the homework, curve saved me." Reddit comments are a bit longer (a paragraph or two), and the official catalog entries are short structured blocks. If I go with big chunks (1000+ chars), I'll end up jamming multiple unrelated RMP reviews into one chunk, or merging a reddit thread's top comment with replies that are off on a tangent, and the embedding gets diluted. Specific queries like "what do students say about this prof's exams" won't match because the chunk is about five different things at once.
+
+400 chars is small enough to keep individual reviews / comments roughly intact but big enough to carry real meaning on its own (not just a fragment like "exams are heavily"). 50 chars of overlap is there so that if a single key sentence happens to straddle a boundary (e.g., the part where someone says "the midterm is curved" lands right on the cut), it still shows up in one of the two neighboring chunks.
+
+I'll re-tune these numbers once I actually see chunks come out. If I notice retrieval pulling back too-short fragments or unrelated stuff, I'll bump chunk size. If chunks look like they're covering 3 different reviews at once, I'll shrink.
 
 ---
 
@@ -64,11 +69,18 @@ discords:  there are too many and most require hotkey to connect and enter with 
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:** `all-MiniLM-L6-v2` via sentence-transformers, running locally. No API key, no rate limits, fast on CPU.
 
-**Top-k:**
+**Top-k:** 5 to start. Going to tune after I see real retrieval results. If 5 is consistently missing the chunk I know is relevant, I'll bump it up. If it's pulling in junk that pushes the LLM off-target, I'll drop it. The tradeoff: too few and I miss context the LLM needs to answer well, too many and I drown the prompt in loosely-related stuff that drags the answer off course.
 
 **Production tradeoff reflection:**
+
+If I were deploying this for real UTD students and cost wasn't the limit, here's what I'd actually weigh:
+
+- **Domain accuracy:** MiniLM is generic. It doesn't know that "Dr. K" and "Karra" are the same person, or that "data structures" and "CS 3345" are the same thing. A model fine-tuned on UTD-specific text (course codes, prof nicknames, building names) would retrieve way better. Worth the cost if I had the data.
+- **Context length:** MiniLM caps at 256 tokens. If I ever wanted bigger chunks (full reddit threads, syllabi pages), I'd switch to something like `bge-large-en-v1.5` or OpenAI's `text-embedding-3-large` that handles longer chunks without truncating.
+- **Cost vs. latency:** Local MiniLM is free and fast once loaded. A hosted embedding API (OpenAI, Voyage) might be faster on cold start and more accurate, but I'd be paying per query, and at scale that adds up. For a free student project, local wins. For real production with thousands of queries a day, the API cost might be worth it for the quality bump.
+- **Multilingual:** Not really needed here. UTD reviews are basically all English. Wouldn't pay for it.
 
 ---
 
@@ -79,13 +91,15 @@ discords:  there are too many and most require hotkey to connect and enter with 
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
+These are written to stay evergreen as the corpus refreshes. Profs come and go, so the questions refer to roles ("the most-reviewed prof for CS 3345") rather than specific names. At eval time the expected answer is checked against whatever the current corpus contains.
+
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What do students say about exams in CS 3345, and how do reviews differ by professor? | A summary of recurring exam themes from RMP and reddit, broken down by whichever profs currently have review coverage (e.g., one is heavily curved and lecture-slide-based, another is textbook-heavy with no curve). Should cite specific RMP pages or reddit threads. |
+| 2 | Which professor teaches CS 4337 most often, and what's the general consensus on the workload? | The prof's name as it appears in the current corpus (from RMP review counts or reddit mentions) plus a workload summary (e.g., "moderate workload, projects are time-consuming but fair, exams are tougher than homework"). Should cite the source. |
+| 3 | What's the average GPA in CS 3345 over the last 3 semesters? | A specific number or range pulled from utdgrades or trends.utdnebula (e.g., "around 2.9–3.1 depending on professor"). Should cite the source. |
+| 4 | How do the top-reviewed CS 4337 professors compare on difficulty and teaching style? | A side-by-side comparison (difficulty rating, teaching style, exam style) of the most-reviewed CS 4337 profs at query time. Should pull from RMP pages and any reddit comparison threads. |
+| 5 | What's the best off-campus restaurant near UTD? | System should refuse, this is out of domain. Expected response: "I don't have enough information on that" or similar. This is the deliberate out-of-scope test for the failure-case requirement. |
 
 ---
 
@@ -95,9 +109,11 @@ discords:  there are too many and most require hotkey to connect and enter with 
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. **Scraping is going to be painful.** RMP is JS-rendered and aggressive about blocking bots, so a plain `requests.get` won't return the reviews. Reddit's API has rate limits and old.reddit scraping isn't always reliable either. I'll probably end up doing a mix of saved HTML, manual copy-paste into `.txt` files, and maybe pdfplumber if I save pages as PDFs. Discords are basically off the table because most need an account + hotkey verification to even join, so I'm dropping them from the source list and noting it as a known gap in coverage.
 
-2.
+2. **Conflicting reviews on the same prof.** RMP for any given prof will have one person saying "easiest class I've ever taken" and another saying "this prof ruined my GPA." Both are real signal. The risk is that retrieval grabs whichever chunk happens to be closer to the query embedding and the LLM picks a side, instead of surfacing that opinions actually split. I'll need to either retrieve more chunks (higher top-k) to make sure both sides show up, or write the system prompt to explicitly call out disagreement when it sees it.
+
+3. **Source attribution gets blurry on RMP pages.** An RMP prof page has 50+ reviews on one URL. When I chunk it, a chunk might be a single sentence from one reviewer, but the "source" I can attach is just the prof's RMP page, not the specific reviewer. So I can say "this came from Prof X's RMP page" but I lose which review it was. For this project that's probably fine, but it's worth flagging: if a reviewer says something weirdly specific, I can't trace it back further than the page.
 
 ---
 
@@ -108,6 +124,15 @@ discords:  there are too many and most require hotkey to connect and enter with 
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+```mermaid
+flowchart LR
+    A[Document Ingestion<br/>requests / pdfplumber / manual .txt] --> B[Cleaning + Chunking<br/>~400 chars, 50 overlap]
+    B --> C[Embedding<br/>all-MiniLM-L6-v2<br/>sentence-transformers, local]
+    C --> D[Vector Store<br/>ChromaDB, local]
+    D --> E[Retrieval<br/>top-k = 5]
+    E --> F[Generation<br/>Groq llama-3.3-70b-versatile<br/>+ source attribution]
+```
 
 ---
 
@@ -123,8 +148,14 @@ discords:  there are too many and most require hotkey to connect and enter with 
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-**Milestone 3 — Ingestion and chunking:**
+**Milestone 3: Ingestion and chunking**
 
-**Milestone 4 — Embedding and retrieval:**
+Going to use Claude. I'll feed it my Documents section and my Chunking Strategy section, plus the architecture diagram, and ask it to write `ingest.py` and `chunk.py`. `ingest.py` should walk through `documents/`, load every `.txt` file, and for any `.pdf` use pdfplumber to extract text. It should also strip the obvious junk: leftover HTML, nav text, "Read more" links, share buttons, footers. `chunk.py` should split at ~400 chars with ~50 char overlap and attach source metadata (filename) to each chunk. To verify, I'll print 5 random chunks and read them. Each one needs to be standalone readable, no fragments, no HTML leftovers, and the source filename has to match where the chunk actually came from.
 
-**Milestone 5 — Generation and interface:**
+**Milestone 4: Embedding and retrieval**
+
+Claude again. I'll give it my Retrieval Approach section and the chunk format from M3 and ask for `embed.py` (load all chunks into ChromaDB using `all-MiniLM-L6-v2`, keep the source metadata on every chunk) plus a `retrieve(query, k=5)` function that returns chunks + distance scores. To verify, I'll run 3 of my eval questions through `retrieve()` and check that (a) the top result is actually about the right course/prof, (b) distance scores on the top result are below ~0.5, and (c) the source metadata is correct.
+
+**Milestone 5: Generation and interface**
+
+Claude. I'll give it the grounding requirement (answer only from retrieved chunks, refuse with "I don't have enough information" if the chunks don't cover it), the source-attribution requirement (every response cites which document(s) the answer came from, appended programmatically not just trusted to the LLM), and a Gradio skeleton. Ask it to wire up `query.py` (retrieve, format context, call Groq's `llama-3.3-70b-versatile`, return answer + sources) and `app.py` (Gradio UI with a question box, an answer box, and a sources box). To verify: I'll run question #5 from my eval plan ("best off-campus restaurant"), and the system should refuse, not make something up. Then I'll run question #1 and check that the source actually appears in the output, and that the answer comes from text that's in my retrieved chunks (not the LLM's general knowledge about CS profs).
