@@ -5,12 +5,20 @@
 > Update the Retrieval Approach and Chunking Strategy sections if you change your approach during implementation.
 > Update this file before starting any stretch features.
 
+
 ---
 
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+> I choose the University of Texas at Dallas, i need a RAG system that can pull and webscrape from all sources and give me a good review per class per professor taking into account the classes and prof. history including but not limited to difficulty, topics, and any changes made to the course.
+reddit: https://www.reddit.com/r/utdallas
+utd grades: https://utdgrades.com/ 
+utd trends: http://trends.utdnebula.com/ 
+utd rmp: https://www.ratemyprofessors.com/school/1273 
+utd galaxy: https://www.utdallas.edu/galaxy/ 
+utd: 
+discords:  there are too many and most require hotkey to connect and enter with an account (unless another method is discovered)
 ---
 
 ## Documents
