@@ -1,0 +1,29 @@
+# Source: r/utdallas search 'CS 4348'
+# URL: https://www.reddit.com/r/utdallas/search.json?q=CS+4348&restrict_sr=1&sort=relevance&t=all&limit=25
+# Fetched: 2026-06-08 04:58:20
+# Note: PLACEHOLDER - reddit returned 403 to anonymous JSON. Needs manual paste-in.
+# Status: placeholder
+---
+
+Reddit's public JSON endpoints currently return HTTP 403 for unauthenticated
+requests (including the search endpoint and subreddit listing endpoints).
+Reddit started blocking anonymous JSON access in mid-2023 and the restriction
+remains in effect. Without OAuth credentials the script cannot fetch threads.
+
+Manual collection steps for CS 4348:
+  1. In a browser, open https://www.reddit.com/r/utdallas/search/?q=CS+4348&restrict_sr=1
+  2. Open the top 8-12 threads (sort by relevance, then by top of all time).
+  3. For each thread, copy:
+       - The post title and body text.
+       - The top 10-20 comments (skip 'deleted' and joke replies).
+  4. Paste below the --- divider, one thread per block. Format suggestion:
+       === THREAD N: <title> ===
+       url: <permalink>
+       <selftext>
+       COMMENTS:
+       - [author] <comment>
+
+Alternative: register a script-type app at https://www.reddit.com/prefs/apps,
+get a client_id + client_secret, then update this script to use the OAuth
+flow (POST https://www.reddit.com/api/v1/access_token then use the bearer
+token on oauth.reddit.com URLs). That would unlock automated re-fetches.

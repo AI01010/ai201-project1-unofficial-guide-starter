@@ -1,0 +1,198 @@
+{
+  "generated": "2026-06-08 05:25:28",
+  "files": [
+    {
+      "filename": "reddit_cs3345.txt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/utdallas/search.json?q=CS+3345&restrict_sr=1&sort=relevance&t=all&limit=25",
+      "courses": [
+        "CS 3345"
+      ],
+      "fetched": "2026-06-08 04:58:15",
+      "status": "placeholder",
+      "reason": "anonymous JSON blocked (403)"
+    },
+    {
+      "filename": "reddit_cs4337.txt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/utdallas/search.json?q=CS+4337&restrict_sr=1&sort=relevance&t=all&limit=25",
+      "courses": [
+        "CS 4337"
+      ],
+      "fetched": "2026-06-08 04:58:17",
+      "status": "placeholder",
+      "reason": "anonymous JSON blocked (403)"
+    },
+    {
+      "filename": "reddit_cs4348.txt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/utdallas/search.json?q=CS+4348&restrict_sr=1&sort=relevance&t=all&limit=25",
+      "courses": [
+        "CS 4348"
+      ],
+      "fetched": "2026-06-08 04:58:20",
+      "status": "placeholder",
+      "reason": "anonymous JSON blocked (403)"
+    },
+    {
+      "filename": "reddit_cs4349.txt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/utdallas/search.json?q=CS+4349&restrict_sr=1&sort=relevance&t=all&limit=25",
+      "courses": [
+        "CS 4349"
+      ],
+      "fetched": "2026-06-08 04:58:22",
+      "status": "placeholder",
+      "reason": "anonymous JSON blocked (403)"
+    },
+    {
+      "filename": "reddit_cs4347.txt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/utdallas/search.json?q=CS+4347&restrict_sr=1&sort=relevance&t=all&limit=25",
+      "courses": [
+        "CS 4347"
+      ],
+      "fetched": "2026-06-08 04:58:25",
+      "status": "placeholder",
+      "reason": "anonymous JSON blocked (403)"
+    },
+    {
+      "filename": "utdgrades_cs3345.txt",
+      "source": "utdgrades",
+      "url": "https://utdgrades.com/results/CS%203345",
+      "courses": [
+        "CS 3345"
+      ],
+      "fetched": "2026-06-08 04:58:26",
+      "status": "placeholder"
+    },
+    {
+      "filename": "utdgrades_cs4337.txt",
+      "source": "utdgrades",
+      "url": "https://utdgrades.com/results/CS%204337",
+      "courses": [
+        "CS 4337"
+      ],
+      "fetched": "2026-06-08 04:58:28",
+      "status": "placeholder"
+    },
+    {
+      "filename": "utdgrades_cs4348.txt",
+      "source": "utdgrades",
+      "url": "https://utdgrades.com/results/CS%204348",
+      "courses": [
+        "CS 4348"
+      ],
+      "fetched": "2026-06-08 04:58:30",
+      "status": "placeholder"
+    },
+    {
+      "filename": "utdgrades_cs4349.txt",
+      "source": "utdgrades",
+      "url": "https://utdgrades.com/results/CS%204349",
+      "courses": [
+        "CS 4349"
+      ],
+      "fetched": "2026-06-08 04:58:32",
+      "status": "placeholder"
+    },
+    {
+      "filename": "utdgrades_cs4347.txt",
+      "source": "utdgrades",
+      "url": "https://utdgrades.com/results/CS%204347",
+      "courses": [
+        "CS 4347"
+      ],
+      "fetched": "2026-06-08 04:58:35",
+      "status": "placeholder"
+    },
+    {
+      "filename": "catalog_cs3345.txt",
+      "source": "catalog",
+      "url": "https://catalog.utdallas.edu/now/undergraduate/courses/cs3345",
+      "courses": [
+        "CS 3345"
+      ],
+      "fetched": "2026-06-08 04:58:38",
+      "status": "ok"
+    },
+    {
+      "filename": "catalog_cs4337.txt",
+      "source": "catalog",
+      "url": "https://catalog.utdallas.edu/now/undergraduate/courses/cs4337",
+      "courses": [
+        "CS 4337"
+      ],
+      "fetched": "2026-06-08 04:58:40",
+      "status": "ok"
+    },
+    {
+      "filename": "catalog_cs4348.txt",
+      "source": "catalog",
+      "url": "https://catalog.utdallas.edu/now/undergraduate/courses/cs4348",
+      "courses": [
+        "CS 4348"
+      ],
+      "fetched": "2026-06-08 04:58:42",
+      "status": "ok"
+    },
+    {
+      "filename": "catalog_cs4349.txt",
+      "source": "catalog",
+      "url": "https://catalog.utdallas.edu/now/undergraduate/courses/cs4349",
+      "courses": [
+        "CS 4349"
+      ],
+      "fetched": "2026-06-08 04:58:44",
+      "status": "ok"
+    },
+    {
+      "filename": "catalog_cs4347.txt",
+      "source": "catalog",
+      "url": "https://catalog.utdallas.edu/now/undergraduate/courses/cs4347",
+      "courses": [
+        "CS 4347"
+      ],
+      "fetched": "2026-06-08 04:58:47",
+      "status": "ok"
+    },
+    {
+      "filename": "trends_placeholder.txt",
+      "source": "nebula",
+      "url": "https://trends.utdnebula.com/",
+      "courses": [
+        "CS 3345",
+        "CS 4337",
+        "CS 4348",
+        "CS 4349",
+        "CS 4347"
+      ],
+      "fetched": "2026-06-08 04:58:57",
+      "status": "placeholder"
+    },
+    {
+      "filename": "rmp_utd_cs.txt",
+      "source": "rmp",
+      "url": "https://www.ratemyprofessors.com/school/1273",
+      "courses": [
+        "CS 3345",
+        "CS 4337",
+        "CS 4348",
+        "CS 4349",
+        "CS 4347"
+      ],
+      "fetched": "2026-06-08 05:25:28",
+      "status": "ok",
+      "target_course_profs": 37,
+      "total_ratings_kept": 409,
+      "per_course": {
+        "CS3345": 118,
+        "CS4337": 89,
+        "CS4347": 84,
+        "CS4348": 63,
+        "CS4349": 55
+      },
+      "cs_profs_scanned": 92
+    }
+  ]
+}

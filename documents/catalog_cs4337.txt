@@ -1,0 +1,546 @@
+# Source: UTD official catalog (Galaxy) entry for CS 4337
+# URL: https://catalog.utdallas.edu/now/undergraduate/courses/cs4337
+# Fetched: 2026-06-08 04:58:40
+# Note: Stripped HTML to plain text. Header/footer nav still present, M3 cleaning will trim it.
+---
+
+Programming Language Paradigms - UT Dallas 2025 Undergraduate Catalog - The University of Texas at Dallas
+
+Jump to content
+
+Jump to navigation
+
+Jump to search
+
+Catalog Home
+
+Undergraduate Catalogs 
+
+2025 Undergraduate Catalog
+
+2024 Undergraduate Catalog
+
+2023 Undergraduate Catalog
+
+2022 Undergraduate Catalog
+
+2021 Undergraduate Catalog
+
+2020 Undergraduate Catalog
+
+2019 Undergraduate Catalog
+
+2018 Undergraduate Catalog
+
+2017 Undergraduate Catalog
+
+2016 Undergraduate Catalog
+
+Graduate Catalogs 
+
+2025 Graduate Catalog
+
+2024 Graduate Catalog
+
+2023 Graduate Catalog
+
+2022 Graduate Catalog
+
+2021 Graduate Catalog
+
+2020 Graduate Catalog
+
+2019 Graduate Catalog
+
+2018 Graduate Catalog
+
+2017 Graduate Catalog
+
+2016 Graduate Catalog
+
+UT Dallas 2025 Undergraduate Catalog
+
+CS4337 - Programming Language Paradigms
+
+CS 4337 Programming Language Paradigms (3 semester credit hours) Principles of design and implementation of contemporary programming languages. Formal description including specification of syntax and semantics of programming languages. Language definition structures including binding, scoping, data types, control structures, parameter passing, abstraction mechanism, and run-time considerations. Design issues of different programming languages. Language-based security. Design, implement, and debug programs in various programming language paradigms. Prerequisites: ((CE 2336 or CS 2336 or CS 2337) with a grade of C or better or CS 3333) and (CE 2305 or CS 2305) with a grade of C or better and (CS 2340 or SE 2340 or CE 4304 or EE 4304). (Same as CE 4337) (3-0) S
+
+bugz
+
+2025 Undergraduate Catalog
+
+General Information
+
+About the 2025 Catalog
+About UT Dallas
+University Officers
+
+President
+President's Cabinet
+Administrative Officers/Deans
+
+UT System Regents
+Contact Information
+Faculty Roster
+Search 2025 Undergraduate Catalog
+
+Undergraduate Programs
+
+Arts, Humanities, and Technology
+
+About Arts, Humanities, and Technology
+Animation and Games (BA)
+History (BA)
+Latin American Studies (BA)
+Literature
+
+Literature (BA)
+Literature (BA) with Creative Writing
+Literature (BA) with Pre-Law
+Literature (BA) with Professional and Technical Writing
+Literature (BA) with Spanish
+
+Media Arts and Design
+
+Media Arts and Design (BA)
+Media Arts and Design (BA) with Critical Media Studies
+Media Arts and Design (BA) with Emerging Media Arts
+
+Philosophy (BA)
+Professional Communication and Digital Media Studies (BA)
+Visual and Performing Arts
+
+VPA (BA) with Art History
+VPA (BA) with Communication Studies
+VPA (BA) with Dance
+VPA (BA) with Film
+VPA (BA) with Interdisciplinary Arts
+VPA (BA) with Music
+VPA (BA) with Photo-Video-Digital
+VPA (BA) with Theatre
+VPA (BA) with Visual Arts
+
+Minors
+Certificates
+
+Behavioral and Brain Sciences
+
+About Behavioral and Brain Sciences
+Child Learning and Development (BS)
+Cognitive Science (BS)
+Neuroscience (BS)
+Psychology (BS)
+Speech, Language, and Hearing Sciences (BS)
+Minors
+Certificates
+
+Economic, Political and Policy Sciences
+
+About Economic, Political and Policy Sciences
+Computational and Geospatial Science (BS)
+Criminology
+
+Criminology (BA)
+Criminology and Biology (BA)
+
+Economics
+
+Economics (BA,BS)
+Economics and Finance (BS)
+
+Geospatial Information Sciences (BS)
+International Political Economy
+
+International Political Economy (BA,BS)
+International Political Economy and Global Business (BS)
+
+Political Science (BA)
+Public Affairs (BS)
+Public Health (BA)
+Public Policy (BS)
+Sociology (BA)
+Sustainability Planning and Policy (BS)
+Minors
+Certificates
+
+Engineering and Computer Science
+
+About Engineering and Computer Science
+Biomedical Engineering (BS)
+Computer Engineering (BS)
+Computer Science
+
+Computer Science (BS)
+Computational and Geospatial Science (BS)
+Data Science (BS)
+
+Electrical Engineering (BS)
+Mechanical Engineering (BS)
+Software Engineering (BS)
+Systems Engineering (BS)
+Certificates
+Minors
+
+Interdisciplinary Studies
+
+About Interdisciplinary Studies
+American Studies (BA)
+Healthcare Studies (BS)
+Education
+
+ED (BA) with EC-6 Core Subjects
+ED (BA) with 4-8 Core Subjects
+ED (BA) with 4-8 English, Language Arts and Reading (ELAR)
+ED (BA) with 4-8 Science
+ED (BS) with 4-8 Science
+ED (BA) with 4-8 Social Studies
+ED (BS) with 4-8 Mathematics
+ED (BA) with 7-12 Social Studies & Economics
+ED (BA) with 7-12 Social Studies & Geography
+ED (BA) with 7-12 Social Studies & Government
+ED (BA) with 7-12 Social Studies & History
+
+Interdisciplinary Studies (BA,BS)
+Minors
+
+Jindal School of Management
+
+About Jindal School of Management
+Accounting (BS)
+Business Administration (BS)
+Business Analytics and Artificial Intelligence
+
+Business Analytics and Artificial Intelligence (BS)
+Business Analytics and Artificial Intelligence and Supply Chain Management and Analytics (BS)
+
+Computer Information Systems and Technology (BS)
+Cybersecurity and Risk Management (BS)
+Finance
+
+Finance (BS)
+Finance and Economics (BS)
+
+Global Business
+
+Global Business (BS)
+Global Business & Human Resource Management (BS)
+Global Business & International Political Economy (BS)
+Global Business & Marketing (BS)
+Global Business & Supply Chain Management and Analytics (BS)
+
+Healthcare Management
+
+Healthcare Management (BS)
+Healthcare Management and Biology (BS)
+Healthcare Management and Molecular Biology (BS)
+
+Human Resource Management
+
+Human Resource Management (BS)
+Global Business and Human Resource Management (BS)
+
+Marketing
+
+Marketing (BS)
+Global Business and Marketing (BS)
+Marketing and Supply Chain Management and Analytics (BS)
+
+Supply Chain Management and Analytics
+
+Supply Chain Management and Analytics (BS)
+Business Analytics and Artificial Intelligence and Supply Chain Management and Analytics (BS)
+Marketing and Supply Chain Management and Analytics (BS)
+Global Business & Supply Chain Management and Analytics (BS)
+
+Certificates
+Minors
+
+Natural Science and Mathematics
+
+About Natural Science and Mathematics
+Biology
+
+Biology (BA,BS)
+Biology and Criminology (BA)
+Biology and Healthcare Management (BS)
+Biomedical Sciences (BS)
+Molecular Biology (BS)
+Molecular Biology and Healthcare Management (BS)
+
+Chemistry and Biochemistry
+
+Biochemistry (BS)
+Chemistry (BA,BS)
+
+Sustainable Earth Systems Sciences
+
+Geosciences (BS)
+Geophysics Certificate
+Sustainable Earth and Environment Certificate
+
+Mathematics
+
+Actuarial Science (BS)
+Data Science (BS)
+Mathematics (BA,BS)
+Data Science Certificate
+Biomedical Data Analytics Certificate
+
+Physics (BA,BS)
+Certificate in Biomedical Sciences
+Minors
+Certificates
+UTeach Options
+
+Teacher Certification
+Honors College
+Undergraduate Minors
+Undergraduate Certificates
+
+Undergraduate Courses
+
+Undergraduate Courses by Subject
+Undergraduate Courses by School
+
+Undergraduate Admission
+
+About Undergrad Admission
+Admission Criteria for First-Time in College Freshmen
+
+Automatic Admission
+Reviewed Admission
+
+Admission Criteria for Transfer Students
+
+Automatic Admission
+Application of Transfer Credit
+Transfer Admission Criteria
+
+International Student Admission
+Admission Policies
+
+Credit by Examination
+Criminal Background Check
+Texas Success Initiative (TSI)
+
+Registration Requirements
+Legislative Requirements
+TSI Provisions
+TSI Exemptions
+
+Developmental Education
+
+Readmission
+Special Admissions
+Application Fees and Deadlines
+
+Undergraduate Curriculum
+
+About Curriculum
+Core Curriculum
+Honors Programs
+Other Degree Requirements
+
+Tuition and Financial Aid
+
+About Tuition and Financial Aid
+Excessive Undergraduate Hours
+Refund of Tuition and Fees
+Other User Fees
+Financial Aid
+Types of Financial Aid
+
+Policies and Procedures
+
+List of Undergraduate Policies
+Academic Policies
+
+Academic Advising
+Academic Grievances
+Academic Progress
+Academic Record and Offical Transcript
+Credit by Examination
+Dean's List
+Final Examinations
+Grade Changes
+Grade Point Average
+Grading Scale
+Incomplete Grades
+Mid-Term Grades
+Scholastic Status
+Transcripts
+Transfer Credit
+Non-Credit From Non-Institution
+Transfer Disputes for Lower-Division Courses
+Reverse Transfer Transcripts
+
+Admission Policies
+
+Admission Criteria for First-Time in College Freshmen
+
+Automatic Admission
+Reviewed Admission
+
+Admission Criteria for Transfer Students
+
+Automatic Admission
+Application of Transfer Credit
+Transfer Admission Criteria
+
+Credit by Examination
+Criminal Background Check
+Texas Success Initiative (TSI)
+
+Registration Requirements
+Legislative Requirements
+TSI Provisions
+TSI Exemptions
+
+Developmental Education
+
+Course Policies
+
+Course Offerings
+Auditing Courses
+Course Load
+Guidelines for Course Numbering
+Course Numbering System
+Credit/No Credit Classes
+Independent Study
+Internship Program
+Repeating Coursework
+
+Degree Plans
+
+Degree Plans
+Change of Major
+Deadlines and Fees
+Declaring a Major
+Double Major and Double Degree
+
+Disciplinary Actions Associated with Academic Standing
+
+Academic Good Standing
+Disciplinary Status Overview
+Academic Watch
+Academic Warning
+Academic Departure
+Academic Suspension
+Readmission
+Changing Majors
+
+Fast Track
+
+Fast Track Option
+Minimum Requirements
+Choice of Graduate Degree and Cross-Tracking
+Choice of Graduate Courses
+Transition to Master’s Program after Bachelor’s Degree
+Official Transcription
+
+Graduate Courses
+
+Graduate Courses
+Applied Toward an Undergraduate Degree
+Possible Future Use as Graduate Credit
+
+Graduation Policies
+
+Timely Graduation
+Application for Graduation
+Commencement Ceremonies
+Graduation with Honors
+Graduation Under a Particular Catalog
+Graduation Requirements
+
+Registration Policies
+
+Classification of Students
+Registration
+Registration Dates
+In Absentia Registration
+Concurrent Enrollment at Other Public Institutions of Higher Education
+Cooperative Agreements
+Visiting UT System Students Program
+Deadlines to Add/Drop a Class
+
+Add Deadline
+Drop
+
+Administrative Drop
+Drop Appeal Procedures
+
+Withdraw
+
+W Period
+6-Withdrawal Rule
+Non-Academic Withdrawals
+Appeal Denied Petition for Non-Academic Withdrawal
+Repeated Non-Academic Withdrawal
+Withdrawal/Resignation from the University
+Refunds Following Withdrawal
+Involuntary Withdrawal
+
+Military
+
+Military Service/Training Awarded as Academic Course Credit
+Military Service Activation Interruption of Education
+
+Remain Enrolled & Complete Coursework Following Brief Military Service
+Withdraw, Receive Incomplete Grade, or Receive Final Grade
+Automatic Readmission Following Military Service
+
+Delayed Disbursements Under Chapter 31 or 33
+
+Student Travel
+
+Student Travel Policy
+International Education
+
+Policies
+Options
+Eligibility and Conditions
+Financial Information
+Transfer Credit and Graduation
+International Travel, Policies and Services
+
+Other Policies
+
+Change of Address, Email, or Name
+Copyrighted Material
+Correspondence - Email
+Emergency Response, Fire Safety, and Security
+FERPA
+Hazing
+Making a False Alarm or Report
+Religious Holy Days
+Student-Right-To-Know and Campus Security Act (Clery Act)
+Use of Facilities
+
+Addendum
+
+University Resources
+
+List of Resources
+General Resources
+Health Resources
+International Resources
+Professional Resources
+Student Complaint Resources
+
+UT Dallas
+
+OISDS
+
+Privacy Policy
+
+Technical Support
+
+Download page as a PDF, opens a new tab
+
+Download page as a DOCX (MS Word) file
+
+Open page in a printable window, opens a new tab
+
+Compare Versions
+
+(null clip target)

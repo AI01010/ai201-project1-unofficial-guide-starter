@@ -1,0 +1,23 @@
+# Source: trends.utdnebula.com (backed by api.utdnebula.com)
+# URL: https://trends.utdnebula.com/
+# Fetched: 2026-06-08 04:58:57
+# Note: PLACEHOLDER - needs manual paste-in. API endpoint discovery failed.
+# Status: placeholder
+---
+
+trends.utdnebula.com is a Next.js frontend backed by api.utdnebula.com.
+Probed endpoints (none returned usable course-grade data with a plain GET):
+  - https://api.utdnebula.com/grades?courses=CS+3345
+  - https://api.utdnebula.com/grades/semester?course=CS%203345
+  - https://api.utdnebula.com/course?subject_prefix=CS&course_number=3345
+  - https://api.utdnebula.com/sections?subject_prefix=CS&course_number=3345
+Last status: HTTP 404 for https://api.utdnebula.com/sections?subject_prefix=CS&course_number=3345
+
+Manual collection options:
+  1. Open https://trends.utdnebula.com/dashboard/ in a browser.
+  2. Search each course (CS 3345, CS 4337, CS 4348, CS 4349, CS 4347).
+  3. For each, copy the GPA-by-prof table and per-semester GPA trend.
+  4. Paste below the --- divider, one course per block, marked
+     'COURSE: CS <num>' so the chunker can tag it.
+  Alternative: inspect Network tab while loading a course page to find
+  the actual API call that returns the grade JSON, then update this script.
