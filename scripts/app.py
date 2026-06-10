@@ -77,7 +77,7 @@ with gr.Blocks(title="The Unofficial Guide — UTD CS") as demo:
                 label="Try one of the eval-plan questions",
             )
         with gr.Column(scale=3):
-            answer = gr.Textbox(label="Answer", lines=10, show_copy_button=True)
+            answer = gr.Textbox(label="Answer", lines=10)
             sources = gr.Textbox(label="Retrieved from", lines=4)
             with gr.Accordion("Retrieval debug (distances + courses)", open=False):
                 retrieval_debug = gr.Textbox(label="", lines=6, show_label=False)
