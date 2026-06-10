@@ -1,29 +1,769 @@
 # Source: r/utdallas search 'CS 4337'
 # URL: https://www.reddit.com/r/utdallas/search.json?q=CS+4337&restrict_sr=1&sort=relevance&t=all&limit=25
-# Fetched: 2026-06-09 18:51:47
-# Note: PLACEHOLDER - reddit returned 403 to anonymous JSON. Needs manual paste-in.
-# Status: placeholder
+# Fetched: {"kind": "Listing", "data": {"modhash": "mzucvmcp46589e99d291cb9c77f51c1b4f58eb09a55db08ec2", "dist": 25, "facets": {}, "after": "t3_1sei0rt", "geo_filter": "", "children": [{"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Does Salazar curve for CS 4337 exams? I\u2019ve seen his RMP  reviews and some people are saying he doesn\u2019t curve. Plus I want to know how he teaches and how hard the class is and if I should switch to Giti Karami.", "author_fullname": "t2_d33yfvkfe", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4337 Salazar Slytherin Curve?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1qnqkzj", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1769456592.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Does Salazar curve for CS 4337 exams? I\u2019ve seen his RMP  reviews and some people are saying he doesn\u2019t curve. Plus I want to know how he teaches and how hard the class is and if I should switch to Giti Karami.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1qnqkzj", "is_robot_indexable": true, "report_reasons": null, "author": "Insight614", "discussion_type": null, "num_comments": 8, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1qnqkzj/cs_4337_salazar_slytherin_curve/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1qnqkzj/cs_4337_salazar_slytherin_curve/", "subreddit_subscribers": 42010, "created_utc": 1769456592.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "What are the exams for this course like? I know that he recently changed the format? Are the exams difficult?\n", "author_fullname": "t2_d5itz5b2", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4337 Elmer Salazaar", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1nqqxzw", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.6, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1758857394.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;What are the exams for this course like? I know that he recently changed the format? Are the exams difficult?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1nqqxzw", "is_robot_indexable": true, "report_reasons": null, "author": "Sea_Appeal4211", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1nqqxzw/cs_4337_elmer_salazaar/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1nqqxzw/cs_4337_elmer_salazaar/", "subreddit_subscribers": 42010, "created_utc": 1758857394.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Which professor should I go with for Programming language paradigms? \n\nChris Davis\nGity Karami\nJalal Omer\nSalazaar", "author_fullname": "t2_d5itz5b2", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4337 Professor", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1jw4ckk", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1744308045.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Which professor should I go with for Programming language paradigms? &lt;/p&gt;\n\n&lt;p&gt;Chris Davis\nGity Karami\nJalal Omer\nSalazaar&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1jw4ckk", "is_robot_indexable": true, "report_reasons": null, "author": "Sea_Appeal4211", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1jw4ckk/cs_4337_professor/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1jw4ckk/cs_4337_professor/", "subreddit_subscribers": 42010, "created_utc": 1744308045.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hi, anybody took this class before? How hard is the exam? \ud83d\ude2d was it multiple choice or FRQ? study the homework is enough or we need to study slides too\n\nThank you for helping me!\n ", "author_fullname": "t2_4n88nnk2i", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4337 Chris Davis", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1g2fqdp", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1728786090.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi, anybody took this class before? How hard is the exam? \ud83d\ude2d was it multiple choice or FRQ? study the homework is enough or we need to study slides too&lt;/p&gt;\n\n&lt;p&gt;Thank you for helping me!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1g2fqdp", "is_robot_indexable": true, "report_reasons": null, "author": "Ben_D1808", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1g2fqdp/cs_4337_chris_davis/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1g2fqdp/cs_4337_chris_davis/", "subreddit_subscribers": 42010, "created_utc": 1728786090.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Thinking about switching to Karami, but the only class available is at 8:30 AM. Should I just stay with Davis, or is it worth the early wake-up to take Karami? Anyone who\u2019s had them, what would you do?", "author_fullname": "t2_c8j0dog3", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4337 Davis or Karami", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1gl9ess", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.67, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1730927869.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Thinking about switching to Karami, but the only class available is at 8:30 AM. Should I just stay with Davis, or is it worth the early wake-up to take Karami? Anyone who\u2019s had them, what would you do?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1gl9ess", "is_robot_indexable": true, "report_reasons": null, "author": "Powdergoli", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1gl9ess/cs_4337_davis_or_karami/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1gl9ess/cs_4337_davis_or_karami/", "subreddit_subscribers": 42010, "created_utc": 1730927869.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I'm reading the reviews on rmp and it's not looking good. The only other open professor is Yi Zhao, and he doesn't seem much better either, he has also never taught the course before. Should I switch into Yi Zhao or was last semester just a fluke for Salazar and I should just stick with him?", "author_fullname": "t2_14qhop", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Elmer Salazar for CS 4337", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_15blsd4", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1690513937.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m reading the reviews on rmp and it&amp;#39;s not looking good. The only other open professor is Yi Zhao, and he doesn&amp;#39;t seem much better either, he has also never taught the course before. Should I switch into Yi Zhao or was last semester just a fluke for Salazar and I should just stick with him?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": null, "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "15blsd4", "is_robot_indexable": true, "report_reasons": null, "author": "TomatoesOnBluRay", "discussion_type": null, "num_comments": 10, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/15blsd4/elmer_salazar_for_cs_4337/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/15blsd4/elmer_salazar_for_cs_4337/", "subreddit_subscribers": 42010, "created_utc": 1690513937.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I'm trying to find a syllabus for Chris Davis for CS 4337 the only one I found online was from 2015 which I'm not sure if he's changed or not. If anyone has taken him recently, what textbook did you use? Does he curve? Is attendance mandatory? How hard are the exams and if you have a syllabus from him please send! ", "author_fullname": "t2_fxk1i2ok", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Syllabus for Chris Davis CS 4337", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_18pntkj", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.8, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "86596598-908e-11e3-9c45-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": "ECS", "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1703393530.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m trying to find a syllabus for Chris Davis for CS 4337 the only one I found online was from 2015 which I&amp;#39;m not sure if he&amp;#39;s changed or not. If anyone has taken him recently, what textbook did you use? Does he curve? Is attendance mandatory? How hard are the exams and if you have a syllabus from him please send! &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "18pntkj", "is_robot_indexable": true, "report_reasons": null, "author": "Otherwise-Time5624", "discussion_type": null, "num_comments": 5, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/18pntkj/syllabus_for_chris_davis_cs_4337/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/18pntkj/syllabus_for_chris_davis_cs_4337/", "subreddit_subscribers": 42010, "created_utc": 1703393530.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Help, who do I take for CS 4337? The options I have are Chris Davis, Gity Karami, Salazar, and Zhao. \n", "author_fullname": "t2_4r6egjjv", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Which professor for CS 4337?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1bqialx", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1711693303.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Help, who do I take for CS 4337? The options I have are Chris Davis, Gity Karami, Salazar, and Zhao. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1bqialx", "is_robot_indexable": true, "report_reasons": null, "author": "nigletfiglet", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1bqialx/which_professor_for_cs_4337/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1bqialx/which_professor_for_cs_4337/", "subreddit_subscribers": 42010, "created_utc": 1711693303.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I heard stories that Salazar is really hard this semester and I don't see any ratings for Yi Zhao for CS 4337.  \n\n\nIs anyone currently enrolled in CS 4337 with Yi Zhao? If so, would you recommend choosing him over Salazar?", "author_fullname": "t2_12o5qldd", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Elmer Salazar or Yi Zhao for CS 4337", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_17v605y", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "86596598-908e-11e3-9c45-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": "ECS", "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1699979402.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I heard stories that Salazar is really hard this semester and I don&amp;#39;t see any ratings for Yi Zhao for CS 4337.  &lt;/p&gt;\n\n&lt;p&gt;Is anyone currently enrolled in CS 4337 with Yi Zhao? If so, would you recommend choosing him over Salazar?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "17v605y", "is_robot_indexable": true, "report_reasons": null, "author": "geethsg", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/17v605y/elmer_salazar_or_yi_zhao_for_cs_4337/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/17v605y/elmer_salazar_or_yi_zhao_for_cs_4337/", "subreddit_subscribers": 42010, "created_utc": 1699979402.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hi i need help deciding between y zhao and gity karami. anyone who took/taking CS 4337 with either of them can you explain the course structure and how easy/difficult is the class? ", "author_fullname": "t2_gcmqwuhh", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4337 Yi Zhao or Gity Karami?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_18auqz9", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1701725061.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi i need help deciding between y zhao and gity karami. anyone who took/taking CS 4337 with either of them can you explain the course structure and how easy/difficult is the class? &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "18auqz9", "is_robot_indexable": true, "report_reasons": null, "author": "Aggressive_Ad1186", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/18auqz9/cs_4337_yi_zhao_or_gity_karami/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/18auqz9/cs_4337_yi_zhao_or_gity_karami/", "subreddit_subscribers": 42010, "created_utc": 1701725061.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "For this class is the exam is online or in class ??", "author_fullname": "t2_aayf7a0j", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Cs 4337 with Elmer Salazar", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_13mgz3q", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1684554288.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For this class is the exam is online or in class ??&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "13mgz3q", "is_robot_indexable": true, "report_reasons": null, "author": "Dangerous_Hedgehog61", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/13mgz3q/cs_4337_with_elmer_salazar/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/13mgz3q/cs_4337_with_elmer_salazar/", "subreddit_subscribers": 42010, "created_utc": 1684554288.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "What changes have been made to CS 4337 other than the title of the class? Any reason why?", "author_fullname": "t2_3snvlvb2", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "What changes have been made to CS 4337?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_o1khxl", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1623891728.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;What changes have been made to CS 4337 other than the title of the class? Any reason why?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "o1khxl", "is_robot_indexable": true, "report_reasons": null, "author": "fluteofpurple", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/o1khxl/what_changes_have_been_made_to_cs_4337/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/o1khxl/what_changes_have_been_made_to_cs_4337/", "subreddit_subscribers": 42010, "created_utc": 1623891728.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I\u2019m currently signed up with Salazar but I\u2019m waitlist position 2 to swap for Karami. Should I drop the waitlisted class and stick with Salazar or go ahead with the swap if it happens?\n\nI am signed up with Karami for data structures next semester too. I am on the fence though because I know firsthand how long her assignments are and I don\u2019t know if I could handle two of her classes at once. However looking at the grade distribution for CS 4337 Salazar had worse grades than Karami so at the end of the day the opportunity for a better grade seems to be with Karami. Thoughts?", "author_fullname": "t2_2y53sstp", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Gity Karami or Elmer Salazar for CS 4337?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_oti5qq", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.81, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1627503769.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I\u2019m currently signed up with Salazar but I\u2019m waitlist position 2 to swap for Karami. Should I drop the waitlisted class and stick with Salazar or go ahead with the swap if it happens?&lt;/p&gt;\n\n&lt;p&gt;I am signed up with Karami for data structures next semester too. I am on the fence though because I know firsthand how long her assignments are and I don\u2019t know if I could handle two of her classes at once. However looking at the grade distribution for CS 4337 Salazar had worse grades than Karami so at the end of the day the opportunity for a better grade seems to be with Karami. Thoughts?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "oti5qq", "is_robot_indexable": true, "report_reasons": null, "author": "A_BlueBanana", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/oti5qq/gity_karami_or_elmer_salazar_for_cs_4337/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/oti5qq/gity_karami_or_elmer_salazar_for_cs_4337/", "subreddit_subscribers": 42010, "created_utc": 1627503769.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "How to do well in this class? The class's homework is really difficult in my opinion and long, but it is what it is. I understand most or somewhat of the material after reading the book and watching her video lectures, but afterward, the homework is giving me trouble. Unfortunately, I do not think there is any tutoring for this class either. How should one do well in her class. Worried for exams, too.", "author_fullname": "t2_6684a0vu", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4337 with Karami", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_ip7jup", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1599618496.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;How to do well in this class? The class&amp;#39;s homework is really difficult in my opinion and long, but it is what it is. I understand most or somewhat of the material after reading the book and watching her video lectures, but afterward, the homework is giving me trouble. Unfortunately, I do not think there is any tutoring for this class either. How should one do well in her class. Worried for exams, too.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "ip7jup", "is_robot_indexable": true, "report_reasons": null, "author": "patsfan-4-life", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/ip7jup/cs_4337_with_karami/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/ip7jup/cs_4337_with_karami/", "subreddit_subscribers": 42010, "created_utc": 1599618496.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "The CSMC is only limited up to CS 3305 or CS 3340 and usually the tutors do not help for other higher level subjects, which is understandable since it\u2019s not supported. This led me to wonder is there any similar place for students to go get tutoring or help for higher level CS classes like 4348 or 4337?", "author_fullname": "t2_6684a0vu", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Is there tutoring at UTD for higher level CS classes like CS 4348 or CS 4337?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_n79qw3", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1620423598.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The CSMC is only limited up to CS 3305 or CS 3340 and usually the tutors do not help for other higher level subjects, which is understandable since it\u2019s not supported. This led me to wonder is there any similar place for students to go get tutoring or help for higher level CS classes like 4348 or 4337?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "n79qw3", "is_robot_indexable": true, "report_reasons": null, "author": "patsfan-4-life", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/n79qw3/is_there_tutoring_at_utd_for_higher_level_cs/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/n79qw3/is_there_tutoring_at_utd_for_higher_level_cs/", "subreddit_subscribers": 42010, "created_utc": 1620423598.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "The options do not seem too good for CS 4337. I see Karami as the only decent option to pick. Is it just worth to pick Karami and see how it goes, or possibly wait for Spring semester for the class? I do see how in the Spring semester there are a lot more professor options such as Fang Li,  Serdar Erbatur, Richard Min, and  Ebenezer Oladimeji. Are any of these professors better or good? RMP has really some negative reviews for Karami but UTDGrades shows preety good grade distribution, so I am unsure. Is this one of those classes in the degree where we should try to get as best teaching possible because of how important it can be later on like CS 3345?", "author_fullname": "t2_6684a0vu", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Advice for Prof. selection for CS 4337", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_fy7eje", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1586489513.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The options do not seem too good for CS 4337. I see Karami as the only decent option to pick. Is it just worth to pick Karami and see how it goes, or possibly wait for Spring semester for the class? I do see how in the Spring semester there are a lot more professor options such as Fang Li,  Serdar Erbatur, Richard Min, and  Ebenezer Oladimeji. Are any of these professors better or good? RMP has really some negative reviews for Karami but UTDGrades shows preety good grade distribution, so I am unsure. Is this one of those classes in the degree where we should try to get as best teaching possible because of how important it can be later on like CS 3345?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "fy7eje", "is_robot_indexable": true, "report_reasons": null, "author": "patsfan-4-life", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/fy7eje/advice_for_prof_selection_for_cs_4337/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/fy7eje/advice_for_prof_selection_for_cs_4337/", "subreddit_subscribers": 42010, "created_utc": 1586489513.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "does anyone who has taken this class have tips on how to study for his exams? the first one is coming up and id like to know. thanks!", "author_fullname": "t2_1rdk5it", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4337 Timothy mcmahan", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_apc7ib", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.9, "author_flair_background_color": null, "subreddit_type": "public", "ups": 8, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 8, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1549857089.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;does anyone who has taken this class have tips on how to study for his exams? the first one is coming up and id like to know. thanks!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "apc7ib", "is_robot_indexable": true, "report_reasons": null, "author": "fmlfishman", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/apc7ib/cs_4337_timothy_mcmahan/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/apc7ib/cs_4337_timothy_mcmahan/", "subreddit_subscribers": 42010, "created_utc": 1549857089.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Currently debating on what section I want to take. How is Karami vs Davis vs (insert other professors that have taught CS 4337)?", "author_fullname": "t2_sjakw", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Does anyone know who the Staff sections may be taught by for CS 4337?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_bb53xp", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.67, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "86596598-908e-11e3-9c45-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": "ECS", "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1554795770.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Currently debating on what section I want to take. How is Karami vs Davis vs (insert other professors that have taught CS 4337)?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "bb53xp", "is_robot_indexable": true, "report_reasons": null, "author": "TheAuthenticUser", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/bb53xp/does_anyone_know_who_the_staff_sections_may_be/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/bb53xp/does_anyone_know_who_the_staff_sections_may_be/", "subreddit_subscribers": 42010, "created_utc": 1554795770.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "How is Prof. Timorthy McMahan for CS 4337, Organization of Programming Languages?", "author_fullname": "t2_iebmlfm", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "How is Timothy Mcmahan for CS 4337 (Org. Programming languages)?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_78avfj", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.6, "author_flair_background_color": "", "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1508792866.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": true, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;How is Prof. Timorthy McMahan for CS 4337, Organization of Programming Languages?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "78avfj", "is_robot_indexable": true, "report_reasons": null, "author": "neverTakeKhan", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/78avfj/how_is_timothy_mcmahan_for_cs_4337_org/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/78avfj/how_is_timothy_mcmahan_for_cs_4337_org/", "subreddit_subscribers": 42010, "created_utc": 1508792866.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "", "author_fullname": "t2_1tzoutopoj", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "rate my schedule, trying to graduate in one year. not a fan of CS 4141, it kind of messes with my long weekend. (taking night classes at collin college BTW)", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": 140, "top_awarded_type": null, "hide_score": false, "name": "t3_1m5b0cp", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 0.98, "author_flair_background_color": null, "ups": 201, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": 140, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": true, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 201, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "https://a.thumbs.redditmedia.com/cSUNSPiRSCPLX6PacX4gpBQZczk9p9_5E38WmMUacB8.jpg", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "post_hint": "image", "content_categories": null, "is_self": false, "subreddit_type": "public", "created": 1753077454.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "i.redd.it", "allow_live_comments": false, "selftext_html": null, "likes": null, "suggested_sort": "old", "banned_at_utc": null, "url_overridden_by_dest": "https://i.redd.it/hdmbyrnt26ef1.png", "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "preview": {"images": [{"source": {"url": "https://preview.redd.it/hdmbyrnt26ef1.png?auto=webp&amp;s=8d219d5cbaf9384493dff4f4a50c2fa792d7e6e5", "width": 685, "height": 774}, "resolutions": [{"url": "https://preview.redd.it/hdmbyrnt26ef1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=3034c15a8405b9f0eaf21d326ebdd323e2aa06fd", "width": 108, "height": 122}, {"url": "https://preview.redd.it/hdmbyrnt26ef1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e313f85720aa75860282ee0033f4b41263c72aad", "width": 216, "height": 244}, {"url": "https://preview.redd.it/hdmbyrnt26ef1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6c22966a81c1e947efe571a82ff1e5aabfdeb26f", "width": 320, "height": 361}, {"url": "https://preview.redd.it/hdmbyrnt26ef1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f62d7e0f9e82c9093d43ebd996b1889d079254b7", "width": 640, "height": 723}], "variants": {}, "id": "e6ItIRjn1n44yNpXa56-MV1_IWjoBkdbNlRJNAQ_8OI"}], "enabled": true}, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "mod_note": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "num_reports": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "1m5b0cp", "is_robot_indexable": true, "report_reasons": null, "author": "the-scheduler", "discussion_type": null, "num_comments": 37, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1m5b0cp/rate_my_schedule_trying_to_graduate_in_one_year/", "stickied": false, "url": "https://i.redd.it/hdmbyrnt26ef1.png", "subreddit_subscribers": 42010, "created_utc": 1753077454.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Who should I take for this class for CS 4337? What do y'all recommend for this class?\n\nDifficulty of exams/projects, quizzes (if any), etc. the whole thing\n\nBoth options are open", "author_fullname": "t2_e2uh9mq9", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Gity Karami or Chris Davis", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1sp5hu9", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.6, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "f7a30758-e14c-11ee-9928-ce365160b777", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": "Culture", "author_flair_richtext": [{"e": "text", "t": "Writing Fanfiction"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1776537141.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Who should I take for this class for CS 4337? What do y&amp;#39;all recommend for this class?&lt;/p&gt;\n\n&lt;p&gt;Difficulty of exams/projects, quizzes (if any), etc. the whole thing&lt;/p&gt;\n\n&lt;p&gt;Both options are open&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Writing Fanfiction", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1sp5hu9", "is_robot_indexable": true, "report_reasons": null, "author": "D4eamys", "discussion_type": null, "num_comments": 6, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/1sp5hu9/gity_karami_or_chris_davis/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1sp5hu9/gity_karami_or_chris_davis/", "subreddit_subscribers": 42010, "created_utc": 1776537141.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Is it time manageable? Is it doable? Is it realistic or am I going overboard?\n\nAny advice is appreciated.", "author_fullname": "t2_9duvl9mf", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Thoughts on taking these CS courses over the Summer at UTD? (Circled)", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": 108, "top_awarded_type": null, "hide_score": false, "name": "t3_1rvqwxu", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "ups": 7, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": 140, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": true, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 7, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=140&amp;height=108&amp;auto=webp&amp;s=8e42d622565e168be5839efdbb5f975017e852ad", "edited": 1773706156.0, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "post_hint": "image", "content_categories": null, "is_self": false, "subreddit_type": "public", "created": 1773705743.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "i.redd.it", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Is it time manageable? Is it doable? Is it realistic or am I going overboard?&lt;/p&gt;\n\n&lt;p&gt;Any advice is appreciated.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "url_overridden_by_dest": "https://i.redd.it/bjwxmql0xhpg1.jpeg", "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "preview": {"images": [{"source": {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?auto=webp&amp;s=8f9674029b9f792449ba4f922587067bbe5484d9", "width": 1650, "height": 1275}, "resolutions": [{"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=585f58cf6aba8d3a1992619d2f6269245b966332", "width": 108, "height": 83}, {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ff5d113ae666d736564429705ea0bb897f6e26af", "width": 216, "height": 166}, {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1fbbdbe3c94d3be696cae2c21deed0753b1b4092", "width": 320, "height": 247}, {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fee1ffe3e9ab1c8dda4187ae6766ef0f22851dbe", "width": 640, "height": 494}, {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1184ba6c695ba4c4a0301755cfc62f40e92735a2", "width": 960, "height": 741}, {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6d305eefbac2c4d8c11aeb05970520ebc6b14842", "width": 1080, "height": 834}], "variants": {}, "id": "bjwxmql0xhpg1"}], "enabled": true}, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "mod_note": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "num_reports": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1rvqwxu", "is_robot_indexable": true, "report_reasons": null, "author": "History-Numerous", "discussion_type": null, "num_comments": 5, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1rvqwxu/thoughts_on_taking_these_cs_courses_over_the/", "stickied": false, "url": "https://i.redd.it/bjwxmql0xhpg1.jpeg", "subreddit_subscribers": 42010, "created_utc": 1773705743.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Who should I take for this class for CS 4337? What do y'all recommend for this class? \n\nDifficulty of exams/projects, quizzes (if any), etc. the whole thing\n\nBoth options are open", "author_fullname": "t2_1580jvo8iy", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Gity Karami or Chris Davis", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1sn67zt", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1776351941.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Who should I take for this class for CS 4337? What do y&amp;#39;all recommend for this class? &lt;/p&gt;\n\n&lt;p&gt;Difficulty of exams/projects, quizzes (if any), etc. the whole thing&lt;/p&gt;\n\n&lt;p&gt;Both options are open&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1sn67zt", "is_robot_indexable": true, "report_reasons": null, "author": "LivingWonderful1864", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1sn67zt/gity_karami_or_chris_davis/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1sn67zt/gity_karami_or_chris_davis/", "subreddit_subscribers": 42010, "created_utc": 1776351941.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "is it just me or in my schedule planner for example it shows a class (in this example CS 4141, M 7:00-9:45pm) but then not show in the schedule itself? Like it validates and everything but it doesn't show in my plan\n\nFor context I'm a CS freshman planning for soph year (I have a lot of credits already, hence the more advanced classes)\n\nhttps://preview.redd.it/b6h6m6w5jbtg1.png?width=1102&amp;format=png&amp;auto=webp&amp;s=73e4ec2f701b76988947e84e376ca9dde1274475\n\n", "user_reports": [], "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Schedule planner tweaking", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": 140, "top_awarded_type": null, "hide_score": false, "media_metadata": {"b6h6m6w5jbtg1": {"status": "valid", "e": "Image", "m": "image/png", "p": [{"y": 129, "x": 108, "u": "https://preview.redd.it/b6h6m6w5jbtg1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d2a4711a7a03812e63c16cb2acd9de2fb0a4ab70"}, {"y": 258, "x": 216, "u": "https://preview.redd.it/b6h6m6w5jbtg1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=f0657ac8c9f51521a7d2de34709cb5b70e051668"}, {"y": 383, "x": 320, "u": "https://preview.redd.it/b6h6m6w5jbtg1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6db6faeef9988263d5728da7ba16e94cee660471"}, {"y": 766, "x": 640, "u": "https://preview.redd.it/b6h6m6w5jbtg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=15fcfa7ba5a76588f618031fce0e29a384dc90d0"}, {"y": 1149, "x": 960, "u": "https://preview.redd.it/b6h6m6w5jbtg1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=1e570e4b81fd3f174b85e5a36e2b87a33393d297"}, {"y": 1293, "x": 1080, "u": "https://preview.redd.it/b6h6m6w5jbtg1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f8c9a95367926a3760d7911771ef188eabadf7dc"}], "s": {"y": 1320, "x": 1102, "u": "https://preview.redd.it/b6h6m6w5jbtg1.png?width=1102&amp;format=png&amp;auto=webp&amp;s=73e4ec2f701b76988947e84e376ca9dde1274475"}, "id": "b6h6m6w5jbtg1"}}, "name": "t3_1scwoib", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": 140, "author_flair_template_id": null, "is_original_content": false, "author_fullname": "t2_gwzxkbo0", "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "https://preview.redd.it/b6h6m6w5jbtg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=da272e7ef7b0d434353164ee2b482414c44c38b0", "author_cakeday": true, "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1775371655.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;is it just me or in my schedule planner for example it shows a class (in this example CS 4141, M 7:00-9:45pm) but then not show in the schedule itself? Like it validates and everything but it doesn&amp;#39;t show in my plan&lt;/p&gt;\n\n&lt;p&gt;For context I&amp;#39;m a CS freshman planning for soph year (I have a lot of credits already, hence the more advanced classes)&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/b6h6m6w5jbtg1.png?width=1102&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=73e4ec2f701b76988947e84e376ca9dde1274475\"&gt;https://preview.redd.it/b6h6m6w5jbtg1.png?width=1102&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=73e4ec2f701b76988947e84e376ca9dde1274475&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1scwoib", "is_robot_indexable": true, "report_reasons": null, "author": "OcelotUnable2385", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1scwoib/schedule_planner_tweaking/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1scwoib/schedule_planner_tweaking/", "subreddit_subscribers": 42010, "created_utc": 1775371655.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "hi- so i need some prof selection help, Ive done my research (scrubbing through rmp, reddit, trends) and have narrowed some options, would like to get some input on\n\nmostly just how the exams are, like how much the class actually helps with preparing for the exams given\n\n  \n3345- software engineering\n\nBarbara Maweu- only one with an rmp, lowk mixed rmps so feeling a bit conflicted\n\nSadi Seker, Soneya Binta Hossain don't have any info on rmp or reddit, would love to hear some insight about their teaching style\n\n\\---\n\n4384 automata\n\nSerdar Erbatur- saw great rmps for this specific class, too bad the class is already waitlisted smh\n\nGopad Gupta- thinking of taking him, saw that his exams are easier than the exams but there isn't too many reviews for this specific class\n\nSimeon Ntafos, Beiyu Lin - hope I dont even have to consider these options\n\n\\---\n\n4337 programming paradigms\n\nGity Karami, Chris Davis, Yi Zhao- in between the three, got mixed reviews with pretty low ratings idk who to take, would also like to hear some insight about them\n\nElmer Salazar- saw some bad revs..\n\n\\---\n\n4348 OS concepts\n\nSridhar Alagar- thinking of taking, solid reviews\n\nNeeraj Gupta- all her 4348 revs are 1.0 lol\n\nElmer Salazar- saw some bad revs\n\nWafa Jaffal- comp arch was low key torture w/ her I dont want to experience that again\n\n  \nIm also taking 4389 with Ebru Cankaya, its the only prof offering the class, if anyone has taken it it would be nice to know what im getting into\n\n  \n", "author_fullname": "t2_1eia91glm9", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "cs classes- 43xx edition", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1sei0rt", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1775525302.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;hi- so i need some prof selection help, Ive done my research (scrubbing through rmp, reddit, trends) and have narrowed some options, would like to get some input on&lt;/p&gt;\n\n&lt;p&gt;mostly just how the exams are, like how much the class actually helps with preparing for the exams given&lt;/p&gt;\n\n&lt;p&gt;3345- software engineering&lt;/p&gt;\n\n&lt;p&gt;Barbara Maweu- only one with an rmp, lowk mixed rmps so feeling a bit conflicted&lt;/p&gt;\n\n&lt;p&gt;Sadi Seker, Soneya Binta Hossain don&amp;#39;t have any info on rmp or reddit, would love to hear some insight about their teaching style&lt;/p&gt;\n\n&lt;p&gt;---&lt;/p&gt;\n\n&lt;p&gt;4384 automata&lt;/p&gt;\n\n&lt;p&gt;Serdar Erbatur- saw great rmps for this specific class, too bad the class is already waitlisted smh&lt;/p&gt;\n\n&lt;p&gt;Gopad Gupta- thinking of taking him, saw that his exams are easier than the exams but there isn&amp;#39;t too many reviews for this specific class&lt;/p&gt;\n\n&lt;p&gt;Simeon Ntafos, Beiyu Lin - hope I dont even have to consider these options&lt;/p&gt;\n\n&lt;p&gt;---&lt;/p&gt;\n\n&lt;p&gt;4337 programming paradigms&lt;/p&gt;\n\n&lt;p&gt;Gity Karami, Chris Davis, Yi Zhao- in between the three, got mixed reviews with pretty low ratings idk who to take, would also like to hear some insight about them&lt;/p&gt;\n\n&lt;p&gt;Elmer Salazar- saw some bad revs..&lt;/p&gt;\n\n&lt;p&gt;---&lt;/p&gt;\n\n&lt;p&gt;4348 OS concepts&lt;/p&gt;\n\n&lt;p&gt;Sridhar Alagar- thinking of taking, solid reviews&lt;/p&gt;\n\n&lt;p&gt;Neeraj Gupta- all her 4348 revs are 1.0 lol&lt;/p&gt;\n\n&lt;p&gt;Elmer Salazar- saw some bad revs&lt;/p&gt;\n\n&lt;p&gt;Wafa Jaffal- comp arch was low key torture w/ her I dont want to experience that again&lt;/p&gt;\n\n&lt;p&gt;Im also taking 4389 with Ebru Cankaya, its the only prof offering the class, if anyone has taken it it would be nice to know what im getting into&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1sei0rt", "is_robot_indexable": true, "report_reasons": null, "author": "scared4mylyfes", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1sei0rt/cs_classes_43xx_edition/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1sei0rt/cs_classes_43xx_edition/", "subreddit_subscribers": 42010, "created_utc": 1775525302.0, "num_crossposts": 0, "media": null, "is_video": false}}], "before": null}}
 ---
-
-Reddit's public JSON endpoints currently return HTTP 403 for unauthenticated
-requests (including the search endpoint and subreddit listing endpoints).
-Reddit started blocking anonymous JSON access in mid-2023 and the restriction
-remains in effect. Without OAuth credentials the script cannot fetch threads.
 
 Manual collection steps for CS 4337:
   1. In a browser, open https://www.reddit.com/r/utdallas/search/?q=CS+4337&restrict_sr=1
-  2. Open the top 8-12 threads (sort by relevance, then by top of all time).
-  3. For each thread, copy:
-       - The post title and body text.
-       - The top 10-20 comments (skip 'deleted' and joke replies).
-  4. Paste below the --- divider, one thread per block. Format suggestion:
-       === THREAD N: <title> ===
-       url: <permalink>
-       <selftext>
-       COMMENTS:
-       - [author] <comment>
+  
+#
+Go to utdallas
+r/utdallas
+•
+1y ago
+Sea_Appeal4211
 
-Alternative: register a script-type app at https://www.reddit.com/prefs/apps,
-get a client_id + client_secret, then update this script to use the OAuth
-flow (POST https://www.reddit.com/api/v1/access_token then use the bearer
-token on oauth.reddit.com URLs). That would unlock automated re-fetches.
+CS 4337 Professor
+Question: Academics
+Which professor should I go with for Programming language paradigms?
+
+Chris Davis Gity Karami Jalal Omer Salazaar
+
+
+Upvote
+2
+
+Downvote
+
+4
+Go to comments
+
+
+Share
+
+
+
+#
+Go to utdallas
+r/utdallas
+•
+5y ago
+fluteofpurple
+
+What changes have been made to CS 4337?
+Question: Academics
+What changes have been made to CS 4337 other than the title of the class? Any reason why?
+
+
+Upvote
+3
+
+Downvote
+
+4
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/cs-hooper avatar
+cs-hooper
+•
+5y ago
+•
+Edited 5y ago
+Hey man,
+
+Great question! As far as I am aware the only change done is the title.
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+UTDAnt
+•
+5y ago
+Alumnus
+Heard they just added another chapter and made it a bit harder since it was too easy.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/fluteofpurple avatar
+fluteofpurple
+OP
+•
+5y ago
+Oh, when did they make this change and what chapter did they add?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+UTDAnt
+•
+5y ago
+Alumnus
+Forgot what they said was added but this was changed a year ago… after Fall 2019 I think.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+
+#
+
+Go to utdallas
+r/utdallas
+•
+6y ago
+patsfan-4-life
+
+Advice for Prof. selection for CS 4337
+The options do not seem too good for CS 4337. I see Karami as the only decent option to pick. Is it just worth to pick Karami and see how it goes, or possibly wait for Spring semester for the class? I do see how in the Spring semester there are a lot more professor options such as Fang Li, Serdar Erbatur, Richard Min, and Ebenezer Oladimeji. Are any of these professors better or good? RMP has really some negative reviews for Karami but UTDGrades shows preety good grade distribution, so I am unsure. Is this one of those classes in the degree where we should try to get as best teaching possible because of how important it can be later on like CS 3345?
+
+
+Upvote
+2
+
+Downvote
+
+3
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+ta-wind
+•
+6y ago
+Alumnus
+Personally, I don’t feel like CS 4337 helped me a ton with any other class other than introducing me to Lisp and Prolog, both of which I’m using now in Artificial Intelligence, but I basically had to relearn anyway. There were some concepts like grammars and parsers that are taught/used in other classes, but I don’t feel that 4337 was particularly important, I guess. I took it with Karami a year ago, and found the class to be very doable. She’s a nice professor, her exams were open notes (her slides and the textbook, not your own notes) and not too difficult. There were a few homework assignments but not many. The only other professor out of the ones you listed that I’ve taken for anything is Richard Min—I currently have him for AI. It’s possible that if you are interested in taking AI with him later, it might be nice to take 4337 with him, but I don’t know for sure if the content he covers is similar to Karami’s. In my experience, Dr. Min gives a lot of busy work in the classes he teaches, weekly activities online and big homework assignments. Although I don’t dislike taking AI with him, I don’t think I would’ve taken 4337 with him. I know Chris Davis teaches 4337 as well, I took him for discrete math 2 and personally did not like the way he lectured, it seemed easy for him to go off track and that made it harder to focus on what we were learning. The other professors, I have no experience with.
+
+TLDR: Personally I would recommend Karami for CS 4337.
+
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/jcr678 avatar
+jcr678
+Cake icon
+•
+6y ago
+karamis good
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+
+#
+
+Go to utdallas
+r/utdallas
+•
+3y ago
+[deleted]
+
+Help picking Professors
+Question: Academics
+Hey y'all, I wanted some advice for picking professors for my classes for next semester. Even with UTD grades and RMP, it's hard to decide, so i'd really like some input on the following classes:
+
+CS 3377, CS 4347, STAT 3355, CS 4341, CS 4337
+
+I'm kind of limited on choices because of my job at a bakery, and a lot of classes have conflicting times.
+
+Any and all advice is appreciated, and thanks in advance.
+
+
+Upvote
+4
+
+Downvote
+
+4
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/ironmatic1 avatar
+ironmatic1
+•
+3y ago
+Comets Temoc 1969 Chess
+I really loved Professor Temoc’s class
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Complex_Adagio9335 avatar
+Complex_Adagio9335
+•
+3y ago
+I really only have strong feelings about my pick for CS 4341, but I'll share all of my experiences:
+
+CS 4341 - I highly, HIGHLY recommend Omar Hamdy. His lectures are of incredibly high quality, and his exams are on the high easy/low medium side. Most of the negative RMP reviews quite honestly have no idea what they're talking about. The main downside of his class is that if you miss a lecture, you'll get lost real fast
+
+CS 3377 - You can pick Richard Min if you want to learn nothing but get a decently easy grade. However, he gives tons of (useless) homework so be aware of that.
+
+CS 4347 - I took Nidhiben Solanki and she was alright - HW and project were reasonable. Tests for her were actually rather difficult though. Lectures can put you to sleep as they're pretty dry
+
+CS 4337 - I took Elmer Salazar and he was ok. Not good, not bad. Honestly I don't have much to say about his class. Literally everything was a 5/10 in both difficulty and quality. Maybe the exams were more like a 7-8/10 in difficulty though
+
+STAT 3355 - Did not take
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+OP
+•
+3y ago
+
+Comment Image
+This is what I have right now. I'm trying to keep my Friday completely free, to allow for studying and stuff. I'm still figuring out when I'd want to do my lab, but other than that, this is what I've got. I have a relatively early appointment, so I'm hoping I'd be able to register for these classes.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Dangerous_Hedgehog61
+•
+3y ago
+If you want to pass any class just take It with ziauallah khan or farage
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+# 
+
+Go to utdallas
+r/utdallas
+•
+2y ago
+Otherwise-Time5624
+Computer Science
+
+Syllabus for Chris Davis CS 4337
+Question: Academics
+I'm trying to find a syllabus for Chris Davis for CS 4337 the only one I found online was from 2015 which I'm not sure if he's changed or not. If anyone has taken him recently, what textbook did you use? Does he curve? Is attendance mandatory? How hard are the exams and if you have a syllabus from him please send!
+
+
+Upvote
+3
+
+Downvote
+
+5
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/throwawayaccount8224 avatar
+throwawayaccount8224
+•
+2y ago
+Computer Science
+bruh don't take him. easy af content but he makes the class miserable, just read rmp. yes curve, yes mandatory, exams are moderate difficult.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+astronomical-tomato
+•
+2y ago
+don’t take him he’s one of the worst most disorganized professors
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+GhastguyRED
+•
+2y ago
+
+Long-Atmosphere993
+•
+2y ago
+Alumnus
+
+
+###  
+
+Go to utdallas
+r/utdallas
+•
+5y ago
+[deleted]
+
+Karami or Davis CS 4337
+Question: Academics
+I don't know a whole lot about Davis other than the fact he curves
+
+Karami has really hard assignments but easy tests?
+
+Should I just wait for the Summer and maybe take the course online?
+
+
+Upvote
+4
+
+Downvote
+
+4
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+
+[deleted]
+•
+5y ago
+[deleted]
+•
+5y ago
+Either one is fine tbh. I'm taking Karami right now and the class isn't terrible. She throws you into the deep end on the assignments but will help you if you ask questions. She also gives quite a while for you to do them. We're on Prolog right now and she's taught jack shit. We are kind of just figuring it out on our own.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+pekkalacd
+•
+5y ago
+Davis 100%.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/EntityV1 avatar
+EntityV1
+•
+3y ago
+can you tell me why?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+4mo ago
+Insight614
+
+CS 4337 Salazar Slytherin Curve?
+Question: Academics
+Does Salazar curve for CS 4337 exams? I’ve seen his RMP reviews and some people are saying he doesn’t curve. Plus I want to know how he teaches and how hard the class is and if I should switch to Giti Karami.
+
+
+Upvote
+4
+
+Downvote
+
+8
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+CertifiedMacUser
+•
+4mo ago
+No, he didnt last semster
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Insight614
+OP
+•
+4mo ago
+Ah rip. How was his class tho?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+CertifiedMacUser
+•
+4mo ago
+dumb hard, i had to attend every class, and take diligent notes. I ended with a B+. Pay attention and take good notes. The final and midterm had averages around 70
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Insight614
+OP
+•
+4mo ago
+😭…is Karami any better? I still have time till end of today to switch
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Particular_Pair_318 avatar
+Particular_Pair_318
+•
+4mo ago
+i have nothing to contribute but his name is really Salazar Slytherin? dang
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Insight614
+OP
+•
+4mo ago
+No lol his last name is Salazar tho
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+Aggravating_Low_2891
+•
+4mo ago
+
+
+
+r/utdallas
+Search in ⁨r/utdallas⁩
+Advertise on Reddit
+
+Open chat
+Create
+Create post
+Open inbox
+
+User Avatar
+Expand user menu
+Skip to NavigationSkip to Right Sidebar
+
+Back
+
+Go to utdallas
+r/utdallas
+•
+2y ago
+Ben_D1808
+
+CS 4337 Chris Davis
+Question: Academics
+Hi, anybody took this class before? How hard is the exam? 😭 was it multiple choice or FRQ? study the homework is enough or we need to study slides too
+
+Thank you for helping me!
+
+
+Upvote
+3
+
+Downvote
+
+1
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/Wooden-Grocery9010 avatar
+Wooden-Grocery9010
+•
+2y ago
+study slides! especially the review on slides
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+7y ago
+[deleted]
+
+CS 4337 Exam with Chris Davis
+The exam's on Wednesday and don't know what to expect. The homeworks were easy and programming assignments were doable so don't really know how difficult Davis is. I've been following the study guide but is that sufficient? Any tips and pieces of advice will be highly appreciated!
+
+
+Upvote
+7
+
+Downvote
+
+2
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Old (Default)
+Comments Section
+
+[deleted]
+•
+7y ago
+u/xxc3ncoredxx avatar
+xxc3ncoredxx
+•
+7y ago
+Computer Science
+I had him last year and the exams were no harder than the homework. If you understand what he's been going over you will do just fine.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+

@@ -1,14 +1,7 @@
 # Source: r/utdallas search 'CS 3354'
 # URL: https://www.reddit.com/r/utdallas/search.json?q=CS+3354&restrict_sr=1&sort=relevance&t=all&limit=25
-# Fetched: 2026-06-09 18:51:56
-# Note: PLACEHOLDER - reddit returned 403 to anonymous JSON. Needs manual paste-in.
-# Status: placeholder
+# Fetched: {"kind": "Listing", "data": {"modhash": "ugvo82p5o732f9f1c0430d179b783fa3580477510b1c81e7a4", "dist": 25, "facets": {}, "after": "t3_o604cl", "geo_filter": "", "children": [{"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "How is CS 3377 in terms of difficulty? I know its summer so its speed is ramped up is it doable?", "author_fullname": "t2_9duvl9mf", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Taking CS 3377 (Systems Programming) and CS 3354 (Software engineering) Over summer", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1tck0sm", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1778723652.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;How is CS 3377 in terms of difficulty? I know its summer so its speed is ramped up is it doable?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1tck0sm", "is_robot_indexable": true, "report_reasons": null, "author": "History-Numerous", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1tck0sm/taking_cs_3377_systems_programming_and_cs_3354/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1tck0sm/taking_cs_3377_systems_programming_and_cs_3354/", "subreddit_subscribers": 42010, "created_utc": 1778723652.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Is CS 3354 (Software Engineering) curved? I have Priya Narayanasami.\n\nThanks :)", "author_fullname": "t2_28adolihd9", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3354 (Software Engineering) Curve Question", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1sv1rds", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": 1777090638.0, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1777090143.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Is CS 3354 (Software Engineering) curved? I have Priya Narayanasami.&lt;/p&gt;\n\n&lt;p&gt;Thanks :)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1sv1rds", "is_robot_indexable": true, "report_reasons": null, "author": "sarahgracebennett", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1sv1rds/cs_3354_software_engineering_curve_question/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1sv1rds/cs_3354_software_engineering_curve_question/", "subreddit_subscribers": 42010, "created_utc": 1777090143.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "There is Barbara Maweu, who has a lot of info, Sadi Seker, who has a wikipedia page and is very accomplished and has patents but still has very little info about teaching and no ratings on RMP. Searched up videos of him and all of them are in Turkish. Another one is Soneya Binta Hossain who seems young and very new but has no ratings on RMP either although overall averages on Nebula show a B+ which is around the average for a lot of other professors. If anyone is taking this class in fall, who are you taking and who do you think would be a good choice?", "author_fullname": "t2_1dbivr8x77", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Professor for CE/CS/SE 3354 in Fall 2026?", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1sfatqh", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 0.84, "author_flair_background_color": null, "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1775600864.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;There is Barbara Maweu, who has a lot of info, Sadi Seker, who has a wikipedia page and is very accomplished and has patents but still has very little info about teaching and no ratings on RMP. Searched up videos of him and all of them are in Turkish. Another one is Soneya Binta Hossain who seems young and very new but has no ratings on RMP either although overall averages on Nebula show a B+ which is around the average for a lot of other professors. If anyone is taking this class in fall, who are you taking and who do you think would be a good choice?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "1sfatqh", "is_robot_indexable": true, "report_reasons": null, "author": "Wonderful-Voice5192", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1sfatqh/professor_for_cecsse_3354_in_fall_2026/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1sfatqh/professor_for_cecsse_3354_in_fall_2026/", "subreddit_subscribers": 42010, "created_utc": 1775600864.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "For 3354 who should I take, Sadi Evren Seker or Barbara Mukami Maweu? There doesn\u2019t seem to be much information about the former.\n\nAlso is Ebru Celikel Cankaya a good CS 4341 professor? They\u2019re the only one who seems to fit into my schedule.", "author_fullname": "t2_o4bedgqv", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3354 and 4341 professors", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1saw3su", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 10, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 10, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1775169513.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For 3354 who should I take, Sadi Evren Seker or Barbara Mukami Maweu? There doesn\u2019t seem to be much information about the former.&lt;/p&gt;\n\n&lt;p&gt;Also is Ebru Celikel Cankaya a good CS 4341 professor? They\u2019re the only one who seems to fit into my schedule.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1saw3su", "is_robot_indexable": true, "report_reasons": null, "author": "Spare_Watch_3248", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1saw3su/cs_3354_and_4341_professors/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1saw3su/cs_3354_and_4341_professors/", "subreddit_subscribers": 42010, "created_utc": 1775169513.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "So I was supposed to take CS 3354 (software engineering) this fall, but looks like there was an error or something when I registered and validated my schedule for the fall and it didn\u2019t register/enroll me in it. Now all the classes are full and there\u2019s not even any waitlists. I am thinking about taking it for the 2nd 5-week summer instead so I can still be on track, is this doable? How hard is this class? Will I be screwed if I do this? If you\u2019re taking this class currently, how is it? Somebody pls lmk!! ", "author_fullname": "t2_50z3asms", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3354 in summer 5-week?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1leuzqd", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.8, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1750286809.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;So I was supposed to take CS 3354 (software engineering) this fall, but looks like there was an error or something when I registered and validated my schedule for the fall and it didn\u2019t register/enroll me in it. Now all the classes are full and there\u2019s not even any waitlists. I am thinking about taking it for the 2nd 5-week summer instead so I can still be on track, is this doable? How hard is this class? Will I be screwed if I do this? If you\u2019re taking this class currently, how is it? Somebody pls lmk!! &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1leuzqd", "is_robot_indexable": true, "report_reasons": null, "author": "imomw", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1leuzqd/cs_3354_in_summer_5week/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1leuzqd/cs_3354_in_summer_5week/", "subreddit_subscribers": 42010, "created_utc": 1750286809.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I just wanted to know do you **HAVE** to read the textbook for this class, or can you survive off the lectures in class. ", "author_fullname": "t2_95fs4t2r", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3354 Priya Narayanasami", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1i7nvrg", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1737584793.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I just wanted to know do you &lt;strong&gt;HAVE&lt;/strong&gt; to read the textbook for this class, or can you survive off the lectures in class. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1i7nvrg", "is_robot_indexable": true, "report_reasons": null, "author": "Ok-Paint1525", "discussion_type": null, "num_comments": 9, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1i7nvrg/cs_3354_priya_narayanasami/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1i7nvrg/cs_3354_priya_narayanasami/", "subreddit_subscribers": 42010, "created_utc": 1737584793.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Does he still have no exams? His last relevant reviews were from fall 2021. People are saying his communication is bad, but has he changed since then?", "author_fullname": "t2_en23jg0g", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Tien Nguyen for CS 3354", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1jox89h", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.8, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1743518394.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Does he still have no exams? His last relevant reviews were from fall 2021. People are saying his communication is bad, but has he changed since then?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1jox89h", "is_robot_indexable": true, "report_reasons": null, "author": "DenseCup6742", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1jox89h/tien_nguyen_for_cs_3354/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1jox89h/tien_nguyen_for_cs_3354/", "subreddit_subscribers": 42010, "created_utc": 1743518394.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "How much work does this class demand? What kinda work do we do? And most importantly, how much time does this class require?", "author_fullname": "t2_tba2eg19r", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "What is CS 3354 like?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1ha24ty", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1733720159.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;How much work does this class demand? What kinda work do we do? And most importantly, how much time does this class require?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1ha24ty", "is_robot_indexable": true, "report_reasons": null, "author": "Adorable-Luck-7153", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1ha24ty/what_is_cs_3354_like/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1ha24ty/what_is_cs_3354_like/", "subreddit_subscribers": 42010, "created_utc": 1733720159.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I heard abt 2 good profs that don't do projects but seem to be only available for fall. So trying to see the best out of the ones available for spring and get yalls input.\n\n.Tien Nhut Nguyen\n.Ranran Feng\n.Priya Narayanasami\n.Mehran Nouroz Borazjany ", "author_fullname": "t2_em6ontwu", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Easiest prof for CS 3354 in spring", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1glw9qs", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 0.83, "author_flair_background_color": null, "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1731001385.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I heard abt 2 good profs that don&amp;#39;t do projects but seem to be only available for fall. So trying to see the best out of the ones available for spring and get yalls input.&lt;/p&gt;\n\n&lt;p&gt;.Tien Nhut Nguyen\n.Ranran Feng\n.Priya Narayanasami\n.Mehran Nouroz Borazjany &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "1glw9qs", "is_robot_indexable": true, "report_reasons": null, "author": "CandidateTime1244", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1glw9qs/easiest_prof_for_cs_3354_in_spring/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1glw9qs/easiest_prof_for_cs_3354_in_spring/", "subreddit_subscribers": 42010, "created_utc": 1731001385.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hi, I\u2019m about to register class CS 3354 for fall 2024 but it won\u2019t let me register since it requires ECS 3390, but I already registered ECS 3390 this summer. Is possible if I ask advisor help me register for CS 3354? I really wanna take that class bc the prof looks good on rmp. I worry that if I register it late it will be full. ", "author_fullname": "t2_4n88nnk2i", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3354 Fall 2024", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1cup9h6", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1716007082.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi, I\u2019m about to register class CS 3354 for fall 2024 but it won\u2019t let me register since it requires ECS 3390, but I already registered ECS 3390 this summer. Is possible if I ask advisor help me register for CS 3354? I really wanna take that class bc the prof looks good on rmp. I worry that if I register it late it will be full. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "1cup9h6", "is_robot_indexable": true, "report_reasons": null, "author": "Ben_D1808", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1cup9h6/cs_3354_fall_2024/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1cup9h6/cs_3354_fall_2024/", "subreddit_subscribers": 42010, "created_utc": 1716007082.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Not sure about Rym but have had Srimathi before and did pretty good. I heard that she is a good professor though. Has anyone taken this class before? Please share your experience.   \nAlso picking between Bingzhe Li and Omar Hamdy for CS 4341. Let me know if anyone has any suggestions. Thank you in advance. ", "author_fullname": "t2_6e5yk6d2", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3354 With Srimathi Srinivasan or Rym Zalila-Wenkstern for Spring 2024", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_18i0j3d", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1702528605.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Not sure about Rym but have had Srimathi before and did pretty good. I heard that she is a good professor though. Has anyone taken this class before? Please share your experience.&lt;br/&gt;\nAlso picking between Bingzhe Li and Omar Hamdy for CS 4341. Let me know if anyone has any suggestions. Thank you in advance. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "18i0j3d", "is_robot_indexable": true, "report_reasons": null, "author": "SbCahill3917", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/18i0j3d/cs_3354_with_srimathi_srinivasan_or_rym/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/18i0j3d/cs_3354_with_srimathi_srinivasan_or_rym/", "subreddit_subscribers": 42010, "created_utc": 1702528605.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "im picking the last class ill be taking for the fall semester and want to know which of the above is the easiest grade", "author_fullname": "t2_dyh2067b", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345(algorithms and data structures), CS 3377(c++ in unix env), or CS 3354(software engineering)", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_12jit60", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1681298268.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;im picking the last class ill be taking for the fall semester and want to know which of the above is the easiest grade&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "12jit60", "is_robot_indexable": true, "report_reasons": null, "author": "user42177", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/12jit60/cs_3345algorithms_and_data_structures_cs_3377c_in/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/12jit60/cs_3345algorithms_and_data_structures_cs_3377c_in/", "subreddit_subscribers": 42010, "created_utc": 1681298268.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I am a rising senior and have 2 classes left in my CS minor (listed above). When I try to enroll in these classes, I get a restriction saying that one of the requirements is that you have to be an ENCS major. I had talked to my advisor and she said that this requirement was supposed to be lifted on July 3rd but it still exists. Does anyone know when this requirement gets lifted?", "author_fullname": "t2_imtzcpz9", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "When do ECS classes, ECS 3390 and CS 3354, open for non-ECS majors?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_14zzcl3", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.8, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1689387577.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I am a rising senior and have 2 classes left in my CS minor (listed above). When I try to enroll in these classes, I get a restriction saying that one of the requirements is that you have to be an ENCS major. I had talked to my advisor and she said that this requirement was supposed to be lifted on July 3rd but it still exists. Does anyone know when this requirement gets lifted?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": null, "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "14zzcl3", "is_robot_indexable": true, "report_reasons": null, "author": "sawmill2694", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/14zzcl3/when_do_ecs_classes_ecs_3390_and_cs_3354_open_for/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/14zzcl3/when_do_ecs_classes_ecs_3390_and_cs_3354_open_for/", "subreddit_subscribers": 42010, "created_utc": 1689387577.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hey y'all,\n\nHas anyone taken this prod for CS 3354 or has taken any of her classes? IDK what to expect from this class. How difficult was CS 3354 to y'all? Thanks :)", "author_fullname": "t2_78r4j9j4", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Priya Narayanasami for CS 3354", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_s2i21h", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.67, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1642024414.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey y&amp;#39;all,&lt;/p&gt;\n\n&lt;p&gt;Has anyone taken this prod for CS 3354 or has taken any of her classes? IDK what to expect from this class. How difficult was CS 3354 to y&amp;#39;all? Thanks :)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "s2i21h", "is_robot_indexable": true, "report_reasons": null, "author": "slow_Scroll", "discussion_type": null, "num_comments": 12, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/s2i21h/priya_narayanasami_for_cs_3354/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/s2i21h/priya_narayanasami_for_cs_3354/", "subreddit_subscribers": 42010, "created_utc": 1642024414.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I need recommendations from these professors pls. Their reviews look good overall and I want to make this semester as easy as I can because I'll have a lot going on outside of school \n\nCS 3345 Greg Ozbirn or Omar Hamdy\n\nCS 3354 Erik Peterson(8 am class) or Ebru Celik\n\nCS 3377 Peterson or Veerasamy. I'm considering Dolinger too depending on what other classes I'll take(considering CS3305 and Epics). Is this class helpful when getting ready for interviews? If it is Dolinger may not be a good option\n\nAppreciate any insight into how these professors teach and their course workload! Also how much coding does each of these courses have? I've heard many people don't prefer to take Unix and Software Engineering in the same semester, which professors might help me make the semester a little easier?", "author_fullname": "t2_8tiny1yx", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS Prof Recommendations - CS 3354 Peterson or Ebru Celik", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_ypg6v5", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.84, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "86596598-908e-11e3-9c45-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": 1667898728.0, "author_flair_css_class": "ECS", "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1667897830.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I need recommendations from these professors pls. Their reviews look good overall and I want to make this semester as easy as I can because I&amp;#39;ll have a lot going on outside of school &lt;/p&gt;\n\n&lt;p&gt;CS 3345 Greg Ozbirn or Omar Hamdy&lt;/p&gt;\n\n&lt;p&gt;CS 3354 Erik Peterson(8 am class) or Ebru Celik&lt;/p&gt;\n\n&lt;p&gt;CS 3377 Peterson or Veerasamy. I&amp;#39;m considering Dolinger too depending on what other classes I&amp;#39;ll take(considering CS3305 and Epics). Is this class helpful when getting ready for interviews? If it is Dolinger may not be a good option&lt;/p&gt;\n\n&lt;p&gt;Appreciate any insight into how these professors teach and their course workload! Also how much coding does each of these courses have? I&amp;#39;ve heard many people don&amp;#39;t prefer to take Unix and Software Engineering in the same semester, which professors might help me make the semester a little easier?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "ypg6v5", "is_robot_indexable": true, "report_reasons": null, "author": "No-Connection98", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/ypg6v5/cs_prof_recommendations_cs_3354_peterson_or_ebru/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/ypg6v5/cs_prof_recommendations_cs_3354_peterson_or_ebru/", "subreddit_subscribers": 42010, "created_utc": 1667897830.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Need some recommendations^ idk whom to choose cause the reviews are kinda mixed.\nP.S Bastani and Ozbirn is also teaching 3354 would any of them be better for 3354?", "author_fullname": "t2_bfby3a32", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3354 Erik Peterson or Michael Christiansen?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_qnq219", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "86596598-908e-11e3-9c45-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": 1636163587.0, "author_flair_css_class": "ECS", "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1636163281.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Need some recommendations^ idk whom to choose cause the reviews are kinda mixed.\nP.S Bastani and Ozbirn is also teaching 3354 would any of them be better for 3354?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "qnq219", "is_robot_indexable": true, "report_reasons": null, "author": "Labzx7", "discussion_type": null, "num_comments": 9, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/qnq219/cs_3354_erik_peterson_or_michael_christiansen/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/qnq219/cs_3354_erik_peterson_or_michael_christiansen/", "subreddit_subscribers": 42010, "created_utc": 1636163281.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hi, Can anyone whose have taken above courses provide the course books\u2019 names? While I have some free time, I want to read them ahead. Thank you!", "author_fullname": "t2_2iqfo2n3", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Asking for required books for CS3377, CS 3354, CS 4377, CS 4341", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_vc6n7w", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 0.83, "author_flair_background_color": null, "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1655222117.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi, Can anyone whose have taken above courses provide the course books\u2019 names? While I have some free time, I want to read them ahead. Thank you!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "vc6n7w", "is_robot_indexable": true, "report_reasons": null, "author": "mayhh1", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/vc6n7w/asking_for_required_books_for_cs3377_cs_3354_cs/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/vc6n7w/asking_for_required_books_for_cs3377_cs_3354_cs/", "subreddit_subscribers": 42010, "created_utc": 1655222117.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Is Christiansen a good/easy professor for CS 3354?", "author_fullname": "t2_9xvmlqkf", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3354 Micheal Christiansen", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_tzhj85", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 5, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 5, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1649464772.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Is Christiansen a good/easy professor for CS 3354?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "tzhj85", "is_robot_indexable": true, "report_reasons": null, "author": "Gold_Yogurt_1948", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/tzhj85/cs_3354_micheal_christiansen/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/tzhj85/cs_3354_micheal_christiansen/", "subreddit_subscribers": 42010, "created_utc": 1649464772.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hello, \n\nWho are the easiest profs for the above courses? Was thinking of Paulk for 3354. Also, for 3377 I will most likely be stuck with Alagar, Satpute, and Min as my options. Is Satpute the best of those 3?\n\nWondering if anyone knows anything about Hernandez-Katz for ECS 3390.\n\nThanks.", "author_fullname": "t2_9jgm5ao9", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Easiest professors for CS 3377, CS 3354, ECS 3390", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_ty12ep", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.4, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 0, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "86596598-908e-11e3-9c45-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 0, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": "ECS", "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1649293261.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello, &lt;/p&gt;\n\n&lt;p&gt;Who are the easiest profs for the above courses? Was thinking of Paulk for 3354. Also, for 3377 I will most likely be stuck with Alagar, Satpute, and Min as my options. Is Satpute the best of those 3?&lt;/p&gt;\n\n&lt;p&gt;Wondering if anyone knows anything about Hernandez-Katz for ECS 3390.&lt;/p&gt;\n\n&lt;p&gt;Thanks.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "ty12ep", "is_robot_indexable": true, "report_reasons": null, "author": "Helpful-Sea-8663", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/ty12ep/easiest_professors_for_cs_3377_cs_3354_ecs_3390/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/ty12ep/easiest_professors_for_cs_3377_cs_3354_ecs_3390/", "subreddit_subscribers": 42010, "created_utc": 1649293261.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I have been taking CS 3354 with Professor Paulk. Anyone who had taken this class with prof. Paulk before and what do you recommend to succeed in this class?", "author_fullname": "t2_a1fd62h5", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3354(Software Engineering)", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_shldqp", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 6, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 6, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1643687774.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I have been taking CS 3354 with Professor Paulk. Anyone who had taken this class with prof. Paulk before and what do you recommend to succeed in this class?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "shldqp", "is_robot_indexable": true, "report_reasons": null, "author": "Standard-Sport9274", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/shldqp/cs_3354software_engineering/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/shldqp/cs_3354software_engineering/", "subreddit_subscribers": 42010, "created_utc": 1643687774.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "So I  just noticed that the professor for my SE 3354 course changed to staff, then I recheck again and saw a brand new name. As any other student, I proceed to ratemyprofessor the new professor but there was no info, so I assume the professor should be relatively new(just get their PhD maybe?). So if anyone has any information about her is awesome!", "author_fullname": "t2_13ewe0", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Sudarshan Murthy for SE 3354 (or CS 3354)", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_keg5si", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.67, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1608147468.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;So I  just noticed that the professor for my SE 3354 course changed to staff, then I recheck again and saw a brand new name. As any other student, I proceed to ratemyprofessor the new professor but there was no info, so I assume the professor should be relatively new(just get their PhD maybe?). So if anyone has any information about her is awesome!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "keg5si", "is_robot_indexable": true, "report_reasons": null, "author": "karidken12", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/keg5si/sudarshan_murthy_for_se_3354_or_cs_3354/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/keg5si/sudarshan_murthy_for_se_3354_or_cs_3354/", "subreddit_subscribers": 42010, "created_utc": 1608147468.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "How intensive was this class? Anybody have experience with the class as it transitioned virtually? I\u2019m a bit worried about the semester long project and the workload from it. Any tips or advice would be great from you guys.", "author_fullname": "t2_3snvlvb2", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "How was CS 3354 with Dr. Ebru?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_i9pwhm", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1597424924.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;How intensive was this class? Anybody have experience with the class as it transitioned virtually? I\u2019m a bit worried about the semester long project and the workload from it. Any tips or advice would be great from you guys.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "i9pwhm", "is_robot_indexable": true, "report_reasons": null, "author": "fluteofpurple", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/i9pwhm/how_was_cs_3354_with_dr_ebru/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/i9pwhm/how_was_cs_3354_with_dr_ebru/", "subreddit_subscribers": 42010, "created_utc": 1597424924.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I\u2019ve registered for 3345 with Greg Ozbirn and 3354 with wenkstern for summer 2021. I\u2019ve heard that Ozbirn is good professor but I don\u2019t know about wenkstern. Has anyone took class with wenkstern? When I see on rating it\u2019s not good. Has anyone took this class before? Please share your experience. Thank you so much your suggestions in advance.", "author_fullname": "t2_bca34aei", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3354 with Rym zalila wenkstern for summer 2021", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_mvq9me", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1619041537.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I\u2019ve registered for 3345 with Greg Ozbirn and 3354 with wenkstern for summer 2021. I\u2019ve heard that Ozbirn is good professor but I don\u2019t know about wenkstern. Has anyone took class with wenkstern? When I see on rating it\u2019s not good. Has anyone took this class before? Please share your experience. Thank you so much your suggestions in advance.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "mvq9me", "is_robot_indexable": true, "report_reasons": null, "author": "Captain-Jaded", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/mvq9me/cs_3354_with_rym_zalila_wenkstern_for_summer_2021/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/mvq9me/cs_3354_with_rym_zalila_wenkstern_for_summer_2021/", "subreddit_subscribers": 42010, "created_utc": 1619041537.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "How is this professor for this class. I could not find much about him in this subreddit. I believe a group project is done throughout the semester, and how is his grading and teaching?", "author_fullname": "t2_647z76ad", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Shiyi Wei for CS 3354?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_fv2zsp", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1586040434.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;How is this professor for this class. I could not find much about him in this subreddit. I believe a group project is done throughout the semester, and how is his grading and teaching?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "fv2zsp", "is_robot_indexable": true, "report_reasons": null, "author": "t_h_e_truth", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/fv2zsp/shiyi_wei_for_cs_3354/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/fv2zsp/shiyi_wei_for_cs_3354/", "subreddit_subscribers": 42010, "created_utc": 1586040434.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Has anyone recently taken Software Engineering with professor Tien Nguyen. What is the weightage of the exams, assignments and projects. Also, what is the difficulty level like?", "author_fullname": "t2_cryzci31", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3354 - Tien Nguyen", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_o604cl", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.86, "author_flair_background_color": null, "subreddit_type": "public", "ups": 5, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 5, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1624404297.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Has anyone recently taken Software Engineering with professor Tien Nguyen. What is the weightage of the exams, assignments and projects. Also, what is the difficulty level like?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "o604cl", "is_robot_indexable": true, "report_reasons": null, "author": "Eastern_Business_423", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/o604cl/cs_3354_tien_nguyen/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/o604cl/cs_3354_tien_nguyen/", "subreddit_subscribers": 42010, "created_utc": 1624404297.0, "num_crossposts": 0, "media": null, "is_video": false}}], "before": null}}
 ---
-
-Reddit's public JSON endpoints currently return HTTP 403 for unauthenticated
-requests (including the search endpoint and subreddit listing endpoints).
-Reddit started blocking anonymous JSON access in mid-2023 and the restriction
-remains in effect. Without OAuth credentials the script cannot fetch threads.
 
 Manual collection steps for CS 3354:
   1. In a browser, open https://www.reddit.com/r/utdallas/search/?q=CS+3354&restrict_sr=1
@@ -16,14 +9,755 @@ Manual collection steps for CS 3354:
   3. For each thread, copy:
        - The post title and body text.
        - The top 10-20 comments (skip 'deleted' and joke replies).
-  4. Paste below the --- divider, one thread per block. Format suggestion:
-       === THREAD N: <title> ===
-       url: <permalink>
-       <selftext>
-       COMMENTS:
-       - [author] <comment>
+  4. Paste below 
 
-Alternative: register a script-type app at https://www.reddit.com/prefs/apps,
-get a client_id + client_secret, then update this script to use the OAuth
-flow (POST https://www.reddit.com/api/v1/access_token then use the bearer
-token on oauth.reddit.com URLs). That would unlock automated re-fetches.
+
+  #1
+  Go to utdallas
+r/utdallas
+•
+2y ago
+Adorable-Luck-7153
+
+What is CS 3354 like?
+Question: Academics
+How much work does this class demand? What kinda work do we do? And most importantly, how much time does this class require?
+
+
+Upvote
+4
+
+Downvote
+
+4
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/Various-Tower1603 avatar
+Various-Tower1603
+•
+2y ago
+Idk
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+•
+2y ago
+Idk
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Immediate_Ad_4960
+•
+2y ago
+Decent amount you make diagrams depending on prof if u have to make full stack website
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Puzzleheaded_Top4651 avatar
+Puzzleheaded_Top4651
+•
+1y ago
+Most classes for this course are project heavy depending on the prof, as far as work goes this course is literally a diagrams class, you will make code documentation, and team presentation. Make sure you get a good group if you can pick. For me it didn’t take too much time to complete deliverables/assignments.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+#2
+
+Go to utdallas
+r/utdallas
+•
+1y ago
+imomw
+
+CS 3354 in summer 5-week?
+Question: Academics
+So I was supposed to take CS 3354 (software engineering) this fall, but looks like there was an error or something when I registered and validated my schedule for the fall and it didn’t register/enroll me in it. Now all the classes are full and there’s not even any waitlists. I am thinking about taking it for the 2nd 5-week summer instead so I can still be on track, is this doable? How hard is this class? Will I be screwed if I do this? If you’re taking this class currently, how is it? Somebody pls lmk!!
+
+
+Upvote
+3
+
+Downvote
+
+4
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+
+Vincent4567
+•
+1y ago
+u/ElevatorOk9280 avatar
+ElevatorOk9280
+•
+1y ago
+When does the second 5 week course start? Has the deadline to register already passed?😭
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+
+#3
+
+Go to utdallas
+r/utdallas
+•
+4y ago
+Standard-Sport9274
+
+CS 3354(Software Engineering)
+Question: Academics
+I have been taking CS 3354 with Professor Paulk. Anyone who had taken this class with prof. Paulk before and what do you recommend to succeed in this class?
+
+
+Upvote
+5
+
+Downvote
+
+3
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/Pristine_Wishbone759 avatar
+Pristine_Wishbone759
+•
+4y ago
+•
+Edited 4y ago
+I had him last semester. The homework are very doable from the slides. In fact, I remember finishing them an hour before class, not the wisest choice though.
+
+His quizzes are literally based off of the slides. They are tricky with the wording.
+
+His tests are literally a longer version of the homework. They are from a pool of questions he has, so some questions might be from quizzes, very rare though.
+
+He does curve at the end but only very minimal. As in, if are half a point from the next letter grade, you'll get it.
+
+I guess I could have done better in his class, but it's a giant snooze. Honesty, this class was just pure memorization, very few calculations/formulas.
+
+I guess he changed his class structure, exam location for one, so take this with a grain of salt.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Standard-Sport9274 avatar
+Standard-Sport9274
+OP
+•
+4y ago
+Thank you !
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Think_Lie648
+•
+4y ago
+Did he make the tests in person now?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+#4
+
+Go to utdallas
+r/utdallas
+•
+27d ago
+History-Numerous
+
+Taking CS 3377 (Systems Programming) and CS 3354 (Software engineering) Over summer
+Question: Academics
+How is CS 3377 in terms of difficulty? I know its summer so its speed is ramped up is it doable?
+
+
+Upvote
+2
+
+Downvote
+
+7
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/LivingWonderful1864 avatar
+LivingWonderful1864
+•
+27d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Depends on prof
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/History-Numerous avatar
+History-Numerous
+OP
+•
+27d ago
+CS 3377 - Scott Dolinger
+CS 3354 - Barbara Mukami Maweu
+
+Any red flags? pls lmk
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/LivingWonderful1864 avatar
+LivingWonderful1864
+•
+27d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Bro scott dollingor you will learn 0 things, he gives you answers to everything and like all of his exams (midterm and final) are on quizlet
+
+Barabara is I didnt like lowk should of taken tien nguyen she very boring and all you do is study slides and project is ass as well
+
+
+
+Upvote
+0
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/History-Numerous avatar
+History-Numerous
+OP
+•
+27d ago
+is 3377 important for career in general? I took CS 2340 this semester and idk why the prof made something difficult for no reason (my bias) that I would not use much in my later career. Sure the knowledge is nice but I don't see any practicality out of it.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/LivingWonderful1864 avatar
+LivingWonderful1864
+•
+27d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+idk prolly not depends which you field also you can just learn ts outta class
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Mooze34
+•
+26d ago
+Computer Science
+Don’t listen to the other commenter. 3377/knowing how to use Unix well in general will have you levels ahead of other people.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Mooze34
+•
+26d ago
+Computer Science
+Both are easy asf
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+#5
+
+Go to utdallas
+r/utdallas
+•
+2mo ago
+sarahgracebennett
+
+CS 3354 (Software Engineering) Curve Question
+Question: Academics
+Is CS 3354 (Software Engineering) curved? I have Priya Narayanasami.
+
+Thanks :)
+
+
+Upvote
+3
+
+Downvote
+
+3
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+
+nian2326076
+•
+2mo ago
+Vegetable-Ad-2194
+•
+1mo ago
+I took her fall 24, we only had one final exam and i don’t think that got curved cause majority of the class scored well. Think she might’ve curved the final grade a bit.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+#6
+
+Go to utdallas
+r/utdallas
+•
+2y ago
+Immediate_Ad_4960
+
+Brain damage.....
+Question: Academics
+How do I resolve the headaches I get from doing long CS assignments. i just had an assignment in 3377 where we had to write a essay about unix related topics. why can't we just program? also why can't we choose are own groups in 3354. my group wants to meet up last minute.
+
+p.s. is there any free mental help (no joke). i feel like this happens when you entered CS even though you are not passionate about CS and don't make personal projects in fun time.
+
+
+Upvote
+16
+
+Downvote
+
+12
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+[deleted]
+•
+2y ago
+Breathing exercises and going out on a morning or sunset walk always eases my mental strain
+
+
+
+Upvote
+10
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Immediate_Ad_4960
+OP
+•
+2y ago
+dang this kinda works ngl
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/low-timed avatar
+low-timed
+•
+2y ago
+I think you just need to take a break. Do nothing but have fun for a day lil bro
+
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Immediate_Ad_4960
+OP
+•
+2y ago
+thx
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+XxxOofGodxxX
+•
+2y ago
+Im guessing karami and srimathi?
+
+
+
+Upvote
+7
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Immediate_Ad_4960
+OP
+•
+2y ago
+Correct
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+hummuspretzle
+•
+2y ago
+Get cozy while doing them. Heated blanket, favorite drink, soft music.
+
+To resolve a tension headache roll your head clockwise & counter to relieve stress in your neck, Excedrin kills all my migraines, and an ice pack on the noggin really helps too.
+
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Immediate_Ad_4960
+OP
+•
+2y ago
+The rotation thing works
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+MisterJeevs
+•
+2y ago
+Alumnus
+You can check out UTD Counseling.
+
+All you really need to do is take a physical break from CS work. Don’t get burnout.
+
+Part of any orgs? Go to their events
+
+Like a specific spot on campus? Go and just chill there
+
+Your friends are free? Go spontaneously do something together
+
+Always wanted to learn something, but never found the time to do? Well, there’s no better time than the present
+
+Don’t get too stressed about coursework. It’s Important, but not everything. By pacing yourself, you are taking a small step in taking care of your mental health in the long run. By incorporating non-CS things in your life, you are finding a balance where your brain can relax and recuperate.
+
+IMO, college is one of the few times in your life where have the most freedom to do what you want to do, so use it, don’t lose it 👍🏾.
+
+EDIT: In your breaks, make sure to move around, drink water, and take deep breaths. Your brain needs all 3 to function: movement, hydration, and oxygen.
+
+
+Upvote
+7
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Blockerwiz avatar
+Blockerwiz
+•
+2y ago
+Check RateMyProfessor in the future. Our class tried to save everyone from Min’s essays with a bombardment of reviews last semester. Sometimes it’s not your fault and it’s really just busywork you have to struggle through
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Sonic_Keeb
+•
+2y ago
+Find a way to detatch from your course load and do some soul searching on why your still keeping on.
+
+I'm in the same boat and have been for the last 3 years, trying to keep up with the course load of our cs classes with shitty professors and working 30 hours a week takes a toll.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Immediate_Ad_4960
+OP
+•
+2y ago
+yeah hopefully we all have a chill last semester. try to choose the best of the professors. i really want everyone including me to get an internship but i find griding tough.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+

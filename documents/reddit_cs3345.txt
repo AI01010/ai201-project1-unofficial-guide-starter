@@ -1,23 +1,12 @@
 # Source: r/utdallas search 'CS 3345'
 # URL: https://www.reddit.com/r/utdallas/search.json?q=CS+3345&restrict_sr=1&sort=relevance&t=all&limit=25
 # Fetched: 2026-06-09 18:51:45
-# Note: PLACEHOLDER - reddit returned 403 to anonymous JSON. Needs manual paste-in.
-# Status: placeholder
-# Update (manual paste): {"kind": "Listing", "data": {"modhash": "fillvi39jq309c9d32c456376cb0d93cdeab528832b7252619", "dist": 25, "facets": {}, "after": "t3_uam8a4", "geo_filter": "", "children": [{"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I\u2019m stuck between Parisa Darbari, Omar Hamdy, and Meghana Satpute. \n\nI want a professor who teaches well and will result in me actually learning the topics from the class. But I also don\u2019t want it to be so hard I need to study 20 hours every day in order to pass. \n\nI\u2019ve heard Satpute is an easy A but you don\u2019t learn as much, and that Hamdy gives great lectures but you have to put a lot of work in and the exams are terrible. Can\u2019t find much on Darbari, she seems to be somewhat of a middle point between the two. ", "author_fullname": "t2_5ospxk2h", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Can\u2019t Decide Which Professor for CS 3345 - Data Structures", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1sg91ho", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1775690845.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I\u2019m stuck between Parisa Darbari, Omar Hamdy, and Meghana Satpute. &lt;/p&gt;\n\n&lt;p&gt;I want a professor who teaches well and will result in me actually learning the topics from the class. But I also don\u2019t want it to be so hard I need to study 20 hours every day in order to pass. &lt;/p&gt;\n\n&lt;p&gt;I\u2019ve heard Satpute is an easy A but you don\u2019t learn as much, and that Hamdy gives great lectures but you have to put a lot of work in and the exams are terrible. Can\u2019t find much on Darbari, she seems to be somewhat of a middle point between the two. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1sg91ho", "is_robot_indexable": true, "report_reasons": null, "author": "MotherSiri", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1sg91ho/cant_decide_which_professor_for_cs_3345_data/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1sg91ho/cant_decide_which_professor_for_cs_3345_data/", "subreddit_subscribers": 41994, "created_utc": 1775690845.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "For CS 3345 (Data Structures &amp; Algorithmic Analysis) at UTD, how do Meghana Sathpute and Omar Hamdy compare in terms of exam style, theory depth, and grading?  \nI\u2019m stronger in projects/implementation and weaker in theory-heavy exams, and GPA matters this semester. Which professor would be the safer choice?", "author_fullname": "t2_ftdx5c9ii", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "please help me decide CS 3345: Meghana Sathpute vs Omar Hamdy exam style &amp; grading?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1pqbf1h", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1766116936.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For CS 3345 (Data Structures &amp;amp; Algorithmic Analysis) at UTD, how do Meghana Sathpute and Omar Hamdy compare in terms of exam style, theory depth, and grading?&lt;br/&gt;\nI\u2019m stronger in projects/implementation and weaker in theory-heavy exams, and GPA matters this semester. Which professor would be the safer choice?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1pqbf1h", "is_robot_indexable": true, "report_reasons": null, "author": "Fearless-Fly1674", "discussion_type": null, "num_comments": 8, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1pqbf1h/please_help_me_decide_cs_3345_meghana_sathpute_vs/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1pqbf1h/please_help_me_decide_cs_3345_meghana_sathpute_vs/", "subreddit_subscribers": 41994, "created_utc": 1766116936.0, "num_crossposts": 1, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Taking Meghana next sem\n\nQuestions about her class\n\n1) How is the workload (easy, difficult?)\n\n2) Difficulty of projects, exams and are there any pop quizzes as well (also difficulty of pop quizzes if any)\n\n3) Also exams on paper or online and in class or testing center?\n\n4) Style of lectures (self study? or just reading a bunch of slides). Are there a lot of slides to memorize?\n\n5) Grading? (Lenient, harsh?) on everything\n\n6) Mandatory attendance?\n\n7) Compared to any other professor (Hamdy or Khan), how is she? Is Hamdy or Khan easier?", "author_fullname": "t2_1580jvo8iy", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 Meghana Satpute", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1jypxr8", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.72, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1744602917.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Taking Meghana next sem&lt;/p&gt;\n\n&lt;p&gt;Questions about her class&lt;/p&gt;\n\n&lt;p&gt;1) How is the workload (easy, difficult?)&lt;/p&gt;\n\n&lt;p&gt;2) Difficulty of projects, exams and are there any pop quizzes as well (also difficulty of pop quizzes if any)&lt;/p&gt;\n\n&lt;p&gt;3) Also exams on paper or online and in class or testing center?&lt;/p&gt;\n\n&lt;p&gt;4) Style of lectures (self study? or just reading a bunch of slides). Are there a lot of slides to memorize?&lt;/p&gt;\n\n&lt;p&gt;5) Grading? (Lenient, harsh?) on everything&lt;/p&gt;\n\n&lt;p&gt;6) Mandatory attendance?&lt;/p&gt;\n\n&lt;p&gt;7) Compared to any other professor (Hamdy or Khan), how is she? Is Hamdy or Khan easier?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1jypxr8", "is_robot_indexable": true, "report_reasons": null, "author": "LivingWonderful1864", "discussion_type": null, "num_comments": 6, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1jypxr8/cs_3345_meghana_satpute/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1jypxr8/cs_3345_meghana_satpute/", "subreddit_subscribers": 41994, "created_utc": 1744602917.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hey guys I\u2019m deciding between these two professor for next semester any suggestions? How are the exams, any curves, are the assignments hard? or would you recommend another professor for this subject.", "author_fullname": "t2_r1axjo2p", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Omar hamdy vs Ziaullah Khan for CS 3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1juqda9", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 5, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 5, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1744151007.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey guys I\u2019m deciding between these two professor for next semester any suggestions? How are the exams, any curves, are the assignments hard? or would you recommend another professor for this subject.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1juqda9", "is_robot_indexable": true, "report_reasons": null, "author": "Ok-Professional-964", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1juqda9/omar_hamdy_vs_ziaullah_khan_for_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1juqda9/omar_hamdy_vs_ziaullah_khan_for_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1744151007.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Was wondering if anyone had any experience with Omar Hamdy in these 2 classes from this current semester (Spring 24) or the most recent one (Fall 23). There isn't any data on utdgrades and people say that his classes have supposedly changed for the worse these past 2 semesters. Wanted some more opinions on this. ", "author_fullname": "t2_c929ad3c0", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Omar Hamdy CS 4341/3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1bnk130", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 5, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 5, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1711389093.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Was wondering if anyone had any experience with Omar Hamdy in these 2 classes from this current semester (Spring 24) or the most recent one (Fall 23). There isn&amp;#39;t any data on utdgrades and people say that his classes have supposedly changed for the worse these past 2 semesters. Wanted some more opinions on this. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1bnk130", "is_robot_indexable": true, "report_reasons": null, "author": "Upbeat-Ad-1540", "discussion_type": null, "num_comments": 16, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1bnk130/omar_hamdy_cs_43413345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1bnk130/omar_hamdy_cs_43413345/", "subreddit_subscribers": 41994, "created_utc": 1711389093.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hi, May I ask anybody that finished this class about the exams? Was the exam all MC or do we need to solve it either prove it? I\u2019m about to take the first exam next week and I\u2019m so worry \ud83d\ude2d\n\nThank you! ", "author_fullname": "t2_4n88nnk2i", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 Serdar Erbatur", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1fma99j", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.5, "author_flair_background_color": null, "subreddit_type": "public", "ups": 0, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 0, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1726945312.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi, May I ask anybody that finished this class about the exams? Was the exam all MC or do we need to solve it either prove it? I\u2019m about to take the first exam next week and I\u2019m so worry \ud83d\ude2d&lt;/p&gt;\n\n&lt;p&gt;Thank you! &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1fma99j", "is_robot_indexable": true, "report_reasons": null, "author": "Ben_D1808", "discussion_type": null, "num_comments": 5, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1fma99j/cs_3345_serdar_erbatur/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1fma99j/cs_3345_serdar_erbatur/", "subreddit_subscribers": 41994, "created_utc": 1726945312.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Is anyone in CS 3345, if you are what year are you?\n", "author_fullname": "t2_d5itz5b2", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Anyone in CS 3345?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1f7mbut", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1725322825.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Is anyone in CS 3345, if you are what year are you?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1f7mbut", "is_robot_indexable": true, "report_reasons": null, "author": "Sea_Appeal4211", "discussion_type": null, "num_comments": 6, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1f7mbut/anyone_in_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1f7mbut/anyone_in_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1725322825.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hi, I currently enrolled in this prof class for the fall this year. But idk if he is a good choice for CS 3345 or not.\n\n", "author_fullname": "t2_4n88nnk2i", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Serda Erbatur CS 3345", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1cukdmz", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 0.67, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1715991184.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi, I currently enrolled in this prof class for the fall this year. But idk if he is a good choice for CS 3345 or not.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "1cukdmz", "is_robot_indexable": true, "report_reasons": null, "author": "Ben_D1808", "discussion_type": null, "num_comments": 8, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1cukdmz/serda_erbatur_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1cukdmz/serda_erbatur_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1715991184.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "CS 3341 (typo TT\\^TT)\n\nThe waitlist for the class I wanted closed and now I have to choose another professor but I am unsure about which one. Any insight would be greatly appreciated", "author_fullname": "t2_8anxdynz", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Jiang, Smiley, or Haas for CS 3345?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1euu79t", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.5, "author_flair_background_color": null, "subreddit_type": "public", "ups": 0, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 0, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": 1723938917.0, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1723934629.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;CS 3341 (typo TT^TT)&lt;/p&gt;\n\n&lt;p&gt;The waitlist for the class I wanted closed and now I have to choose another professor but I am unsure about which one. Any insight would be greatly appreciated&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1euu79t", "is_robot_indexable": true, "report_reasons": null, "author": "Beautiful_Rose19", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1euu79t/jiang_smiley_or_haas_for_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1euu79t/jiang_smiley_or_haas_for_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1723934629.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "For anyone else that is registered with Greg Ozbirn for CS 3345, does it now say \"To Be Announced\" or \"-Staff-\" for you guys? Or is it only for me?", "author_fullname": "t2_gchui9166", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 w/ Ozbirn", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1e2jtdb", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.83, "author_flair_background_color": null, "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1720902106.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For anyone else that is registered with Greg Ozbirn for CS 3345, does it now say &amp;quot;To Be Announced&amp;quot; or &amp;quot;-Staff-&amp;quot; for you guys? Or is it only for me?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1e2jtdb", "is_robot_indexable": true, "report_reasons": null, "author": "PopularBarnacle538", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1e2jtdb/cs_3345_w_ozbirn/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1e2jtdb/cs_3345_w_ozbirn/", "subreddit_subscribers": 41994, "created_utc": 1720902106.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hi, can anyone help me in getting questions of previous years for cs2305 discrete structures under wei pang chin and cs 3345 data structures and algorithmic analysis by sridhar alagar ? ", "author_fullname": "t2_z5jf6o5l6", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Questions of cs 2305 and cs 3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1ce4er6", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.33, "author_flair_background_color": null, "subreddit_type": "public", "ups": 0, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 0, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1714187514.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi, can anyone help me in getting questions of previous years for cs2305 discrete structures under wei pang chin and cs 3345 data structures and algorithmic analysis by sridhar alagar ? &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1ce4er6", "is_robot_indexable": true, "report_reasons": null, "author": "Thin_Swordfish_4843", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1ce4er6/questions_of_cs_2305_and_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1ce4er6/questions_of_cs_2305_and_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1714187514.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Is there anyone who is doing Professor Ozbirn next semester for CS 3345? If so, please get back to me and I would be willing to offer a price if you dropped it.", "author_fullname": "t2_b1s56xb8", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Algorithms and Data structures CS 3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_17ydo2a", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1700334958.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Is there anyone who is doing Professor Ozbirn next semester for CS 3345? If so, please get back to me and I would be willing to offer a price if you dropped it.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "17ydo2a", "is_robot_indexable": true, "report_reasons": null, "author": "Perfect-Molasses-675", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/17ydo2a/algorithms_and_data_structures_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/17ydo2a/algorithms_and_data_structures_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1700334958.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "If I want to take CS 3345 and I am a CS major, do I need CS 2336 as a Pre-requisites?\n\nIs the CS 2336 Pre-requisite for Data Science majors only?", "author_fullname": "t2_7wao2lwn", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 Pre-requisites", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1ae2jvr", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.5, "author_flair_background_color": null, "subreddit_type": "public", "ups": 0, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 0, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1706553407.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If I want to take CS 3345 and I am a CS major, do I need CS 2336 as a Pre-requisites?&lt;/p&gt;\n\n&lt;p&gt;Is the CS 2336 Pre-requisite for Data Science majors only?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1ae2jvr", "is_robot_indexable": true, "report_reasons": null, "author": "spikestar05", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1ae2jvr/cs_3345_prerequisites/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1ae2jvr/cs_3345_prerequisites/", "subreddit_subscribers": 41994, "created_utc": 1706553407.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Basically the title. For anyone who has taken the class with him before, what programming language does Ozbirn use in his Data Structures class? Java or C++? or does he let you decide?", "author_fullname": "t2_f6gf6nzd", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Programming Language for CS 3345 w/ Greg Ozbirn?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_13p451u", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": 1684863799.0, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1684791254.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Basically the title. For anyone who has taken the class with him before, what programming language does Ozbirn use in his Data Structures class? Java or C++? or does he let you decide?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "13p451u", "is_robot_indexable": true, "report_reasons": null, "author": "AppropriateBowler274", "discussion_type": null, "num_comments": 8, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/13p451u/programming_language_for_cs_3345_w_greg_ozbirn/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/13p451u/programming_language_for_cs_3345_w_greg_ozbirn/", "subreddit_subscribers": 41994, "created_utc": 1684791254.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Which ones should I go for and which ones should I avoid? Curious since I plan to take this next semester.", "author_fullname": "t2_130q3s", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 Professors", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_182lbck", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1700806074.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Which ones should I go for and which ones should I avoid? Curious since I plan to take this next semester.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "182lbck", "is_robot_indexable": true, "report_reasons": null, "author": "Mother_Horse", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/182lbck/cs_3345_professors/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/182lbck/cs_3345_professors/", "subreddit_subscribers": 41994, "created_utc": 1700806074.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "For anyone who's taken DSA with Feng, how are her exams? What's the best way to study for them? She just reads from the slides, so what are some good additional resources? ", "author_fullname": "t2_ho5ojm5n", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 Ranran Feng Exams", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1arwdrx", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1708047198.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For anyone who&amp;#39;s taken DSA with Feng, how are her exams? What&amp;#39;s the best way to study for them? She just reads from the slides, so what are some good additional resources? &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1arwdrx", "is_robot_indexable": true, "report_reasons": null, "author": "Brilliant_Bowl9298", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1arwdrx/cs_3345_ranran_feng_exams/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1arwdrx/cs_3345_ranran_feng_exams/", "subreddit_subscribers": 41994, "created_utc": 1708047198.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I'm taking hamdy for 3345 right now. He's a great professor, explains concepts really well. I just don't know how to prepare for his exam. Has anyone that taken him know about this exams? Are the exams multiple choice, free response, T/F, etc? How can we best prepare for this exam? Does he curve?", "author_fullname": "t2_fxk1i2ok", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Omar Hamdy CS 3345 exams", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_171swqr", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.88, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 6, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "86596598-908e-11e3-9c45-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 6, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": "ECS", "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1696639612.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m taking hamdy for 3345 right now. He&amp;#39;s a great professor, explains concepts really well. I just don&amp;#39;t know how to prepare for his exam. Has anyone that taken him know about this exams? Are the exams multiple choice, free response, T/F, etc? How can we best prepare for this exam? Does he curve?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "171swqr", "is_robot_indexable": true, "report_reasons": null, "author": "Otherwise-Time5624", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/171swqr/omar_hamdy_cs_3345_exams/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/171swqr/omar_hamdy_cs_3345_exams/", "subreddit_subscribers": 41994, "created_utc": 1696639612.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "im picking the last class ill be taking for the fall semester and want to know which of the above is the easiest grade", "author_fullname": "t2_dyh2067b", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345(algorithms and data structures), CS 3377(c++ in unix env), or CS 3354(software engineering)", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_12jit60", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1681298268.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;im picking the last class ill be taking for the fall semester and want to know which of the above is the easiest grade&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "12jit60", "is_robot_indexable": true, "report_reasons": null, "author": "user42177", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/12jit60/cs_3345algorithms_and_data_structures_cs_3377c_in/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/12jit60/cs_3345algorithms_and_data_structures_cs_3377c_in/", "subreddit_subscribers": 41994, "created_utc": 1681298268.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": " I'm 2nd in the waitlist position on CS 3345 Ziaullah Khan, im in also in 6th waitlist with Omar Hamdy. Do you think I will be getting in? If not, I'll have to register with Sridhar Alagar I've checked utdgrades, and many students have dropped out. ", "author_fullname": "t2_gcmh2y91c", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 questions", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_15b7f3r", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1690477761.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m 2nd in the waitlist position on CS 3345 Ziaullah Khan, im in also in 6th waitlist with Omar Hamdy. Do you think I will be getting in? If not, I&amp;#39;ll have to register with Sridhar Alagar I&amp;#39;ve checked utdgrades, and many students have dropped out. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": null, "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "15b7f3r", "is_robot_indexable": true, "report_reasons": null, "author": "CommercialPea2177", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/15b7f3r/cs_3345_questions/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/15b7f3r/cs_3345_questions/", "subreddit_subscribers": 41994, "created_utc": 1690477761.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Is it Java, C++, or language agnostic?", "author_fullname": "t2_u7pn8", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "What language does CS 3345 use?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_nk52dz", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1621881844.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Is it Java, C++, or language agnostic?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "nk52dz", "is_robot_indexable": true, "report_reasons": null, "author": "pekkalacd", "discussion_type": null, "num_comments": 15, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/nk52dz/what_language_does_cs_3345_use/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/nk52dz/what_language_does_cs_3345_use/", "subreddit_subscribers": 41994, "created_utc": 1621881844.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Has anyone taken Professor Khan for these classes and do you know how much he curves?\n\nIf anyone from previous years could help, that would be great\n\nHis grades on utdgrades look rly good, but I just want to make sure as I am taking CS 2336 with him and plan on taking him for CS 3345.\n\nAlso how hard are the projects/hws? Because some people say that they're insanely hard", "author_fullname": "t2_asdh4lnf", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Professor Khan: CS 2336/CS 3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_uhy5or", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.67, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1651637112.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Has anyone taken Professor Khan for these classes and do you know how much he curves?&lt;/p&gt;\n\n&lt;p&gt;If anyone from previous years could help, that would be great&lt;/p&gt;\n\n&lt;p&gt;His grades on utdgrades look rly good, but I just want to make sure as I am taking CS 2336 with him and plan on taking him for CS 3345.&lt;/p&gt;\n\n&lt;p&gt;Also how hard are the projects/hws? Because some people say that they&amp;#39;re insanely hard&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "uhy5or", "is_robot_indexable": true, "report_reasons": null, "author": "Brief_Particular_717", "discussion_type": null, "num_comments": 8, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/uhy5or/professor_khan_cs_2336cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/uhy5or/professor_khan_cs_2336cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1651637112.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "And worst profs if you've had terrible experiences. Thanks.", "author_fullname": "t2_oilbo", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Best CS 3345 professors??", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_9ryptp", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.87, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 6, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "e569693e-908e-11e3-bc73-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 6, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [{"e": "text", "t": "Information Technology and Management"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1540682364.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": true, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;And worst profs if you&amp;#39;ve had terrible experiences. Thanks.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Information Technology and Management", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "9ryptp", "is_robot_indexable": true, "report_reasons": null, "author": "warlordOfTheSea", "discussion_type": null, "num_comments": 23, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/9ryptp/best_cs_3345_professors/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/9ryptp/best_cs_3345_professors/", "subreddit_subscribers": 41994, "created_utc": 1540682364.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I'm taking CS 3345 with Khan right now and I have to say.... This man is wild. I can't take his class seriously, he doesn't even try to make it a challenge. He wants everything to be a discussion but he doesn't handle it well at all. The class will get into these long debates about some question with a really simple answer. This just wastes a lot of time\n\nIt feels like he's teaching me the basics of everything but he could go more in depth. Idk, I just feel like Khan could definitely step up his game. I took CS 3305 with Dr. Morales and CS 1337 &amp; 2336 with Jason Smith. Those professors taught really well, their lecture wasn't a shit show and the homework actually made me really comfortable with the material.\n\nI'm not getting this same feeling with Khan and it worries me. He seems like a great dude but I just don't think his teaching style works for me. Did anyone else feel this way?\n\nHe also has a tendency to contradict himself and make some stuff more confusing. This isn't anything like my other CS classes and I feel like I'm learning next to nothing.", "author_fullname": "t2_azahoaf", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "I feel like I'm not learning from Khan (CS 3345)", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_apqmw4", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.94, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 16, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "86596598-908e-11e3-9c45-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 16, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": "ECS", "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1549955024.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m taking CS 3345 with Khan right now and I have to say.... This man is wild. I can&amp;#39;t take his class seriously, he doesn&amp;#39;t even try to make it a challenge. He wants everything to be a discussion but he doesn&amp;#39;t handle it well at all. The class will get into these long debates about some question with a really simple answer. This just wastes a lot of time&lt;/p&gt;\n\n&lt;p&gt;It feels like he&amp;#39;s teaching me the basics of everything but he could go more in depth. Idk, I just feel like Khan could definitely step up his game. I took CS 3305 with Dr. Morales and CS 1337 &amp;amp; 2336 with Jason Smith. Those professors taught really well, their lecture wasn&amp;#39;t a shit show and the homework actually made me really comfortable with the material.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m not getting this same feeling with Khan and it worries me. He seems like a great dude but I just don&amp;#39;t think his teaching style works for me. Did anyone else feel this way?&lt;/p&gt;\n\n&lt;p&gt;He also has a tendency to contradict himself and make some stuff more confusing. This isn&amp;#39;t anything like my other CS classes and I feel like I&amp;#39;m learning next to nothing.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "apqmw4", "is_robot_indexable": true, "report_reasons": null, "author": "cuberandgamer", "discussion_type": null, "num_comments": 20, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/apqmw4/i_feel_like_im_not_learning_from_khan_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/apqmw4/i_feel_like_im_not_learning_from_khan_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1549955024.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "How was he for CS 3345? Did he teach properly? Did he grade fairly? Were his exams?\n\nIf any of you could give me the spiel on this guy, that would be greatly appreciated!", "author_fullname": "t2_6px5e2rd", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Mohamed Amine Belkoura for CS 3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_104ka19", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": "#fad900", "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "085d8998-93be-11e3-94c1-12313b0c91be", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [{"e": "text", "t": "Alumnus"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1672978138.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;How was he for CS 3345? Did he teach properly? Did he grade fairly? Were his exams?&lt;/p&gt;\n\n&lt;p&gt;If any of you could give me the spiel on this guy, that would be greatly appreciated!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Alumnus", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "104ka19", "is_robot_indexable": true, "report_reasons": null, "author": "deeht0xdagod", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/104ka19/mohamed_amine_belkoura_for_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/104ka19/mohamed_amine_belkoura_for_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1672978138.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I am taking these classes next semester: CS 3345 with Gity Karami, CS 3341 with Whalen and CS 3305 with Jason Jue. My gpa can't take any more hits. So is there any preparation that I can do for these classes. For example, if there is any specific computer language that any of these use, which I can practice. Anything like that. Any kind of advice is appreciated!\nThanks.", "author_fullname": "t2_lq4qsk6n", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Summer prep for CS 3345, CS 3341 and CS 3305", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_uam8a4", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 8, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 8, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": 1650837198.0, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1650772620.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I am taking these classes next semester: CS 3345 with Gity Karami, CS 3341 with Whalen and CS 3305 with Jason Jue. My gpa can&amp;#39;t take any more hits. So is there any preparation that I can do for these classes. For example, if there is any specific computer language that any of these use, which I can practice. Anything like that. Any kind of advice is appreciated!\nThanks.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "uam8a4", "is_robot_indexable": true, "report_reasons": null, "author": "CaterpillarRemote704", "discussion_type": null, "num_comments": 6, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/uam8a4/summer_prep_for_cs_3345_cs_3341_and_cs_3305/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/uam8a4/summer_prep_for_cs_3345_cs_3341_and_cs_3305/", "subreddit_subscribers": 41994, "created_utc": 1650772620.0, "num_crossposts": 0, "media": null, "is_video": false}}], "before": null}}
+# content: (manual paste): {"kind": "Listing", "data": {"modhash": "fillvi39jq309c9d32c456376cb0d93cdeab528832b7252619", "dist": 25, "facets": {}, "after": "t3_uam8a4", "geo_filter": "", "children": [{"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I\u2019m stuck between Parisa Darbari, Omar Hamdy, and Meghana Satpute. \n\nI want a professor who teaches well and will result in me actually learning the topics from the class. But I also don\u2019t want it to be so hard I need to study 20 hours every day in order to pass. \n\nI\u2019ve heard Satpute is an easy A but you don\u2019t learn as much, and that Hamdy gives great lectures but you have to put a lot of work in and the exams are terrible. Can\u2019t find much on Darbari, she seems to be somewhat of a middle point between the two. ", "author_fullname": "t2_5ospxk2h", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Can\u2019t Decide Which Professor for CS 3345 - Data Structures", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1sg91ho", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1775690845.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I\u2019m stuck between Parisa Darbari, Omar Hamdy, and Meghana Satpute. &lt;/p&gt;\n\n&lt;p&gt;I want a professor who teaches well and will result in me actually learning the topics from the class. But I also don\u2019t want it to be so hard I need to study 20 hours every day in order to pass. &lt;/p&gt;\n\n&lt;p&gt;I\u2019ve heard Satpute is an easy A but you don\u2019t learn as much, and that Hamdy gives great lectures but you have to put a lot of work in and the exams are terrible. Can\u2019t find much on Darbari, she seems to be somewhat of a middle point between the two. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1sg91ho", "is_robot_indexable": true, "report_reasons": null, "author": "MotherSiri", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1sg91ho/cant_decide_which_professor_for_cs_3345_data/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1sg91ho/cant_decide_which_professor_for_cs_3345_data/", "subreddit_subscribers": 41994, "created_utc": 1775690845.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "For CS 3345 (Data Structures &amp; Algorithmic Analysis) at UTD, how do Meghana Sathpute and Omar Hamdy compare in terms of exam style, theory depth, and grading?  \nI\u2019m stronger in projects/implementation and weaker in theory-heavy exams, and GPA matters this semester. Which professor would be the safer choice?", "author_fullname": "t2_ftdx5c9ii", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "please help me decide CS 3345: Meghana Sathpute vs Omar Hamdy exam style &amp; grading?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1pqbf1h", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1766116936.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For CS 3345 (Data Structures &amp;amp; Algorithmic Analysis) at UTD, how do Meghana Sathpute and Omar Hamdy compare in terms of exam style, theory depth, and grading?&lt;br/&gt;\nI\u2019m stronger in projects/implementation and weaker in theory-heavy exams, and GPA matters this semester. Which professor would be the safer choice?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1pqbf1h", "is_robot_indexable": true, "report_reasons": null, "author": "Fearless-Fly1674", "discussion_type": null, "num_comments": 8, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1pqbf1h/please_help_me_decide_cs_3345_meghana_sathpute_vs/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1pqbf1h/please_help_me_decide_cs_3345_meghana_sathpute_vs/", "subreddit_subscribers": 41994, "created_utc": 1766116936.0, "num_crossposts": 1, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Taking Meghana next sem\n\nQuestions about her class\n\n1) How is the workload (easy, difficult?)\n\n2) Difficulty of projects, exams and are there any pop quizzes as well (also difficulty of pop quizzes if any)\n\n3) Also exams on paper or online and in class or testing center?\n\n4) Style of lectures (self study? or just reading a bunch of slides). Are there a lot of slides to memorize?\n\n5) Grading? (Lenient, harsh?) on everything\n\n6) Mandatory attendance?\n\n7) Compared to any other professor (Hamdy or Khan), how is she? Is Hamdy or Khan easier?", "author_fullname": "t2_1580jvo8iy", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 Meghana Satpute", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1jypxr8", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.72, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1744602917.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Taking Meghana next sem&lt;/p&gt;\n\n&lt;p&gt;Questions about her class&lt;/p&gt;\n\n&lt;p&gt;1) How is the workload (easy, difficult?)&lt;/p&gt;\n\n&lt;p&gt;2) Difficulty of projects, exams and are there any pop quizzes as well (also difficulty of pop quizzes if any)&lt;/p&gt;\n\n&lt;p&gt;3) Also exams on paper or online and in class or testing center?&lt;/p&gt;\n\n&lt;p&gt;4) Style of lectures (self study? or just reading a bunch of slides). Are there a lot of slides to memorize?&lt;/p&gt;\n\n&lt;p&gt;5) Grading? (Lenient, harsh?) on everything&lt;/p&gt;\n\n&lt;p&gt;6) Mandatory attendance?&lt;/p&gt;\n\n&lt;p&gt;7) Compared to any other professor (Hamdy or Khan), how is she? Is Hamdy or Khan easier?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1jypxr8", "is_robot_indexable": true, "report_reasons": null, "author": "LivingWonderful1864", "discussion_type": null, "num_comments": 6, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1jypxr8/cs_3345_meghana_satpute/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1jypxr8/cs_3345_meghana_satpute/", "subreddit_subscribers": 41994, "created_utc": 1744602917.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hey guys I\u2019m deciding between these two professor for next semester any suggestions? How are the exams, any curves, are the assignments hard? or would you recommend another professor for this subject.", "author_fullname": "t2_r1axjo2p", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Omar hamdy vs Ziaullah Khan for CS 3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1juqda9", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 5, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 5, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1744151007.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey guys I\u2019m deciding between these two professor for next semester any suggestions? How are the exams, any curves, are the assignments hard? or would you recommend another professor for this subject.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1juqda9", "is_robot_indexable": true, "report_reasons": null, "author": "Ok-Professional-964", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1juqda9/omar_hamdy_vs_ziaullah_khan_for_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1juqda9/omar_hamdy_vs_ziaullah_khan_for_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1744151007.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Was wondering if anyone had any experience with Omar Hamdy in these 2 classes from this current semester (Spring 24) or the most recent one (Fall 23). There isn't any data on utdgrades and people say that his classes have supposedly changed for the worse these past 2 semesters. Wanted some more opinions on this. ", "author_fullname": "t2_c929ad3c0", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Omar Hamdy CS 4341/3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1bnk130", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 5, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 5, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1711389093.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Was wondering if anyone had any experience with Omar Hamdy in these 2 classes from this current semester (Spring 24) or the most recent one (Fall 23). There isn&amp;#39;t any data on utdgrades and people say that his classes have supposedly changed for the worse these past 2 semesters. Wanted some more opinions on this. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1bnk130", "is_robot_indexable": true, "report_reasons": null, "author": "Upbeat-Ad-1540", "discussion_type": null, "num_comments": 16, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1bnk130/omar_hamdy_cs_43413345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1bnk130/omar_hamdy_cs_43413345/", "subreddit_subscribers": 41994, "created_utc": 1711389093.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hi, May I ask anybody that finished this class about the exams? Was the exam all MC or do we need to solve it either prove it? I\u2019m about to take the first exam next week and I\u2019m so worry \ud83d\ude2d\n\nThank you! ", "author_fullname": "t2_4n88nnk2i", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 Serdar Erbatur", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1fma99j", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.5, "author_flair_background_color": null, "subreddit_type": "public", "ups": 0, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 0, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1726945312.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi, May I ask anybody that finished this class about the exams? Was the exam all MC or do we need to solve it either prove it? I\u2019m about to take the first exam next week and I\u2019m so worry \ud83d\ude2d&lt;/p&gt;\n\n&lt;p&gt;Thank you! &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1fma99j", "is_robot_indexable": true, "report_reasons": null, "author": "Ben_D1808", "discussion_type": null, "num_comments": 5, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1fma99j/cs_3345_serdar_erbatur/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1fma99j/cs_3345_serdar_erbatur/", "subreddit_subscribers": 41994, "created_utc": 1726945312.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Is anyone in CS 3345, if you are what year are you?\n", "author_fullname": "t2_d5itz5b2", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Anyone in CS 3345?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1f7mbut", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1725322825.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Is anyone in CS 3345, if you are what year are you?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1f7mbut", "is_robot_indexable": true, "report_reasons": null, "author": "Sea_Appeal4211", "discussion_type": null, "num_comments": 6, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1f7mbut/anyone_in_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1f7mbut/anyone_in_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1725322825.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hi, I currently enrolled in this prof class for the fall this year. But idk if he is a good choice for CS 3345 or not.\n\n", "author_fullname": "t2_4n88nnk2i", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Serda Erbatur CS 3345", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1cukdmz", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 0.67, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1715991184.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi, I currently enrolled in this prof class for the fall this year. But idk if he is a good choice for CS 3345 or not.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "1cukdmz", "is_robot_indexable": true, "report_reasons": null, "author": "Ben_D1808", "discussion_type": null, "num_comments": 8, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1cukdmz/serda_erbatur_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1cukdmz/serda_erbatur_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1715991184.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "CS 3341 (typo TT\\^TT)\n\nThe waitlist for the class I wanted closed and now I have to choose another professor but I am unsure about which one. Any insight would be greatly appreciated", "author_fullname": "t2_8anxdynz", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Jiang, Smiley, or Haas for CS 3345?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1euu79t", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.5, "author_flair_background_color": null, "subreddit_type": "public", "ups": 0, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 0, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": 1723938917.0, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1723934629.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;CS 3341 (typo TT^TT)&lt;/p&gt;\n\n&lt;p&gt;The waitlist for the class I wanted closed and now I have to choose another professor but I am unsure about which one. Any insight would be greatly appreciated&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1euu79t", "is_robot_indexable": true, "report_reasons": null, "author": "Beautiful_Rose19", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1euu79t/jiang_smiley_or_haas_for_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1euu79t/jiang_smiley_or_haas_for_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1723934629.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "For anyone else that is registered with Greg Ozbirn for CS 3345, does it now say \"To Be Announced\" or \"-Staff-\" for you guys? Or is it only for me?", "author_fullname": "t2_gchui9166", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 w/ Ozbirn", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1e2jtdb", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.83, "author_flair_background_color": null, "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1720902106.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For anyone else that is registered with Greg Ozbirn for CS 3345, does it now say &amp;quot;To Be Announced&amp;quot; or &amp;quot;-Staff-&amp;quot; for you guys? Or is it only for me?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1e2jtdb", "is_robot_indexable": true, "report_reasons": null, "author": "PopularBarnacle538", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1e2jtdb/cs_3345_w_ozbirn/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1e2jtdb/cs_3345_w_ozbirn/", "subreddit_subscribers": 41994, "created_utc": 1720902106.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hi, can anyone help me in getting questions of previous years for cs2305 discrete structures under wei pang chin and cs 3345 data structures and algorithmic analysis by sridhar alagar ? ", "author_fullname": "t2_z5jf6o5l6", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Questions of cs 2305 and cs 3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1ce4er6", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.33, "author_flair_background_color": null, "subreddit_type": "public", "ups": 0, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 0, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1714187514.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi, can anyone help me in getting questions of previous years for cs2305 discrete structures under wei pang chin and cs 3345 data structures and algorithmic analysis by sridhar alagar ? &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1ce4er6", "is_robot_indexable": true, "report_reasons": null, "author": "Thin_Swordfish_4843", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1ce4er6/questions_of_cs_2305_and_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1ce4er6/questions_of_cs_2305_and_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1714187514.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Is there anyone who is doing Professor Ozbirn next semester for CS 3345? If so, please get back to me and I would be willing to offer a price if you dropped it.", "author_fullname": "t2_b1s56xb8", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Algorithms and Data structures CS 3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_17ydo2a", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1700334958.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Is there anyone who is doing Professor Ozbirn next semester for CS 3345? If so, please get back to me and I would be willing to offer a price if you dropped it.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "17ydo2a", "is_robot_indexable": true, "report_reasons": null, "author": "Perfect-Molasses-675", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/17ydo2a/algorithms_and_data_structures_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/17ydo2a/algorithms_and_data_structures_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1700334958.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "If I want to take CS 3345 and I am a CS major, do I need CS 2336 as a Pre-requisites?\n\nIs the CS 2336 Pre-requisite for Data Science majors only?", "author_fullname": "t2_7wao2lwn", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 Pre-requisites", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1ae2jvr", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.5, "author_flair_background_color": null, "subreddit_type": "public", "ups": 0, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 0, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1706553407.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If I want to take CS 3345 and I am a CS major, do I need CS 2336 as a Pre-requisites?&lt;/p&gt;\n\n&lt;p&gt;Is the CS 2336 Pre-requisite for Data Science majors only?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1ae2jvr", "is_robot_indexable": true, "report_reasons": null, "author": "spikestar05", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1ae2jvr/cs_3345_prerequisites/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1ae2jvr/cs_3345_prerequisites/", "subreddit_subscribers": 41994, "created_utc": 1706553407.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Basically the title. For anyone who has taken the class with him before, what programming language does Ozbirn use in his Data Structures class? Java or C++? or does he let you decide?", "author_fullname": "t2_f6gf6nzd", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Programming Language for CS 3345 w/ Greg Ozbirn?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_13p451u", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": 1684863799.0, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1684791254.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Basically the title. For anyone who has taken the class with him before, what programming language does Ozbirn use in his Data Structures class? Java or C++? or does he let you decide?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "13p451u", "is_robot_indexable": true, "report_reasons": null, "author": "AppropriateBowler274", "discussion_type": null, "num_comments": 8, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/13p451u/programming_language_for_cs_3345_w_greg_ozbirn/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/13p451u/programming_language_for_cs_3345_w_greg_ozbirn/", "subreddit_subscribers": 41994, "created_utc": 1684791254.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Which ones should I go for and which ones should I avoid? Curious since I plan to take this next semester.", "author_fullname": "t2_130q3s", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 Professors", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_182lbck", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1700806074.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Which ones should I go for and which ones should I avoid? Curious since I plan to take this next semester.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "182lbck", "is_robot_indexable": true, "report_reasons": null, "author": "Mother_Horse", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/182lbck/cs_3345_professors/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/182lbck/cs_3345_professors/", "subreddit_subscribers": 41994, "created_utc": 1700806074.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "For anyone who's taken DSA with Feng, how are her exams? What's the best way to study for them? She just reads from the slides, so what are some good additional resources? ", "author_fullname": "t2_ho5ojm5n", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 Ranran Feng Exams", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1arwdrx", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1708047198.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For anyone who&amp;#39;s taken DSA with Feng, how are her exams? What&amp;#39;s the best way to study for them? She just reads from the slides, so what are some good additional resources? &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1arwdrx", "is_robot_indexable": true, "report_reasons": null, "author": "Brilliant_Bowl9298", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1arwdrx/cs_3345_ranran_feng_exams/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1arwdrx/cs_3345_ranran_feng_exams/", "subreddit_subscribers": 41994, "created_utc": 1708047198.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I'm taking hamdy for 3345 right now. He's a great professor, explains concepts really well. I just don't know how to prepare for his exam. Has anyone that taken him know about this exams? Are the exams multiple choice, free response, T/F, etc? How can we best prepare for this exam? Does he curve?", "author_fullname": "t2_fxk1i2ok", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Omar Hamdy CS 3345 exams", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_171swqr", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.88, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 6, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "86596598-908e-11e3-9c45-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 6, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": "ECS", "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1696639612.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m taking hamdy for 3345 right now. He&amp;#39;s a great professor, explains concepts really well. I just don&amp;#39;t know how to prepare for his exam. Has anyone that taken him know about this exams? Are the exams multiple choice, free response, T/F, etc? How can we best prepare for this exam? Does he curve?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "171swqr", "is_robot_indexable": true, "report_reasons": null, "author": "Otherwise-Time5624", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/171swqr/omar_hamdy_cs_3345_exams/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/171swqr/omar_hamdy_cs_3345_exams/", "subreddit_subscribers": 41994, "created_utc": 1696639612.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "im picking the last class ill be taking for the fall semester and want to know which of the above is the easiest grade", "author_fullname": "t2_dyh2067b", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345(algorithms and data structures), CS 3377(c++ in unix env), or CS 3354(software engineering)", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_12jit60", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1681298268.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;im picking the last class ill be taking for the fall semester and want to know which of the above is the easiest grade&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "12jit60", "is_robot_indexable": true, "report_reasons": null, "author": "user42177", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/12jit60/cs_3345algorithms_and_data_structures_cs_3377c_in/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/12jit60/cs_3345algorithms_and_data_structures_cs_3377c_in/", "subreddit_subscribers": 41994, "created_utc": 1681298268.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": " I'm 2nd in the waitlist position on CS 3345 Ziaullah Khan, im in also in 6th waitlist with Omar Hamdy. Do you think I will be getting in? If not, I'll have to register with Sridhar Alagar I've checked utdgrades, and many students have dropped out. ", "author_fullname": "t2_gcmh2y91c", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 3345 questions", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_15b7f3r", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1690477761.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m 2nd in the waitlist position on CS 3345 Ziaullah Khan, im in also in 6th waitlist with Omar Hamdy. Do you think I will be getting in? If not, I&amp;#39;ll have to register with Sridhar Alagar I&amp;#39;ve checked utdgrades, and many students have dropped out. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": null, "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "15b7f3r", "is_robot_indexable": true, "report_reasons": null, "author": "CommercialPea2177", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/15b7f3r/cs_3345_questions/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/15b7f3r/cs_3345_questions/", "subreddit_subscribers": 41994, "created_utc": 1690477761.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Is it Java, C++, or language agnostic?", "author_fullname": "t2_u7pn8", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "What language does CS 3345 use?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_nk52dz", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1621881844.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Is it Java, C++, or language agnostic?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "nk52dz", "is_robot_indexable": true, "report_reasons": null, "author": "pekkalacd", "discussion_type": null, "num_comments": 15, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/nk52dz/what_language_does_cs_3345_use/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/nk52dz/what_language_does_cs_3345_use/", "subreddit_subscribers": 41994, "created_utc": 1621881844.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Has anyone taken Professor Khan for these classes and do you know how much he curves?\n\nIf anyone from previous years could help, that would be great\n\nHis grades on utdgrades look rly good, but I just want to make sure as I am taking CS 2336 with him and plan on taking him for CS 3345.\n\nAlso how hard are the projects/hws? Because some people say that they're insanely hard", "author_fullname": "t2_asdh4lnf", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Professor Khan: CS 2336/CS 3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_uhy5or", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.67, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1651637112.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Has anyone taken Professor Khan for these classes and do you know how much he curves?&lt;/p&gt;\n\n&lt;p&gt;If anyone from previous years could help, that would be great&lt;/p&gt;\n\n&lt;p&gt;His grades on utdgrades look rly good, but I just want to make sure as I am taking CS 2336 with him and plan on taking him for CS 3345.&lt;/p&gt;\n\n&lt;p&gt;Also how hard are the projects/hws? Because some people say that they&amp;#39;re insanely hard&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "uhy5or", "is_robot_indexable": true, "report_reasons": null, "author": "Brief_Particular_717", "discussion_type": null, "num_comments": 8, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/uhy5or/professor_khan_cs_2336cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/uhy5or/professor_khan_cs_2336cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1651637112.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "And worst profs if you've had terrible experiences. Thanks.", "author_fullname": "t2_oilbo", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Best CS 3345 professors??", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_9ryptp", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.87, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 6, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "e569693e-908e-11e3-bc73-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 6, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [{"e": "text", "t": "Information Technology and Management"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1540682364.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": true, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;And worst profs if you&amp;#39;ve had terrible experiences. Thanks.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Information Technology and Management", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "9ryptp", "is_robot_indexable": true, "report_reasons": null, "author": "warlordOfTheSea", "discussion_type": null, "num_comments": 23, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/9ryptp/best_cs_3345_professors/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/9ryptp/best_cs_3345_professors/", "subreddit_subscribers": 41994, "created_utc": 1540682364.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I'm taking CS 3345 with Khan right now and I have to say.... This man is wild. I can't take his class seriously, he doesn't even try to make it a challenge. He wants everything to be a discussion but he doesn't handle it well at all. The class will get into these long debates about some question with a really simple answer. This just wastes a lot of time\n\nIt feels like he's teaching me the basics of everything but he could go more in depth. Idk, I just feel like Khan could definitely step up his game. I took CS 3305 with Dr. Morales and CS 1337 &amp; 2336 with Jason Smith. Those professors taught really well, their lecture wasn't a shit show and the homework actually made me really comfortable with the material.\n\nI'm not getting this same feeling with Khan and it worries me. He seems like a great dude but I just don't think his teaching style works for me. Did anyone else feel this way?\n\nHe also has a tendency to contradict himself and make some stuff more confusing. This isn't anything like my other CS classes and I feel like I'm learning next to nothing.", "author_fullname": "t2_azahoaf", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "I feel like I'm not learning from Khan (CS 3345)", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_apqmw4", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.94, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 16, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "86596598-908e-11e3-9c45-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 16, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": "ECS", "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1549955024.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m taking CS 3345 with Khan right now and I have to say.... This man is wild. I can&amp;#39;t take his class seriously, he doesn&amp;#39;t even try to make it a challenge. He wants everything to be a discussion but he doesn&amp;#39;t handle it well at all. The class will get into these long debates about some question with a really simple answer. This just wastes a lot of time&lt;/p&gt;\n\n&lt;p&gt;It feels like he&amp;#39;s teaching me the basics of everything but he could go more in depth. Idk, I just feel like Khan could definitely step up his game. I took CS 3305 with Dr. Morales and CS 1337 &amp;amp; 2336 with Jason Smith. Those professors taught really well, their lecture wasn&amp;#39;t a shit show and the homework actually made me really comfortable with the material.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m not getting this same feeling with Khan and it worries me. He seems like a great dude but I just don&amp;#39;t think his teaching style works for me. Did anyone else feel this way?&lt;/p&gt;\n\n&lt;p&gt;He also has a tendency to contradict himself and make some stuff more confusing. This isn&amp;#39;t anything like my other CS classes and I feel like I&amp;#39;m learning next to nothing.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "apqmw4", "is_robot_indexable": true, "report_reasons": null, "author": "cuberandgamer", "discussion_type": null, "num_comments": 20, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/apqmw4/i_feel_like_im_not_learning_from_khan_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/apqmw4/i_feel_like_im_not_learning_from_khan_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1549955024.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "How was he for CS 3345? Did he teach properly? Did he grade fairly? Were his exams?\n\nIf any of you could give me the spiel on this guy, that would be greatly appreciated!", "author_fullname": "t2_6px5e2rd", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Mohamed Amine Belkoura for CS 3345", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_104ka19", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": "#fad900", "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "085d8998-93be-11e3-94c1-12313b0c91be", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [{"e": "text", "t": "Alumnus"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1672978138.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;How was he for CS 3345? Did he teach properly? Did he grade fairly? Were his exams?&lt;/p&gt;\n\n&lt;p&gt;If any of you could give me the spiel on this guy, that would be greatly appreciated!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Alumnus", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "104ka19", "is_robot_indexable": true, "report_reasons": null, "author": "deeht0xdagod", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/104ka19/mohamed_amine_belkoura_for_cs_3345/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/104ka19/mohamed_amine_belkoura_for_cs_3345/", "subreddit_subscribers": 41994, "created_utc": 1672978138.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I am taking these classes next semester: CS 3345 with Gity Karami, CS 3341 with Whalen and CS 3305 with Jason Jue. My gpa can't take any more hits. So is there any preparation that I can do for these classes. For example, if there is any specific computer language that any of these use, which I can practice. Anything like that. Any kind of advice is appreciated!\nThanks.", "author_fullname": "t2_lq4qsk6n", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Summer prep for CS 3345, CS 3341 and CS 3305", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_uam8a4", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 8, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 8, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": 1650837198.0, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1650772620.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I am taking these classes next semester: CS 3345 with Gity Karami, CS 3341 with Whalen and CS 3305 with Jason Jue. My gpa can&amp;#39;t take any more hits. So is there any preparation that I can do for these classes. For example, if there is any specific computer language that any of these use, which I can practice. Anything like that. Any kind of advice is appreciated!\nThanks.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "uam8a4", "is_robot_indexable": true, "report_reasons": null, "author": "CaterpillarRemote704", "discussion_type": null, "num_comments": 6, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/uam8a4/summer_prep_for_cs_3345_cs_3341_and_cs_3305/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/uam8a4/summer_prep_for_cs_3345_cs_3341_and_cs_3305/", "subreddit_subscribers": 41994, "created_utc": 1650772620.0, "num_crossposts": 0, "media": null, "is_video": false}}], "before": null}}
 ---
 
-Reddit's public JSON endpoints currently return HTTP 403 for unauthenticated
-requests (including the search endpoint and subreddit listing endpoints).
-Reddit started blocking anonymous JSON access in mid-2023 and the restriction
-remains in effect. Without OAuth credentials the script cannot fetch threads.
-
 Manual collection steps for CS 3345:
-  1. In a browser, open https://www.reddit.com/r/utdallas/search/?q=CS+3345&restrict_sr=1
-  2. Open the top 8-12 threads (sort by relevance, then by top of all time).
-  3. For each thread, copy:
-       - The post title and body text.
-       - The top 10-20 comments (skip 'deleted' and joke replies).
-  4. Paste below the --- divider, one thread per block. Format suggestion:
+  https://www.reddit.com/r/utdallas/search/?q=CS+3345&restrict_sr=1
+  Format suggestion:
        === THREAD N: <title> ===
        url: <permalink>
        <selftext>
@@ -25,12 +14,13 @@ Manual collection steps for CS 3345:
        - [author] 
        - <comment>
 
-       === THREAD N: What language does CS 3345 use? ===
-       url: https://www.reddit.com/r/utdallas/comments/nk52dz/what_language_does_cs_3345_use/
-       <Is it Java, C++, or language agnostic?>
-       COMMENTS:
-       - [pekkalacd] 
-       - <
+1.
+=== THREAD N: What language does CS 3345 use? ===
+url: https://www.reddit.com/r/utdallas/comments/nk52dz/what_language_does_cs_3345_use/
+<Is it Java, C++, or language agnostic?>
+COMMENTS:
+- [pekkalacd] 
+- <
 tamewraith
 •
 5y ago
@@ -213,7 +203,1531 @@ Share
 
 >
 
-Alternative: register a script-type app at https://www.reddit.com/prefs/apps,
-get a client_id + client_secret, then update this script to use the OAuth
-flow (POST https://www.reddit.com/api/v1/access_token then use the bearer
-token on oauth.reddit.com URLs). That would unlock automated re-fetches.
+2.
+=== THREAD N: CS 3345 Professors ===
+url: https://www.reddit.com/r/utdallas/comments/182lbck/cs_3345_professors/
+<Which ones should I go for and which ones should I avoid? Curious since I plan to take this next semester.>
+COMMENTS:
+- [Mother_Horse] 
+- <
+[deleted]
+•
+3y ago
+Ozbirn has pretty good ratings on rmp, and some kid was going to pay 100 bucks if someone would drop the course so he could get in.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Immediate_Hippo_8718
+•
+3y ago
+Ozbirn or hamdy, they both are really good
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+CaptainVickle
+•
+3y ago
+Alumnus
+Hamdy is solid. His exams were pretty tough but he teaches well.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+FlorentineKnight
+•
+3y ago
+Alumnus
+I had Hamdy and he was an amazing teacher, as someone else said his exams are pretty tough though but you learn so much
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+>
+
+3.
+=== THREAD N: Anyone in CS 3345? ===
+url: https://www.reddit.com/r/utdallas/comments/1f7mbut/anyone_in_cs_3345/ 
+<Is anyone in CS 3345, if you are what year are you?>
+COMMENTS:
+- [Sea_Appeal4211] 
+- <u/NoLoss4802 avatar
+NoLoss4802
+•
+2y ago
+Enarc Cultist
+yes, 2nd year
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Sea_Appeal4211 avatar
+Sea_Appeal4211
+OP
+•
+2y ago
+Is it normal to take cs 3345 first year second semester?
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/NoLoss4802 avatar
+NoLoss4802
+•
+2y ago
+Enarc Cultist
+yes, a lot of people do this who take took the AP CS exam in HS. I could have done this but I am a CE so it didn't fit in my schedule last spring but I know many people who did do that
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Sea_Appeal4211 avatar
+Sea_Appeal4211
+OP
+•
+2y ago
+Do you recommend taking math 2418 at utd or no?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/NoLoss4802 avatar
+NoLoss4802
+•
+2y ago
+Enarc Cultist
+I am a CE so I don't take that class so I couldn't say but for the equivalent class ENGR 2300 I didn't find it crazy difficult or anything because it is dealing with matrices the entire semester
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/random-user-420 avatar
+random-user-420
+•
+2y ago
+Computer Science
+2nd year as well
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+>
+
+
+4.
+=== THREAD N: Is it guaranteed that CS 3345 is offered over the summer? ===
+url: https://www.reddit.com/r/utdallas/comments/177qbne/is_it_guaranteed_that_cs_3345_is_offered_over_the/ 
+<I'm thinking about dropping CS 2336 right now and taking it next semester but to stay on track, I'd have to take CS 3345 before next fall and I know it's been offered in the summer previous years, but idk if it'll be offered summer '24. And I don't want to risk dropping 2336 if 3345 won't be offered in the summer. On the same note, does anyone know any community colleges that offer cosc 2436 over the winter? I've checked Collin and Dallas but can't seem to find anything about it.>
+COMMENTS:
+- [deleted] 
+- <u/CometCommenter avatar
+CometCommenter
+•
+3y ago
+Best way to guess is to check coursebook to see if it’s regularly been offered in past summers. Multiple sections in summer semesters means high demand, so it seems likely to continue.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+OP
+•
+3y ago
+Okay, thanks! The uncertainty scares me but I hope UTD offered it this summer as well
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+MrSmith_CS 
+•
+3y ago
+Professor of Instruction (Verified Account)
+looking back over the last 5 years, it's been offered every summer with multiple sections. There isn't a guarantee, but it would be highly unlikely that it wouldn't be offered
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+OP
+•
+3y ago
+Got it, thanks!
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+> NOTE: (response is by CS Professor Jason Smith)
+
+
+5.
+=== THREAD N: sudden changes to the cs/se prereq grades? ===
+url: https://www.reddit.com/r/utdallas/comments/1tb8exq/sudden_changes_to_the_csse_prereq_grades/ 
+<LAST UPDATE: HUGEEEEE WIN!! THEY WAIVED THIS REQUIREMENT for anyone who took classes PRIOR TO SUMMER 2026: "In light of this, we will waive the requirement for current students who completed these prerequisite courses prior to Summer 2026, provided that the minimum grade of C requirement for a pre-requisite class is a new requirement introduced starting in Fall 2026 or later."
+
+THANK YOU to everyone who shared support for this issue and i hope that anyone affected originally now feels relief!
+
+(outdated) UPDATES AT THE END OF THIS
+
+hey guys, ill try to keep it short but yea wtf im a bit worried after the email that was sent out today about prereqs now needing a C or better to count.......
+
+i started during fall 2023. took cs3345 like 2 years ago and got a D. was still able to take classes that need 3345 and had no problem with those. then i tried registering for 4384 like a month ago during registration day and nope i needed a C or better in 3345. but then i emailed my advisor and he was able to override it, said i could still enroll for 4384.
+
+but now after todays email whaaaaat? i dont know if im overthinking it but "This change will take effect beginning in Fall 2026 and will apply to all students, including those admitted under earlier catalogs." sure sounds like my 2023 course catalog wont be honored anymore.
+
+any thoughts about this? damn it i was so ready to just graduate without having to retake ts like genuinely i cant afford taking any more classes over the summer and stuff and obviously id rather not have to do all that
+
+UPDATE: i got a response from my advisor. seems like nobody knows wtf is going on 💔 "This is being sorted out. Please be on standby as we wait to hear from the Dean. I do not have any further information at this very moment. In the meantime, you are welcome to check with Dr. Mittal for any updates as he is the one who sent this out."
+
+ANOTHER UPDATE: i emailed him back and mentioned how a couple of people seem worried about this being retroactive and he replied back with: "Don't worry, our CS liaisons jumped on this as soon as we found out and went directly to the Dean and the Registrar. It is being worked out at the moment."
+
+okay yea i am hoping and praying we are unaffected>
+COMMENTS:
+- [okkkugfffghxfh] 
+- <LSDman23
+•
+28d ago
+Yep just saw the email. Was there any notice? It seems kinda unfair to just do this rug pull and not just grandfather people in.
+
+
+
+Upvote
+20
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+28d ago
+no dude i never got any warnings before today! unless me talking to my advisor counts? where he said i would have no problem registering for classes still?? this is a massive slap in the ass unless im somehow wrong and i can actually take classes still
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+OkMuffin8303
+•
+28d ago
+Seems pretty brutal to retroactively apply this standard. I'm all for higher standards, grade inflation is real, but this just isn't fair. Email your advisor, the dean, whoever is tangently involved. Have others do the same, annoy until they make it apply to only new students
+
+
+
+Upvote
+15
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+28d ago
+i agree; i was really going through it when i took that class but yeah ive pushed myself a lot more after that. thankfully done much better since then. but i absolutely agree that if this is retroactive its just fucked up. aint no way theyre going to make me change my entire schedule for the rest of my time here JUST because of one class they unfairly decided to change the grade policies for. (on that note if anyone else here is affected by this shit id be more than down to bombard the dean with emails complaining about ts)
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Rex_Slayer
+•
+28d ago
+UTDS (University of Texas at Dallas of Scammers) trying to get that summer retake money
+
+
+
+Upvote
+11
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+28d ago
+i cant afford ts bro 😭😭😭😭😭😭 youre right though
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+GasDense8796
+•
+28d ago
+u/Md1i avatar
+Md1i
+•
+28d ago
+It’s crazy. In an ideal world I’m all for it but the majority of the staff cannot teach at all. I don’t want to make excuses but I think it’s on the staff, there’s not many professors who are competent, most just curve the grades bc they can’t teach
+
+
+
+Upvote
+7
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+28d ago
+yeah i agree :(
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+[deleted]
+•
+28d ago
+Vegetable-Ad-2194
+•
+28d ago
+wait so if you're graduating this semester does this still apply? cause im taking MATH2418 since it was never a prerequisite for a class on my catalog, but i know its a prerequisite in the new catalogs.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+28d ago
+wish i knew man. id say just email your advisor and ask about that as well haha
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Vegetable-Ad-2194
+•
+28d ago
+rereading the email, i think you're def overthinking lol, cause it says any classes taken in Spring 2026 as a prerequisite for a class in Fall 2026. i think the retroactive thing just means all students, regardless of catalog year. so if you took a prerequisite for a class this fall and it was 2 years ago, it shouldn't affect anything
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Vegetable-Ad-2194
+•
+28d ago
+"If you receive a grade of C- or lower in a Spring 2026 course that serves as a prerequisite for a CS/SE course you plan to take in Fall 2026" to me sounds like it's just referring to classes this sem
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+28d ago
+see thats what im ideally thinking as well, but im just wondering how they would handle my situation (again i took it 2 years ago but i still need that class to take something in the future). like.. is it JUST going to be classes taken this spring that have this policy? the wording in the email is honestly making it sound more like it will also apply to classes taken BEFORE spring as well. D: one can only pray at this point
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Vegetable-Ad-2194
+•
+28d ago
+it prob just means that any student who's taking a fall 2026 class that requires a prerequisite that's being taken in spring 2026 needs to get a C or higher on that prerequisite, regardless of what the catalog for your year says.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+28d ago
+i really hope thats correct ❤️‍🩹
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Vegetable-Ad-2194
+•
+28d ago
+i just read your update at the bottom, please let me know if they update you with any important information!
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+28d ago
+i heard back from my advisor about this; basically even THEY are confused lmao
+
+"This is being sorted out. Please be on standby as we wait to hear from the Dean. I do not have any further information at this very moment. In the meantime, you are welcome to check with Dr. Mittal for any updates as he is the one who sent this out. "
+
+so until then we pray
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Vegetable-Ad-2194
+•
+28d ago
+I got the same response lol
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+26d ago
+fortunately i was not overthinking this and it seems like the dean changed his mind and waived this new policy for us. so its not retroactive but it will apply for classes after summer 2026!! LETS GOOO
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Rex_Slayer
+•
+28d ago
+I hope it this I ain't trying to deal with out of state tuition for comp arch I barely pass my second attempt...
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/LivingWonderful1864 avatar
+LivingWonderful1864
+•
+28d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+28d ago
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Mooze34
+•
+28d ago
+Computer Science
+Am I crazy for thinking that you always needed a C or better in pre req classes? To me nothing has changed, sucks for anyone else who has to deal with this (esp if they have an internship/are away for the summer)
+
+
+
+Upvote
+0
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+28d ago
+nope, at least not every prereq class needed a C or better. that's why ive been able to register for classes that need 3345 which i got a D in lmao
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/JAMtheSeagull avatar
+JAMtheSeagull
+•
+28d ago
+I thought the rule was that what ever it was on the catalog year you started that's what is used for your degree and changes to the requirements are only reflected on new students.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+28d ago
+this is what i thought too, but in the email mittal made sure to mention this applies to earlier years too
+
+Comment Image
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/JAMtheSeagull avatar
+JAMtheSeagull
+•
+28d ago
+No way they're saying to retake it in the summer that's ridiculous
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/bellamarr avatar
+bellamarr
+•
+28d ago
+And when there is a change of major students move to that particular catalog year.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Arnas_Z avatar
+Arnas_Z
+•
+28d ago
+Computer Science
+Yeah exactly, retroactively applying all this is wild, anyone affected by this should be making a racket to get this fixed.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/blarvinkd avatar
+blarvinkd
+•
+28d ago
+So confused, does this affect data science majors or not if I took cs classes
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+26d ago
+•
+Edited 26d ago
+if youre an ECS major then yeah you'd be affected too. but thankfully they just waived this requirement for us (follow whatever your course catalog year says PRIOR TO summer 2026 you're good)!!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+daunt278
+•
+27d ago
+dude im concerned af because i follow the fall 2024 catalog and i got a C- in dsa this sem but its too late to register for summer classes + i have an internship lined up. according to the fall 2024 catalog i should be good by passing with a D but this situation is fucking up my whole thing
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+27d ago
+nah i feel you!! if it gives you ANY hope my advisor said "don't worry" as soon as i told him we were worried about this whole situation (though that's all he said LMFAO) but yeah hoping for the best atp!
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+daunt278
+•
+27d ago
+UPDATE: We actually just heard from the Dean. You will follow your catalog year and its rules and requirements. The new C grade will come into effect starting Fall 2026. 
+
+Thanks, 
+
+chat does this mean im good then??
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+27d ago
+its still kind of ambiguous BUT i think the fact they said we follow our catalog year still is a good thing?? so i think we're good???? holayyyy shit massive if true
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+daunt278
+•
+27d ago
+Yeah man i think we're in the clear 😭
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+OP
+•
+26d ago
+mittal sent another email WE'RE SAFE!!! LETS GOOOO
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+>
+
+
+6.
+=== THREAD N: Update Regarding Fall 2026 Grade Requirement Changes ===
+url: https://www.reddit.com/r/utdallas/comments/1td4evk/update_regarding_fall_2026_grade_requirement/ 
+<img content (email):  "Hi All,
+
+I wanted to provide you all with an important update regarding the Fall 2026 grade requirement changes that were recently communicated by Dr. Mittal.
+
+The department has now provided us with a memo allowing prerequisite overrides for courses completed prior to Summer 2026. This means that students on older catalog years who completed prerequisite coursework before Summer 2026 will still be able to move forward in their degree plans under the previous grading requirements.
+
+For example, if you took CS 3345 in Spring 2026 and earned a “C-” in the course, you will still be allowed to enroll in CS 4348 in Fall 2026.
+
+However, beginning with courses taken in Fall 2026 and beyond, the new requirement will apply. For instance, if you earn a “C-” in CS 3354 in Fall 2026, you would not be eligible to enroll in CS 4485 until CS 3354 has been retaken and completed with at least a “C.”
+
+We understand this situation has caused confusion and concern for many students, and we truly appreciate your patience while the department worked toward clarification. Please know that we have been advocating for you all throughout this process and are happy to now have guidance that helps support those following older catalog years!"
+
+Looks like anyone who was worried abt previous courses is safe. Just contact your advisor to override it for you so that Fall '26 courses don't get dropped.
+>
+COMMENTS:
+- [Glittering_Road_9113] 
+- <u/LivingWonderful1864 avatar
+LivingWonderful1864
+•
+27d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+
+
+
+Upvote
+15
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/PeterLoc2607 avatar
+PeterLoc2607
+•
+27d ago
+Custom (Request What You Want)
+Comment Image
+My reaction: 🗿
+
+
+
+Upvote
+19
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/LivingWonderful1864 avatar
+LivingWonderful1864
+•
+27d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Bro is NOT the GOAT anymore
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Repulsive-Muscle-672
+•
+26d ago
+does this apply to all classes taken beofer summer 2026? like say i had a class that i got a c- on in like 2025 of fall does it apply to that as well?
+
+
+
+Upvote
+7
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Glittering_Road_9113 avatar
+Glittering_Road_9113
+OP
+•
+26d ago
+Computer Science
+Yeah it says before summer 2026
+
+
+Upvote
+8
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/CLOVV avatar
+CLOVV
+•
+26d ago
+it says right there that it doesn't apply until fall 2026
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Wazzurp7294
+•
+26d ago
+Is this for CS students only? Because I don’t remember getting an email about grade requirement changes.
+
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Glittering_Road_9113 avatar
+Glittering_Road_9113
+OP
+•
+26d ago
+Computer Science
+Yeah it’s only for the CS department
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Alone_Account4347 avatar
+Alone_Account4347
+•
+26d ago
+is there only for pre reqs? or like let’s say next semester im taking CS 4349 which isn’t a pre req for any other classes, if i get a C- or even a D do i still get the credit and move forward?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Glittering_Road_9113 avatar
+Glittering_Road_9113
+OP
+•
+26d ago
+Computer Science
+I’m not sure, def ask ur advisor
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Vegetable-Ad-2194
+•
+26d ago
+i’m taking linear algebra rn and i’m graduating, on my catalog year it doesn’t say C or higher is required, so D- should be chilling right?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Alone_Account4347 avatar
+Alone_Account4347
+•
+26d ago
+no you need a C for linear alg
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Vegetable-Ad-2194
+•
+26d ago
+not according to my catalog year
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+Unhappy_Anteater_141
+•
+25d ago
+RyN4567
+•
+24d ago
+MY GOD I shoulda went here first.
+
+Basically I was gonna graduate fall 26 and I’m a data science major and what ended up happening is that I just need CS 4371 (big data ) it only gets offered once a year lol.
+
+And like I got a D in database systems.
+
+So basically I got hit with an email from my advisor being like yo u need to retake this class this summer or else like u can’t take this fall only class
+
+Keep in mind I have an internship in Denton so it’s impossible for me to do that.
+
+So I wrote an insanely strongly worded email to the dean of ECS and NSM
+
+And was like yo this arbitrary requirement u just added that wasn’t there before is gonna screw me over and basically I would have to wait untill fall 27 to graduate which is insane.
+
+So they ended up replying like oh we’re not doing this requirement but I had no idea this impacted so many😭
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/ThrowawyResearch avatar
+ThrowawyResearch
+•
+24d ago
+No way software engineering has that requirement now, it's one of the most trash class I have taken in utd 🤣
+
+(The most one is 3390 professional communication)
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Community Info Section
+r/utdallas
+Join
+The UT Dallas Subreddit
+Welcome to the student-run (unofficial) subreddit for The University of Texas at Dallas! Post anything and everything here about UT Dallas. Faculty, staff, students, and alumni are welcome.
+
+Show more
+Created Sep 26, 2010
+Public
+20K
+Comets
+597
+Whooshing
+User flair
+u/South_Judge870 avatar
+South_Judge870
+Community Bookmarks
+
+UT Dallas
+
+Student Resources
+
+Club Discords
+
+Post Collections
+GitHub
+Useful UTD Links
+UTDallas GitHub
+UTDallas GitHub
+Academic Calendar
+Academic Calendar
+Comet Calendar (Events)
+Comet Calendar (Events)
+eLearning Enhancement
+eLearning Enhancement
+Campus Room Availability
+Campus Room Availability
+UTD News (The Mercury)
+UTD News (The Mercury)
+Library Room Reservation
+Library Room Reservation
+Course Planner
+Course Planner
+r/utdallas Rules
+1
+Whatever iLikeComputers says, goes.
+2
+Posts must relate to UTD.
+3
+Be civil, and act in good faith.
+4
+Don't post low-quality or redundant content.
+5
+Do some research before asking a question.
+6
+Don't troll people or share spam.
+7
+Don't share NSFW content.
+8
+Do not promote scholastic dishonesty, fraud, or illegal activities.
+9
+This is not a marketplace.
+Moderators
+Message Mods
+u/iLikeComputers
+ 
+emoji:illuminati:
+u/AutoModerator avatar
+u/AutoModerator
+u/anonnoodle88 avatar
+u/anonnoodle88
+u/5yrup
+ 
+Alumnus
+u/7saturdaysaweek
+u/yellowelbow
+View all moderators
+Reddit Rules
+Privacy Policy
+User Agreement
+Your Privacy Choices
+Accessibility
+Reddit, Inc. © 2026. All rights reserved.
+
+Collapse Navigation
+
+
+Join the conversation
+>
+
+7.
+=== THREAD N: Can’t Decide Which Professor for CS 3345 - Data Structures ===
+url: https://www.reddit.com/r/utdallas/comments/1sg91ho/cant_decide_which_professor_for_cs_3345_data/
+<I’m stuck between Parisa Darbari, Omar Hamdy, and Meghana Satpute.
+
+I want a professor who teaches well and will result in me actually learning the topics from the class. But I also don’t want it to be so hard I need to study 20 hours every day in order to pass.
+
+I’ve heard Satpute is an easy A but you don’t learn as much, and that Hamdy gives great lectures but you have to put a lot of work in and the exams are terrible. Can’t find much on Darbari, she seems to be somewhat of a middle point between the two.>
+COMMENTS:
+- [MotherSiri] 
+- <
+New-Sheepherder-6467
+•
+2mo ago
+Hamdy the goat imo, took him last semester and he is very knowledgeable and passionate about what he is teaching. His exams honestly are not too difficult if you just study.
+
+Taking Darbari rn for 4349 and she is also knowledgeable about what she is teaching but her lectures are very unorganized.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/MotherSiri avatar
+MotherSiri
+OP
+•
+2mo ago
+Thank you! For Darbari, would you say you have to self learn a lot of the material for her class? Are the lectures unorganized in a way where you can piece the info together, or is it a total mess?
+
+And for Hamdy, is everything in the exams from the lectures? Did you just have to study what he taught or did you feel like you had to self learn stuff for his class?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+New-Sheepherder-6467
+•
+2mo ago
+i think that CS 4349 is not an easy class so you're going to need to self learn regardless. what i mean for Darbari and her lectures being unorganized is that some days you won't know what material she is going to cover, but during lecture she does well at explaining what she is teaching and is easy to follow imo.
+
+Yes for Hamdy, all his exams comes from his lecture slides. You can get away with simply studying his slides and get a good grade on the exams.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Solid_Royal_882 avatar
+Solid_Royal_882
+•
+2mo ago
+Is Kamran Khan not an option? He’s good. If not, Omar Hamdy.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+>
+

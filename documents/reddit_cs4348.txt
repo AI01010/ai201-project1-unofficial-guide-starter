@@ -1,29 +1,1211 @@
 # Source: r/utdallas search 'CS 4348'
 # URL: https://www.reddit.com/r/utdallas/search.json?q=CS+4348&restrict_sr=1&sort=relevance&t=all&limit=25
-# Fetched: 2026-06-09 18:51:49
-# Note: PLACEHOLDER - reddit returned 403 to anonymous JSON. Needs manual paste-in.
-# Status: placeholder
+# Fetched: 2026-06-09 18:51:49 {"kind": "Listing", "data": {"modhash": "rict2t18duc1765d9d06e2e3c918f7ca646dc4f41709efe540", "dist": 25, "facets": {}, "after": "t3_dsgj6v", "geo_filter": "", "children": [{"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Should I take I-Ling Yen for CS 4348? I saw that the grades in the past were very bad but I saw that they were better last semester. How\u2019s her teaching style, workload, and exams? Would you recommend taking her, or is it better to wait for another professor?", "author_fullname": "t2_5yuc5ycq", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348 Operating Systems with I-ling Yen", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1ora8kj", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 6, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 6, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1762559224.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Should I take I-Ling Yen for CS 4348? I saw that the grades in the past were very bad but I saw that they were better last semester. How\u2019s her teaching style, workload, and exams? Would you recommend taking her, or is it better to wait for another professor?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1ora8kj", "is_robot_indexable": true, "report_reasons": null, "author": "Yourrage-burner", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1ora8kj/cs_4348_operating_systems_with_iling_yen/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1ora8kj/cs_4348_operating_systems_with_iling_yen/", "subreddit_subscribers": 42010, "created_utc": 1762559224.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "What is the passing grade for (OS) CS/SE 4348 is a C or above or D?", "author_fullname": "t2_v685uhb4", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "What is the passing grade for (OS) CS/SE 4348?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1kf4mtd", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1746425384.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;What is the passing grade for (OS) CS/SE 4348 is a C or above or D?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1kf4mtd", "is_robot_indexable": true, "report_reasons": null, "author": "Own_Stage_758", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1kf4mtd/what_is_the_passing_grade_for_os_csse_4348/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1kf4mtd/what_is_the_passing_grade_for_os_csse_4348/", "subreddit_subscribers": 42010, "created_utc": 1746425384.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "How're you holding up? I gotta choose between these 2 and I would like some input before I pick my poison", "author_fullname": "t2_5td2l217", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Anyone taking CS 4384 Ntafos or CS 4348 I-Ling Yen right now", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1gl36x2", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.67, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1730912329.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;How&amp;#39;re you holding up? I gotta choose between these 2 and I would like some input before I pick my poison&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1gl36x2", "is_robot_indexable": true, "report_reasons": null, "author": "Tunelody", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1gl36x2/anyone_taking_cs_4384_ntafos_or_cs_4348_iling_yen/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1gl36x2/anyone_taking_cs_4384_ntafos_or_cs_4348_iling_yen/", "subreddit_subscribers": 42010, "created_utc": 1730912329.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I just wanted to know if anyone had Ravi Prakash for Operating Systems. I noticed the last time he taught the class was in fall in 2023. I am currently taking his class in summer and wanted some tips/advice to do well. He doesn't allow LLM tools and everything is from textbook/slides/videos. Just wanted to insight from those who have taken him. He's a good professor and I just want to do well so I can graduate in Fall.", "author_fullname": "t2_16lu1b", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348 with Ravi Prakash", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1dbkjvv", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1717904381.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I just wanted to know if anyone had Ravi Prakash for Operating Systems. I noticed the last time he taught the class was in fall in 2023. I am currently taking his class in summer and wanted some tips/advice to do well. He doesn&amp;#39;t allow LLM tools and everything is from textbook/slides/videos. Just wanted to insight from those who have taken him. He&amp;#39;s a good professor and I just want to do well so I can graduate in Fall.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1dbkjvv", "is_robot_indexable": true, "report_reasons": null, "author": "Plasmalucario", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1dbkjvv/cs_4348_with_ravi_prakash/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1dbkjvv/cs_4348_with_ravi_prakash/", "subreddit_subscribers": 42010, "created_utc": 1717904381.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Question is the title. There are at least 2 threads from over 2 years ago that asked this same thing, but I want more recent answers. Right now, the professors to pick from are Ozbirn, Salazar, DeGroot, Yen, and Pathak.\n\nBefore asking this, I looked at the past syllabi, utdgrades, and ratemyprofessor of these professors. Salazar and Ozbirn have both the best ratemyprofessor info and syllabus policies (meaning they don't enforce attendance, things like that.) Doug DeGroot has the best utdgrades for sure, but since they've only ever taught lower-level courses like CS 1337, it might be risky because this is like a new professor. I'm definitely not taking Pathak because he has very mixed ratemyprofessor reviews and enforces attendance according to his past syllabus. I'm not taking Yen either because they have no syllabi and the worst ratemyprofessor I've ever seen.\n\nFrom all that, I'm torn between taking either Salazar or Ozbirn. What do you all think?", "author_fullname": "t2_qn4qg81m", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Which professor to take for Operating Systems Concepts / CS 4348?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_ykng2t", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.86, "author_flair_background_color": null, "subreddit_type": "public", "ups": 5, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 5, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1667436082.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Question is the title. There are at least 2 threads from over 2 years ago that asked this same thing, but I want more recent answers. Right now, the professors to pick from are Ozbirn, Salazar, DeGroot, Yen, and Pathak.&lt;/p&gt;\n\n&lt;p&gt;Before asking this, I looked at the past syllabi, utdgrades, and ratemyprofessor of these professors. Salazar and Ozbirn have both the best ratemyprofessor info and syllabus policies (meaning they don&amp;#39;t enforce attendance, things like that.) Doug DeGroot has the best utdgrades for sure, but since they&amp;#39;ve only ever taught lower-level courses like CS 1337, it might be risky because this is like a new professor. I&amp;#39;m definitely not taking Pathak because he has very mixed ratemyprofessor reviews and enforces attendance according to his past syllabus. I&amp;#39;m not taking Yen either because they have no syllabi and the worst ratemyprofessor I&amp;#39;ve ever seen.&lt;/p&gt;\n\n&lt;p&gt;From all that, I&amp;#39;m torn between taking either Salazar or Ozbirn. What do you all think?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "ykng2t", "is_robot_indexable": true, "report_reasons": null, "author": "CarbonUnabatedAgony", "discussion_type": null, "num_comments": 15, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/ykng2t/which_professor_to_take_for_operating_systems/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/ykng2t/which_professor_to_take_for_operating_systems/", "subreddit_subscribers": 42010, "created_utc": 1667436082.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I ended up getting a B in the class for Intro. To Operating Systems. I understood most of the high level concepts but have forgotten or struggled to understand the finer details or the algorithms dealing with processes. I was able to complete the projects after reviewing and studying content again. My question was could I ask and persuade my advisor to allow me to retake the class?  Would it be worth retaking the class? My point is not to retake it for higher GPA but to hopefully understand the material better or in more depth. I am worried because operating systems is an important subject to get a job in the software development world from what I have heard.", "author_fullname": "t2_c4sfwmnj", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Is it worth retaking and even possible to retake CS 4348 Operating Systems after getting a B in the class?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_ncgrav", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1621020317.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I ended up getting a B in the class for Intro. To Operating Systems. I understood most of the high level concepts but have forgotten or struggled to understand the finer details or the algorithms dealing with processes. I was able to complete the projects after reviewing and studying content again. My question was could I ask and persuade my advisor to allow me to retake the class?  Would it be worth retaking the class? My point is not to retake it for higher GPA but to hopefully understand the material better or in more depth. I am worried because operating systems is an important subject to get a job in the software development world from what I have heard.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "ncgrav", "is_robot_indexable": true, "report_reasons": null, "author": "Accomplished-Song447", "discussion_type": null, "num_comments": 14, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/ncgrav/is_it_worth_retaking_and_even_possible_to_retake/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/ncgrav/is_it_worth_retaking_and_even_possible_to_retake/", "subreddit_subscribers": 42010, "created_utc": 1621020317.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "who is better?", "author_fullname": "t2_78htq2ff", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348 Ravi Prakash or Neeraj Mittal", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_tjwtk7", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1647931328.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;who is better?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "tjwtk7", "is_robot_indexable": true, "report_reasons": null, "author": "chucheman", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/tjwtk7/cs_4348_ravi_prakash_or_neeraj_mittal/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/tjwtk7/cs_4348_ravi_prakash_or_neeraj_mittal/", "subreddit_subscribers": 42010, "created_utc": 1647931328.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Which professor is better for CS 4348? \n\nRichard Goodrum, Sridhar Alagar or Elmer Salazar?", "author_fullname": "t2_9xvmlqkf", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348 Professor Recommendation", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_tx153v", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1649182239.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Which professor is better for CS 4348? &lt;/p&gt;\n\n&lt;p&gt;Richard Goodrum, Sridhar Alagar or Elmer Salazar?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "tx153v", "is_robot_indexable": true, "report_reasons": null, "author": "Gold_Yogurt_1948", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/tx153v/cs_4348_professor_recommendation/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/tx153v/cs_4348_professor_recommendation/", "subreddit_subscribers": 42010, "created_utc": 1649182239.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "My appointment is at 1: 15 today and there are only 12 spots right now. I will literally paypal someone 100$ if it will secure my spot. \n\nPlease and thanks.", "author_fullname": "t2_foa9qkal", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348 registration", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_twzz8r", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.99, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1649179022.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;My appointment is at 1: 15 today and there are only 12 spots right now. I will literally paypal someone 100$ if it will secure my spot. &lt;/p&gt;\n\n&lt;p&gt;Please and thanks.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "twzz8r", "is_robot_indexable": true, "report_reasons": null, "author": "Pristine_Wishbone759", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/twzz8r/cs_4348_registration/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/twzz8r/cs_4348_registration/", "subreddit_subscribers": 42010, "created_utc": 1649179022.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I am going to take CS5348 by I-Ling Yen\ud83d\ude14. Has anyone taken her 5348/4348 before? I want to get the syllabus of her class and prepare a little during this winter. I have been told her classes are extremely challenging. But I have no choice as she is the only professor teaching CS5348 next semester. Any suggestions about her class will be appreciated\ud83e\udd29", "author_fullname": "t2_buuptl0u", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 5348/4348 syllabus", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_qmc9av", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1635998188.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I am going to take CS5348 by I-Ling Yen\ud83d\ude14. Has anyone taken her 5348/4348 before? I want to get the syllabus of her class and prepare a little during this winter. I have been told her classes are extremely challenging. But I have no choice as she is the only professor teaching CS5348 next semester. Any suggestions about her class will be appreciated\ud83e\udd29&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "qmc9av", "is_robot_indexable": true, "report_reasons": null, "author": "NegotiationEnough977", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/qmc9av/cs_53484348_syllabus/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/qmc9av/cs_53484348_syllabus/", "subreddit_subscribers": 42010, "created_utc": 1635998188.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "title has the question basically lol", "author_fullname": "t2_4aquwokh", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Best professors for CS 4348 (Operating Systems)?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_g4yrph", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1587408592.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;title has the question basically lol&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "g4yrph", "is_robot_indexable": true, "report_reasons": null, "author": "swimming_in_clouds", "discussion_type": null, "num_comments": 10, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/g4yrph/best_professors_for_cs_4348_operating_systems/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/g4yrph/best_professors_for_cs_4348_operating_systems/", "subreddit_subscribers": 42010, "created_utc": 1587408592.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Anyone have any advice on preparing for Ozbrin's exam 2 with limited time? Or maybe have any resources  like quizlet links for each chapter (Ch7-12 + ch 14)? Or maybe remember anything about the exam that would be useful? \n\n&amp;#x200B;\n\nI studied pretty hard for the last exam and got a 72 smh, I feel like I got really unlucky with the questions.", "author_fullname": "t2_2isq4cmw", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348 Operating Systems Ozbirn Exam 2", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_ue305a", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 6, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 6, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1651173947.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Anyone have any advice on preparing for Ozbrin&amp;#39;s exam 2 with limited time? Or maybe have any resources  like quizlet links for each chapter (Ch7-12 + ch 14)? Or maybe remember anything about the exam that would be useful? &lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;I studied pretty hard for the last exam and got a 72 smh, I feel like I got really unlucky with the questions.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "ue305a", "is_robot_indexable": true, "report_reasons": null, "author": "martdnfjar", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/ue305a/cs_4348_operating_systems_ozbirn_exam_2/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/ue305a/cs_4348_operating_systems_ozbirn_exam_2/", "subreddit_subscribers": 42010, "created_utc": 1651173947.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hey guys, so for this class I have the option of choosing between Ozbirn, Yen, Mittal, Alagar, or Venkatesan and idk who to choose. Who do you guys who have taken this class with them think is the best in terms of an easy class. I heard Ozbirn does not do curves so that kind of scared me. Also do any of these use Honorlock because I can't stand it.\n\nTHX!", "author_fullname": "t2_4hqxvlj8", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_jmwyit", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1604353447.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey guys, so for this class I have the option of choosing between Ozbirn, Yen, Mittal, Alagar, or Venkatesan and idk who to choose. Who do you guys who have taken this class with them think is the best in terms of an easy class. I heard Ozbirn does not do curves so that kind of scared me. Also do any of these use Honorlock because I can&amp;#39;t stand it.&lt;/p&gt;\n\n&lt;p&gt;THX!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "jmwyit", "is_robot_indexable": true, "report_reasons": null, "author": "SUPERHEROGEEK_Z", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/jmwyit/cs_4348/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/jmwyit/cs_4348/", "subreddit_subscribers": 42010, "created_utc": 1604353447.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Does he curve for operating systems? Apparently the majority of the class isn't doing so hot, with the exception of a few people. The average on the test was high 60s. He said test 2 will be easier since it'll be in the testing center, but who knows. I would be happy with at least a C, so does anyone know if he curves?\n\nIt's his last semester so maybe he'll be generous?", "author_fullname": "t2_foa9qkal", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348 venkatesan curve?", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_u5fbqv", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": 1650170350.0, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1650169658.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Does he curve for operating systems? Apparently the majority of the class isn&amp;#39;t doing so hot, with the exception of a few people. The average on the test was high 60s. He said test 2 will be easier since it&amp;#39;ll be in the testing center, but who knows. I would be happy with at least a C, so does anyone know if he curves?&lt;/p&gt;\n\n&lt;p&gt;It&amp;#39;s his last semester so maybe he&amp;#39;ll be generous?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "u5fbqv", "is_robot_indexable": true, "report_reasons": null, "author": "Pristine_Wishbone759", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/u5fbqv/cs_4348_venkatesan_curve/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/u5fbqv/cs_4348_venkatesan_curve/", "subreddit_subscribers": 42010, "created_utc": 1650169658.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Does anyone have Ozbirn\u2019s CS 4348 recordings? Looking for them to prep. PM me pls", "author_fullname": "t2_ang0q9mc", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348 recordings?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_nixzn2", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1621736698.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Does anyone have Ozbirn\u2019s CS 4348 recordings? Looking for them to prep. PM me pls&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "nixzn2", "is_robot_indexable": true, "report_reasons": null, "author": "Hour-Ad-355", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/nixzn2/cs_4348_recordings/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/nixzn2/cs_4348_recordings/", "subreddit_subscribers": 42010, "created_utc": 1621736698.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "The CSMC is only limited up to CS 3305 or CS 3340 and usually the tutors do not help for other higher level subjects, which is understandable since it\u2019s not supported. This led me to wonder is there any similar place for students to go get tutoring or help for higher level CS classes like 4348 or 4337?", "author_fullname": "t2_6684a0vu", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Is there tutoring at UTD for higher level CS classes like CS 4348 or CS 4337?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_n79qw3", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1620423598.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The CSMC is only limited up to CS 3305 or CS 3340 and usually the tutors do not help for other higher level subjects, which is understandable since it\u2019s not supported. This led me to wonder is there any similar place for students to go get tutoring or help for higher level CS classes like 4348 or 4337?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "n79qw3", "is_robot_indexable": true, "report_reasons": null, "author": "patsfan-4-life", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/n79qw3/is_there_tutoring_at_utd_for_higher_level_cs/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/n79qw3/is_there_tutoring_at_utd_for_higher_level_cs/", "subreddit_subscribers": 42010, "created_utc": 1620423598.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I realized that they added new sections. Currently I'm enrolled with Ozbirn but Alagar's section also fits my schedule. \n\nhttps://coursebook.utdallas.edu/ues-report/sxa173731 It seems that these links are broken so I can't see the evals\n\n\n\nOzbirn's RMF shows that his tests are tricky and stuff. Alagar seems to be new so he only has 3 reviews which is why I'm asking if anyone who's taken either professor could highlight some things? Ty\n\n\nhttp://www.ratemyprofessors.com/ShowRatings.jsp?tid=2299173 (Alagar)\n\n\n\nhttp://www.ratemyprofessors.com/ShowRatings.jsp?tid=182581 (Ozbirn)", "author_fullname": "t2_sdpoh", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348 - OS with Sridhar Alagar or Greg Ozbirn??", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_7kw8eg", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.5, "author_flair_background_color": "", "subreddit_type": "public", "ups": 0, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 0, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1513717327.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": true, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I realized that they added new sections. Currently I&amp;#39;m enrolled with Ozbirn but Alagar&amp;#39;s section also fits my schedule. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://coursebook.utdallas.edu/ues-report/sxa173731\"&gt;https://coursebook.utdallas.edu/ues-report/sxa173731&lt;/a&gt; It seems that these links are broken so I can&amp;#39;t see the evals&lt;/p&gt;\n\n&lt;p&gt;Ozbirn&amp;#39;s RMF shows that his tests are tricky and stuff. Alagar seems to be new so he only has 3 reviews which is why I&amp;#39;m asking if anyone who&amp;#39;s taken either professor could highlight some things? Ty&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2299173\"&gt;http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2299173&lt;/a&gt; (Alagar)&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.ratemyprofessors.com/ShowRatings.jsp?tid=182581\"&gt;http://www.ratemyprofessors.com/ShowRatings.jsp?tid=182581&lt;/a&gt; (Ozbirn)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "7kw8eg", "is_robot_indexable": true, "report_reasons": null, "author": "Frozenarmy", "discussion_type": null, "num_comments": 11, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/7kw8eg/cs_4348_os_with_sridhar_alagar_or_greg_ozbirn/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/7kw8eg/cs_4348_os_with_sridhar_alagar_or_greg_ozbirn/", "subreddit_subscribers": 42010, "created_utc": 1513717327.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "It seems like CS 4348 (Operating Systems) class with Ozbirn got switched to  Dr.Erbatur. How is Dr. Erbatur? I cannot find much about this professor online.", "author_fullname": "t2_3snvlvb2", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348.001 (OS) has switched from Ozbirn to Serdar Erbatur. How is Dr. Erbatur?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_jskn76", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1605142283.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;It seems like CS 4348 (Operating Systems) class with Ozbirn got switched to  Dr.Erbatur. How is Dr. Erbatur? I cannot find much about this professor online.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "jskn76", "is_robot_indexable": true, "report_reasons": null, "author": "fluteofpurple", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/jskn76/cs_4348001_os_has_switched_from_ozbirn_to_serdar/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/jskn76/cs_4348001_os_has_switched_from_ozbirn_to_serdar/", "subreddit_subscribers": 42010, "created_utc": 1605142283.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Am curious if anyone has downloaded the lecture videos from CS 4348? I would be interested if so, please DM me.", "author_fullname": "t2_cosy94t4", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348 recordings?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_nzmdzw", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.67, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1623676053.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Am curious if anyone has downloaded the lecture videos from CS 4348? I would be interested if so, please DM me.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "nzmdzw", "is_robot_indexable": true, "report_reasons": null, "author": "Key_Acanthisitta_476", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/nzmdzw/cs_4348_recordings/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/nzmdzw/cs_4348_recordings/", "subreddit_subscribers": 42010, "created_utc": 1623676053.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I was wondering if anyone has had Ravi Prakash or Michael Christiansen for CS 4348 during the Summer and if they could tell me about their experience taking these classes?\n\nWhat is the homework like?\nHow are the projects?\nHow are the exams?\nDo they curve?\n\nThank you in advance!", "author_fullname": "t2_e5db9", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4348 with Ravi Prakash or Michael Christiansen?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_n825b2", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": "#fad900", "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "085d8998-93be-11e3-94c1-12313b0c91be", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [{"e": "text", "t": "Alumnus"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1620519470.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I was wondering if anyone has had Ravi Prakash or Michael Christiansen for CS 4348 during the Summer and if they could tell me about their experience taking these classes?&lt;/p&gt;\n\n&lt;p&gt;What is the homework like?\nHow are the projects?\nHow are the exams?\nDo they curve?&lt;/p&gt;\n\n&lt;p&gt;Thank you in advance!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Alumnus", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "n825b2", "is_robot_indexable": true, "report_reasons": null, "author": "olaade", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/n825b2/cs_4348_with_ravi_prakash_or_michael_christiansen/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/n825b2/cs_4348_with_ravi_prakash_or_michael_christiansen/", "subreddit_subscribers": 42010, "created_utc": 1620519470.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Which professor is good for this class?", "author_fullname": "t2_2szazla8", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Cs 4348", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_a78dcw", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1545112957.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": true, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Which professor is good for this class?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "a78dcw", "is_robot_indexable": true, "report_reasons": null, "author": "whatslife123", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/a78dcw/cs_4348/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/a78dcw/cs_4348/", "subreddit_subscribers": 42010, "created_utc": 1545112957.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "How can we take OS, which is needed to graduate and take other classes, when all sections are full? Will more sections or seats be added?", "author_fullname": "t2_3snvlvb2", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "All sections for CS 4348 are full, what to do?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_jrfcy3", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1604986963.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;How can we take OS, which is needed to graduate and take other classes, when all sections are full? Will more sections or seats be added?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "jrfcy3", "is_robot_indexable": true, "report_reasons": null, "author": "fluteofpurple", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/jrfcy3/all_sections_for_cs_4348_are_full_what_to_do/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/jrfcy3/all_sections_for_cs_4348_are_full_what_to_do/", "subreddit_subscribers": 42010, "created_utc": 1604986963.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Which one should be take before in the CS degree? Which one should be helpful to take first? Is one easier than the other?", "author_fullname": "t2_5fiznvdx", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4349 vs CS 4348", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_g5212h", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1587419079.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Which one should be take before in the CS degree? Which one should be helpful to take first? Is one easier than the other?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "g5212h", "is_robot_indexable": true, "report_reasons": null, "author": "mustardonketchup", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/g5212h/cs_4349_vs_cs_4348/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/g5212h/cs_4349_vs_cs_4348/", "subreddit_subscribers": 42010, "created_utc": 1587419079.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Been sometime and haven\u2019t moved in waitlists for Cs 4348. Does it take a lot of time to move up on the waitlist or are my chances low if I am not number one position?", "author_fullname": "t2_6684a0vu", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Not much movement in waitlist for CS 4348, is that normal?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_js4fxo", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1605083172.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Been sometime and haven\u2019t moved in waitlists for Cs 4348. Does it take a lot of time to move up on the waitlist or are my chances low if I am not number one position?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "js4fxo", "is_robot_indexable": true, "report_reasons": null, "author": "patsfan-4-life", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/js4fxo/not_much_movement_in_waitlist_for_cs_4348_is_that/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/js4fxo/not_much_movement_in_waitlist_for_cs_4348_is_that/", "subreddit_subscribers": 42010, "created_utc": 1605083172.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "The grade distribution seems the worst for Ozbirn, so I was wondering, which professors' exams/class was the \"easiest\"?", "author_fullname": "t2_4yjgr0vx", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Ozbirn or Mittal or Venkatesan for CS 4348 Operating Systems?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_dsgj6v", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.6, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1573048064.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The grade distribution seems the worst for Ozbirn, so I was wondering, which professors&amp;#39; exams/class was the &amp;quot;easiest&amp;quot;?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "dsgj6v", "is_robot_indexable": true, "report_reasons": null, "author": "MaterialJury6", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/dsgj6v/ozbirn_or_mittal_or_venkatesan_for_cs_4348/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/dsgj6v/ozbirn_or_mittal_or_venkatesan_for_cs_4348/", "subreddit_subscribers": 42010, "created_utc": 1573048064.0, "num_crossposts": 0, "media": null, "is_video": false}}], "before": null}}
 ---
-
-Reddit's public JSON endpoints currently return HTTP 403 for unauthenticated
-requests (including the search endpoint and subreddit listing endpoints).
-Reddit started blocking anonymous JSON access in mid-2023 and the restriction
-remains in effect. Without OAuth credentials the script cannot fetch threads.
 
 Manual collection steps for CS 4348:
   1. In a browser, open https://www.reddit.com/r/utdallas/search/?q=CS+4348&restrict_sr=1
-  2. Open the top 8-12 threads (sort by relevance, then by top of all time).
-  3. For each thread, copy:
-       - The post title and body text.
-       - The top 10-20 comments (skip 'deleted' and joke replies).
-  4. Paste below the --- divider, one thread per block. Format suggestion:
-       === THREAD N: <title> ===
-       url: <permalink>
-       <selftext>
-       COMMENTS:
-       - [author] <comment>
+  
+  
 
-Alternative: register a script-type app at https://www.reddit.com/prefs/apps,
-get a client_id + client_secret, then update this script to use the OAuth
-flow (POST https://www.reddit.com/api/v1/access_token then use the bearer
-token on oauth.reddit.com URLs). That would unlock automated re-fetches.
+Go to utdallas
+r/utdallas
+•
+6y ago
+mustardonketchup
+
+CS 4349 vs CS 4348
+Which one should be take before in the CS degree? Which one should be helpful to take first? Is one easier than the other?
+
+
+Upvote
+1
+
+Downvote
+
+3
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+CurryWizard
+•
+6y ago
+They both are not easy walk in the park classes. Cs 4349 is trying understand algos and which to use for different problems. Theory. Cs 4348 is understanding how operating system works and how processes are executed. For me it seemed like it didnt matter which one to take first. OS you had a lot of projects to show how the system deals with tasks. For advanced algs it was more understanding optimization and efficiency of algorithms.
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+disastr0phe
+•
+6y ago
+I've taken both. I don't think they overlap very much so it doesn't matter which one you take first. Advanced Algorithms was one of the hardest courses I've ever taken so that's the harder one.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+4y ago
+Gold_Yogurt_1948
+
+CS 4348 Professor Recommendation
+Question: Academics
+Which professor is better for CS 4348?
+
+Richard Goodrum, Sridhar Alagar or Elmer Salazar?
+
+
+Upvote
+2
+
+Downvote
+
+3
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+[deleted]
+•
+4y ago
+Salazar by far. He's a really nice guy and has forgiving grading policies.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Gold_Yogurt_1948 avatar
+Gold_Yogurt_1948
+OP
+•
+4y ago
+How are Salazar's assignments, projects and exams?
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+•
+4y ago
+Assignments are pretty much from the textbook. Not that hard really.
+
+Projects are kind of difficult though, although he gives you plenty of time and he gives leniency as far as grades go for that.
+
+Exams were online and open note for me. He also allows corrections.
+
+There was also a small curve at the end of the semester.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+7y ago
+Wise_Sandwich
+
+Best professors for CS 4348 (Operating Systems)?
+Which professors are "easier" (I know this class is far from easy, but of these professors which one would be the best/has easier exams?: Gregg Ozbirn, Neeraj Mittal, Venkatesan
+
+
+Upvote
+1
+
+Downvote
+
+2
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Old (Default)
+Comments Section
+[deleted]
+•
+7y ago
+Ozbirn 10/10. His lecture slides are gold. I loved his class so much I signed up for his advanced java course over the summer (whoch I also 10/10 reccomend)
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/WatchMeRayRay avatar
+WatchMeRayRay
+•
+7y ago
+Software Engineering
+Ozbirn always. Great professor, always willing to help in office hours
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+8y ago
+wolfsnowpack
+
+Neeraj Mittal for CS 4348?
+Just curious has anyone had Neeraj Mittal recently? I know he mostly teaches graduate Advanced Operating Systems, but next semester he is also teaching just Operating System Concepts for CS 4348. Does anyone know his style(workload/teaching), and is he a good professor, or is better to just go Ozbirn?
+
+
+Upvote
+0
+
+Downvote
+
+1
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Old (Default)
+Comments Section
+u/ishan001 avatar
+ishan001
+•
+8y ago
+I am a grad student and I took Distributed Computing in Spring 18 and Introduction to Multicore Programming this semester. He's pretty good and almost never uses slides. He'll patiently go through examples to make sure students understand the concepts. As long as you pay attention in the class, his class should be a breeze. (Projects can be hard, but he's understanding and open to extending deadlines).
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+1y ago
+Own_Stage_758
+
+What is the passing grade for (OS) CS/SE 4348?
+Question: Academics
+What is the passing grade for (OS) CS/SE 4348 is a C or above or D?
+
+
+Upvote
+2
+
+Downvote
+
+4
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+MONKEYMAIL
+•
+1y ago
+Alumnus
+D. Same as all classes that are the end of a sequence, unless otherwise specified on the degree plan.
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/LivingWonderful1864 avatar
+LivingWonderful1864
+•
+1y ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Passing grade: D or above
+
+Prerequisite grade: C or above
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+Accomplished_Fly9305
+•
+1y ago
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+7mo ago
+Yourrage-burner
+
+CS 4348 Operating Systems with I-ling Yen
+Question: Academics
+Should I take I-Ling Yen for CS 4348? I saw that the grades in the past were very bad but I saw that they were better last semester. How’s her teaching style, workload, and exams? Would you recommend taking her, or is it better to wait for another professor?
+
+
+Upvote
+6
+
+Downvote
+
+3
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/Interesting_Town7220 avatar
+Interesting_Town7220
+•
+7mo ago
+i decided to wait and delay it till fall 2026
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/hwa523ca avatar
+hwa523ca
+•
+7mo ago
+Alumnus
+ABSOLUTELY NOT!!!!!! I took her Spring ‘21, and withdrew right after the first exam. Her teaching style makes zero sense, workload is massive, and her exams were ridiculously difficult. Wait for another professor to be available, or take it a different semester. CS 4348 is a difficult class to begin with, but I guarantee you’ll have better chance of passing with almost any other professor.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Squidsquace_
+•
+7mo ago
+Her rmp says she has 5 tests and 3 major projects in the first 8 weeks i saw that and will be taking fall 26 or summer 26
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+8y ago
+whatslife123
+
+Cs 4348
+Which professor is good for this class?
+
+
+Upvote
+2
+
+Downvote
+
+7
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+Comments Section
+u/Frozenarmy avatar
+Frozenarmy
+•
+8y ago
+Computer Science
+Alagar was good, but you really do need to know certain things from unix and you really do need to work to do well. OS is in C programming which also makes it tricky to debug
+
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/whatslife123 avatar
+whatslife123
+OP
+•
+8y ago
+So you cant use java for this class?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/nowater5 avatar
+nowater5
+•
+8y ago
+Ozbrin is good and lets you use java
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/whatslife123 avatar
+whatslife123
+OP
+•
+8y ago
+Are his projects and exams both good?
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Frozenarmy avatar
+Frozenarmy
+•
+8y ago
+Computer Science
+I don't remember, but I would still ask you to use C because some things like memory management are core to Operating systems and you may have to use C in a real job(or, atleast if someone asks you about memory management in an interview you can talk about it) and right now is a good time to learn (Unix is written in C)
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/whatslife123 avatar
+whatslife123
+OP
+•
+8y ago
+Oh ok thank you!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+[deleted]
+•
+8y ago
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+6y ago
+SUPERHEROGEEK_Z
+
+CS 4348
+Hey guys, so for this class I have the option of choosing between Ozbirn, Yen, Mittal, Alagar, or Venkatesan and idk who to choose. Who do you guys who have taken this class with them think is the best in terms of an easy class. I heard Ozbirn does not do curves so that kind of scared me. Also do any of these use Honorlock because I can't stand it.
+
+THX!
+
+
+Upvote
+1
+
+Downvote
+
+7
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/RossGellerBot avatar
+RossGellerBot
+•
+6y ago
+Whom do you guys
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/WatchMeRayRay avatar
+WatchMeRayRay
+•
+6y ago
+Software Engineering
+Forget the not curving anything. Ozbirn is a fair professor. His lectures and projects for OS are very informative and made me enjoy the material quite a bit. Most people do bad in that class because the projects aren’t last second assignments; they require a fair amount of planning and thought
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/BigStanks avatar
+BigStanks
+•
+6y ago
+I 100% agree; however, if honor lock is a deal breaker look elsewhere. Ozbirn does use honor lock for his exams.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/SUPERHEROGEEK_Z avatar
+SUPERHEROGEEK_Z
+OP
+•
+6y ago
+Ah dang it, ok thx! Do you know if any of the others use it?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/SUPERHEROGEEK_Z avatar
+SUPERHEROGEEK_Z
+OP
+•
+6y ago
+Ok thank you! Also, how good do you have to be at like coding and stuff cuz it takes me quite a while to figure out assignments and stuff so I have to plan like a week before lol.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/WatchMeRayRay avatar
+WatchMeRayRay
+•
+6y ago
+Software Engineering
+It’s not so much about coding as it is about the concepts. His assignments should be psuedocoded first and then worked on, as once you get the concepts, the implementation is fairly easy. As for the written HWs he gives out, those are easy enough and mainly based on his slides.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/SUPERHEROGEEK_Z avatar
+SUPERHEROGEEK_Z
+OP
+•
+6y ago
+Ok cool, thank you! I guess its the whole honorlock thing that's mainly making it hard for me to settle on which professor then.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+2y ago
+Plasmalucario
+
+CS 4348 with Ravi Prakash
+Question: Academics
+I just wanted to know if anyone had Ravi Prakash for Operating Systems. I noticed the last time he taught the class was in fall in 2023. I am currently taking his class in summer and wanted some tips/advice to do well. He doesn't allow LLM tools and everything is from textbook/slides/videos. Just wanted to insight from those who have taken him. He's a good professor and I just want to do well so I can graduate in Fall.
+
+
+Upvote
+3
+
+Downvote
+
+1
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+Uncle_4
+•
+2y ago
+I think I'm in the same class as you are lol. I've just been using the textbook and lectures. Couldn't find any quizzes related tk o him online.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+4y ago
+CarbonUnabatedAgony
+
+Which professor to take for Operating Systems Concepts / CS 4348?
+Question: Academics
+Question is the title. There are at least 2 threads from over 2 years ago that asked this same thing, but I want more recent answers. Right now, the professors to pick from are Ozbirn, Salazar, DeGroot, Yen, and Pathak.
+
+Before asking this, I looked at the past syllabi, utdgrades, and ratemyprofessor of these professors. Salazar and Ozbirn have both the best ratemyprofessor info and syllabus policies (meaning they don't enforce attendance, things like that.) Doug DeGroot has the best utdgrades for sure, but since they've only ever taught lower-level courses like CS 1337, it might be risky because this is like a new professor. I'm definitely not taking Pathak because he has very mixed ratemyprofessor reviews and enforces attendance according to his past syllabus. I'm not taking Yen either because they have no syllabi and the worst ratemyprofessor I've ever seen.
+
+From all that, I'm torn between taking either Salazar or Ozbirn. What do you all think?
+
+
+Upvote
+5
+
+Downvote
+
+15
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+tamewraith
+•
+4y ago
+Alumnus
+between the two, I would say ozbirn
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Think_Lie648
+•
+4y ago
+Salazar is a very solid choice imo. You will learn a lot in his class and he’s very lenient with grades. You get a rework on all of your tests for points back and the homework problems are literally straight from the textbook- additionally for his projects people have submitted code that doesn’t even run and gotten a 70. I think he’s the underrated choice and a very good professor.
+
+
+Upvote
+9
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Ctesiphus avatar
+Ctesiphus
+•
+4y ago
+Do not take Yen. If she is the only one left, take OS next semester. That is the most absurdly difficult class I have ever taken. Salazar is good, DeGroot is a good.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/A_BlueBanana avatar
+A_BlueBanana
+•
+4y ago
+Yeah beware of DeGroot, it will be his first time teaching that I believe and honestly I don’t even like the class I’m taking for him now. Can’t imagine what he’s be like for an actual course not about writing essays…
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+winterbee_
+•
+4y ago
+Alumnus
+I recommend Salazar. I had him for OS this past spring and he’s a great professor. From what I remember he does take attendance but it’s for the purpose of possibly curving your grade at the end of the semester if you’re short a couple points from the next letter. You can tell he genuinely loves teaching and has fun with the class. Lectures were kinda boring but I’m not sure how someone can make teaching OS very interesting anyway. Projects can be beefy but he’s really nice with grading and he pushed all his project deadlines back per the students’ request. He wants you to learn and be successful, highly recommend.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Administrative-Bug25 avatar
+Administrative-Bug25
+•
+4y ago
+Computer Science
+highly recommend ozbirn, like, could not recommend him enough;
+
+his tests are based on the slides, and are fairly straightforward; his projects are a little difficult but still manageable, and i personally think he’s a great teacher, he’s always happy to answer questions and he’s like really sweet
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+TarZerk
+•
+4y ago
+Software Engineering
+I would say if you can't get Ozbirn, you should get Salazar. He is a little dry sometimes but genuinely knows his stuff and is lenient with the grading. I learned a lot through the projects.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+CarbonUnabatedAgony
+OP
+•
+3y ago
+•
+Edited 3y ago
+Revisiting this after being in Salazar's class for about half a semester. I regret picking Salazar. He's a good lecturer, but his tests and homework are unfair. I should've picked Ozbirn. Edit: Read my reply to this for details.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Accomplished-King728
+•
+3y ago
+can u elaborate more on this?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+CarbonUnabatedAgony
+OP
+•
+3y ago
+I forgot I posted this. It's not as bad as I just made it sound tbh.
+
+To start on a nice note: His lectures and notes are great. The most important material is in his lecture notes. Anything that needs a lot of examples or explaining gets a long section in the lecture. Lectures are recorded.
+
+I take back the part about homework being unfair; it's really just the tests. Homework is basically questions that force you to read the textbook, 90% of the answers can just be copied and pasted from there for full points, plus there are a couple math problems you have to do which are unnecessarily long. It just feels like busy-work. I thought homework was unfair because I was losing major points for minor mistakes and small issues with my paraphrasing, but I've since been re-graded and have gotten most of my points back. In summary, you just have to read through lecture notes and the textbook to get near-perfect grades on the homework; it's just busy-work and forced textbook reading.
+
+Regarding tests, they're terrible. The good thing is they're open-book and multiple-choice with up to 3 answer choices. All the answers can be found in the textbook if you search for them, and you get plenty of time to do this. However, the questions are poorly worded and ambiguous, in a way where it'll even hurt students who know the material perfectly. It's like there are multiple correct answers, but only one answer gets you the points. The result is that scores are more-or-less random. Your hard work studying doesn't affect whether you get an A or B as your final grade in this class. What determines if you get an A or B at the end of the semester is whether you got lucky and picked the answers that are correct.
+
+Lastly, this semester he decided to start enforcing attendance. It's not a bad thing since his lectures are good, but personally I'm not good at learning from lectures.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Accomplished-King728
+•
+3y ago
+Is the class divided up between hw and tests? Also are the tested online?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+CarbonUnabatedAgony
+OP
+•
+3y ago
+The class has homework, 2 tests, and 3 projects. The tests are online.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Accomplished-King728
+•
+3y ago
+How are the projects? Difficult? Online resources? Etc
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+CarbonUnabatedAgony
+OP
+•
+3y ago
+I've only done one project so far and haven't received a grade for it yet, so take this with a grain of salt. It was an individual programming assignment relating to inter-process communication using standard input and output streams. It wasn't too difficult, but it was time-consuming, taking almost a whole weekend. He does give more than enough time, though. You get the option of programming in Java 8, Python, C, or C++, whichever one you prefer, and you're given code snippets to set up the processes for you. So really, while this project does help you learn how processes communicate, what you're really being tested on is whether or not you're capable of writing a medium sized program. Unfortunately, what probably made this difficult for some people was that we had to do a lot of string manipulation that was definitely out of the scope of this curriculum, though it's still stuff you need to learn at some point in your career. I had to do a lot of searching online that had nothing to do with what we were learning. The project was definitely doable.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+CarbonUnabatedAgony
+OP
+•
+3y ago
+So anyways, if it isn't clear, Salazar is good. He's just not perfect, specifically because of his unfair exams. I'm sure there's at least one negative point about Ozbirn too.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Community Info Section
+r/utdallas
+Join
+The UT Dallas Subreddit
+Welcome to the student-run (unofficial) subreddit for The University of Texas at Dallas! Post anything and everything here about UT Dallas. Faculty, staff, students, and alumni are welcome.
+
+Show more
+Created Sep 26, 2010
+Public
+20K
+Comets
+597
+Whooshing
+User flair
+u/South_Judge870 avatar
+South_Judge870
+Community Bookmarks
+
+UT Dallas
+
+Student Resources
+
+Club Discords
+
+Post Collections
+GitHub
+Useful UTD Links
+UTDallas GitHub
+UTDallas GitHub
+Academic Calendar
+Academic Calendar
+Comet Calendar (Events)
+Comet Calendar (Events)
+eLearning Enhancement
+eLearning Enhancement
+Campus Room Availability
+Campus Room Availability
+UTD News (The Mercury)
+UTD News (The Mercury)
+Library Room Reservation
+Library Room Reservation
+Course Planner
+Course Planner
+r/utdallas Rules
+1
+Whatever iLikeComputers says, goes.
+2
+Posts must relate to UTD.
+3
+Be civil, and act in good faith.
+4
+Don't post low-quality or redundant content.
+5
+Do some research before asking a question.
+6
+Don't troll people or share spam.
+7
+Don't share NSFW content.
+8
+Do not promote scholastic dishonesty, fraud, or illegal activities.
+9
+This is not a marketplace.
+Moderators
+Message Mods
+u/iLikeComputers
+ 
+emoji:illuminati:
+u/AutoModerator avatar
+u/AutoModerator
+u/anonnoodle88 avatar
+u/anonnoodle88
+u/5yrup
+ 
+Alumnus
+u/7saturdaysaweek
+u/yellowelbow
+View all moderators
+Reddit Rules
+Privacy Policy
+User Agreement
+Your Privacy Choices
+Accessibility
+Reddit, Inc. © 2026. All rights reserved.
+
+Collapse Navigation
+
+

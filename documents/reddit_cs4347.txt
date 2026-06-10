@@ -1,29 +1,1125 @@
 # Source: r/utdallas search 'CS 4347'
 # URL: https://www.reddit.com/r/utdallas/search.json?q=CS+4347&restrict_sr=1&sort=relevance&t=all&limit=25
-# Fetched: 2026-06-09 18:51:54
-# Note: PLACEHOLDER - reddit returned 403 to anonymous JSON. Needs manual paste-in.
-# Status: placeholder
+# Fetched: 2026-06-09 18:51:54 {"kind": "Listing", "data": {"modhash": "iedv9trhwo7c40f8aee4fddf7b75c29a16ad2b2118e3faed6f", "dist": 25, "facets": {}, "after": "t3_1opqmin", "geo_filter": "", "children": [{"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "As of now for next semester the options are  Michael G Christiansen ,  Chris Irwin Davis,  Ziaullah Khan, and  Timothy L Culver. Among these professors who would you recommend or share your experiences based on these professors if you have taken one of them for a class? Or should I possibly wait for next spring for another specific good professor?", "author_fullname": "t2_3snvlvb2", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Best Prof for CS 4347- Database Systems?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_fq4kd6", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1585339660.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;As of now for next semester the options are  Michael G Christiansen ,  Chris Irwin Davis,  Ziaullah Khan, and  Timothy L Culver. Among these professors who would you recommend or share your experiences based on these professors if you have taken one of them for a class? Or should I possibly wait for next spring for another specific good professor?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "fq4kd6", "is_robot_indexable": true, "report_reasons": null, "author": "fluteofpurple", "discussion_type": null, "num_comments": 4, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/fq4kd6/best_prof_for_cs_4347_database_systems/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/fq4kd6/best_prof_for_cs_4347_database_systems/", "subreddit_subscribers": 42010, "created_utc": 1585339660.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I've tried registering for Cs 4347 but its not letting me due to a new pre requirement. It's saying CS 3345 with grade C or better? Did they change it? But I'm still able to register for Cs 4348 and CS 4349. Currently my grade for CS 3345 is a D. Please help me get some clarity for this? Thank you. ", "author_fullname": "t2_e48tz4b7", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4347 New Pre Requiements", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1sjyl3r", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1776048738.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;ve tried registering for Cs 4347 but its not letting me due to a new pre requirement. It&amp;#39;s saying CS 3345 with grade C or better? Did they change it? But I&amp;#39;m still able to register for Cs 4348 and CS 4349. Currently my grade for CS 3345 is a D. Please help me get some clarity for this? Thank you. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "1sjyl3r", "is_robot_indexable": true, "report_reasons": null, "author": "Clean_Atmosphere9559", "discussion_type": null, "num_comments": 9, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1sjyl3r/cs_4347_new_pre_requiements/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1sjyl3r/cs_4347_new_pre_requiements/", "subreddit_subscribers": 42010, "created_utc": 1776048738.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Planning to take Operating Systems (CS 4348) and trying to pick between:\n\n\u2022 Neeraj Mittal  \n\u2022 Cody Hatfield  \n\u2022 Elmer Salazar  \n\u2022 I-Ling Yen\n\nHow are they with lectures, projects, and overall difficulty? Would love to hear your experience or recommendations.", "author_fullname": "t2_c0jfvzcl", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Which professor would you recommend for CS-4347", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1ojidq4", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 8, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 8, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1761776151.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Planning to take Operating Systems (CS 4348) and trying to pick between:&lt;/p&gt;\n\n&lt;p&gt;\u2022 Neeraj Mittal&lt;br/&gt;\n\u2022 Cody Hatfield&lt;br/&gt;\n\u2022 Elmer Salazar&lt;br/&gt;\n\u2022 I-Ling Yen&lt;/p&gt;\n\n&lt;p&gt;How are they with lectures, projects, and overall difficulty? Would love to hear your experience or recommendations.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "1ojidq4", "is_robot_indexable": true, "report_reasons": null, "author": "Safe-Cat-3902", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1ojidq4/which_professor_would_you_recommend_for_cs4347/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1ojidq4/which_professor_would_you_recommend_for_cs4347/", "subreddit_subscribers": 42010, "created_utc": 1761776151.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Most of people's concerns for Prof. Davis are that he posts grades late, but apart from that, who do you guys recommend for CS 4347 (database Systems)? \n\nWould love your input, thanks!!", "author_fullname": "t2_kgojwmatn", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Prof. Ziaullah Khan or Chris Davis for CS 4347", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1lno46d", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1751227430.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Most of people&amp;#39;s concerns for Prof. Davis are that he posts grades late, but apart from that, who do you guys recommend for CS 4347 (database Systems)? &lt;/p&gt;\n\n&lt;p&gt;Would love your input, thanks!!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "1lno46d", "is_robot_indexable": true, "report_reasons": null, "author": "Summer_Breaze", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1lno46d/prof_ziaullah_khan_or_chris_davis_for_cs_4347/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1lno46d/prof_ziaullah_khan_or_chris_davis_for_cs_4347/", "subreddit_subscribers": 42010, "created_utc": 1751227430.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Does anyone have the syllabus for Chris Davis Database class? I cant find it anywhere", "author_fullname": "t2_mf7bo7xt", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Syllabus for Chris Davis CS 4347", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_1jwxb12", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1744397048.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Does anyone have the syllabus for Chris Davis Database class? I cant find it anywhere&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1jwxb12", "is_robot_indexable": true, "report_reasons": null, "author": "Interesting_Town7220", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1jwxb12/syllabus_for_chris_davis_cs_4347/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1jwxb12/syllabus_for_chris_davis_cs_4347/", "subreddit_subscribers": 42010, "created_utc": 1744397048.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "CS Major minoring in Business Analytics. \n\nI have to take both Database Fundamentals (ITSS 4300) and Database Systems (CS/SE 4347). Has anyone taken both before? Are they super similar? Should I try to take both the same semester?\n\n\nMy guess:\nIt appears fundies is about using and administering a DBMS while systems is about actually building a DBMS. Is that right?\n\nThanks!", "author_fullname": "t2_gs4j7sls0", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "How Similar Are ITSS 4300 and CS 4347?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_18iif7t", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.75, "author_flair_background_color": null, "subreddit_type": "public", "ups": 4, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 4, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1702587223.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;CS Major minoring in Business Analytics. &lt;/p&gt;\n\n&lt;p&gt;I have to take both Database Fundamentals (ITSS 4300) and Database Systems (CS/SE 4347). Has anyone taken both before? Are they super similar? Should I try to take both the same semester?&lt;/p&gt;\n\n&lt;p&gt;My guess:\nIt appears fundies is about using and administering a DBMS while systems is about actually building a DBMS. Is that right?&lt;/p&gt;\n\n&lt;p&gt;Thanks!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "18iif7t", "is_robot_indexable": true, "report_reasons": null, "author": "bj_nerd", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/18iif7t/how_similar_are_itss_4300_and_cs_4347/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/18iif7t/how_similar_are_itss_4300_and_cs_4347/", "subreddit_subscribers": 42010, "created_utc": 1702587223.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Taking his class next semester and was wondering if anyone had any info about him? Don't see much on rmp or on this sub. Thanks", "author_fullname": "t2_edjujn95", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4347 w/Chris Irwin Davis?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_15i3bwo", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1691163398.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Taking his class next semester and was wondering if anyone had any info about him? Don&amp;#39;t see much on rmp or on this sub. Thanks&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": null, "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "15i3bwo", "is_robot_indexable": true, "report_reasons": null, "author": "nunuscott", "discussion_type": null, "num_comments": 5, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/15i3bwo/cs_4347_wchris_irwin_davis/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/15i3bwo/cs_4347_wchris_irwin_davis/", "subreddit_subscribers": 42010, "created_utc": 1691163398.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "As the title says pls share your thoughts/experience from his class ", "author_fullname": "t2_gcmqwuhh", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "How is Murat for CS 4347?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_18auubz", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1701725307.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;As the title says pls share your thoughts/experience from his class &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "18auubz", "is_robot_indexable": true, "report_reasons": null, "author": "Aggressive_Ad1186", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/18auubz/how_is_murat_for_cs_4347/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/18auubz/how_is_murat_for_cs_4347/", "subreddit_subscribers": 42010, "created_utc": 1701725307.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Has anyone had Dr Xinda Wang for Databases? I see that she's a newer professor. Do you feel like she does a good job explaining the material? Is she the kind of professor that rushes through slide shows or does she go deep into the topic? How does she structure her class grading wise? I plan on taking 15 credit hours of 43xx CS courses next semester so how demanding was her class?", "author_fullname": "t2_bb9j27u4", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Xinda Wang for cs 4347?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_17etfg7", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.63, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1698090958.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Has anyone had Dr Xinda Wang for Databases? I see that she&amp;#39;s a newer professor. Do you feel like she does a good job explaining the material? Is she the kind of professor that rushes through slide shows or does she go deep into the topic? How does she structure her class grading wise? I plan on taking 15 credit hours of 43xx CS courses next semester so how demanding was her class?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "17etfg7", "is_robot_indexable": true, "report_reasons": null, "author": "SeaStranger2253", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/17etfg7/xinda_wang_for_cs_4347/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/17etfg7/xinda_wang_for_cs_4347/", "subreddit_subscribers": 42010, "created_utc": 1698090958.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I\u2019m wondering which class to take first sequentially. One I would take in the F23 semester, and the other in S24. \n\nIf it effects the advice, taking CS 4347 would be with Jalal Omer, and taking CS 4384 would be with Dung Huynh. \n\nI appreciate any feedback!", "author_fullname": "t2_15avhi", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4347 vs CS 4384 First?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_125vrp4", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": "transparent", "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": "86596598-908e-11e3-9c45-12313b0b3603", "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": "ECS", "author_flair_richtext": [{"e": "text", "t": "Computer Science"}], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1680112911.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "richtext", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I\u2019m wondering which class to take first sequentially. One I would take in the F23 semester, and the other in S24. &lt;/p&gt;\n\n&lt;p&gt;If it effects the advice, taking CS 4347 would be with Jalal Omer, and taking CS 4384 would be with Dung Huynh. &lt;/p&gt;\n\n&lt;p&gt;I appreciate any feedback!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": "Computer Science", "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "125vrp4", "is_robot_indexable": true, "report_reasons": null, "author": "shrek2gamecube", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": "dark", "permalink": "/r/utdallas/comments/125vrp4/cs_4347_vs_cs_4384_first/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/125vrp4/cs_4347_vs_cs_4384_first/", "subreddit_subscribers": 42010, "created_utc": 1680112911.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hey Yall, \n\nHas anyone taken Jalal Omer for any of their classes? Seems like he is a new teacher and I can't find a lot of info about him other than his 5 rmp comments. How is he as a professor? Thanks :)", "author_fullname": "t2_78r4j9j4", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Jalal Omer for CS 4347", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_rh72jn", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1639596276.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey Yall, &lt;/p&gt;\n\n&lt;p&gt;Has anyone taken Jalal Omer for any of their classes? Seems like he is a new teacher and I can&amp;#39;t find a lot of info about him other than his 5 rmp comments. How is he as a professor? Thanks :)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "rh72jn", "is_robot_indexable": true, "report_reasons": null, "author": "slow_Scroll", "discussion_type": null, "num_comments": 8, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/rh72jn/jalal_omer_for_cs_4347/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/rh72jn/jalal_omer_for_cs_4347/", "subreddit_subscribers": 42010, "created_utc": 1639596276.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "So Im going to be taking database system next semester. I was looking at Pushpa Kumar and Wei Wu as options. Both seem to have good distributions. If yall have taken them, what was your experience like and who would yall recommend?", "author_fullname": "t2_mabhoe2p", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4347 Wu or Kumar?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_yrr9io", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 2, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 2, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1668112949.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;So Im going to be taking database system next semester. I was looking at Pushpa Kumar and Wei Wu as options. Both seem to have good distributions. If yall have taken them, what was your experience like and who would yall recommend?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "yrr9io", "is_robot_indexable": true, "report_reasons": null, "author": "sadblob17", "discussion_type": null, "num_comments": 0, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/yrr9io/cs_4347_wu_or_kumar/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/yrr9io/cs_4347_wu_or_kumar/", "subreddit_subscribers": 42010, "created_utc": 1668112949.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I couldn't register for CS 4347 because it was full, but there were available spots in SE 4347 for the same class section. I was able to register for SE 4347 successfully. I was wondering if I could take SE 4347 instead and will it still count toward my Computer Science degree?", "author_fullname": "t2_3jl84wl6", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Can I take SE 4347 instead of CS 4347 and have it count toward my CS Degree?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_yskdon", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1668194891.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I couldn&amp;#39;t register for CS 4347 because it was full, but there were available spots in SE 4347 for the same class section. I was able to register for SE 4347 successfully. I was wondering if I could take SE 4347 instead and will it still count toward my Computer Science degree?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "yskdon", "is_robot_indexable": true, "report_reasons": null, "author": "trivintage", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/yskdon/can_i_take_se_4347_instead_of_cs_4347_and_have_it/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/yskdon/can_i_take_se_4347_instead_of_cs_4347_and_have_it/", "subreddit_subscribers": 42010, "created_utc": 1668194891.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "The options right now are Christiansen, khan, or Timothy culver \n\nI\u2019ve read the reviews for all, but there\u2019s not many for their 4347 classes\nIf anyone has taken either of these professors it\u2019d be helpful to know your experience! How difficult were the exams, the projects/ hw difficulty + time to complete\nAlso if the professor overall was informative\nThis is an important class so I\u2019d like to learn something but would not want an insanely difficult class\n\n\nAlso edit:\n\nFor 4349 ( Advanced Data structures and algorithms) how is Cankaya or Daescu\n\nThanks", "author_fullname": "t2_1rdk5it", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Database systems cs 4347 professor", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_b83jnj", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.83, "author_flair_background_color": null, "subreddit_type": "public", "ups": 8, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 8, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": 1554131289.0, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1554131072.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The options right now are Christiansen, khan, or Timothy culver &lt;/p&gt;\n\n&lt;p&gt;I\u2019ve read the reviews for all, but there\u2019s not many for their 4347 classes\nIf anyone has taken either of these professors it\u2019d be helpful to know your experience! How difficult were the exams, the projects/ hw difficulty + time to complete\nAlso if the professor overall was informative\nThis is an important class so I\u2019d like to learn something but would not want an insanely difficult class&lt;/p&gt;\n\n&lt;p&gt;Also edit:&lt;/p&gt;\n\n&lt;p&gt;For 4349 ( Advanced Data structures and algorithms) how is Cankaya or Daescu&lt;/p&gt;\n\n&lt;p&gt;Thanks&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "b83jnj", "is_robot_indexable": true, "report_reasons": null, "author": "fmlfishman", "discussion_type": null, "num_comments": 16, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/b83jnj/database_systems_cs_4347_professor/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/b83jnj/database_systems_cs_4347_professor/", "subreddit_subscribers": 42010, "created_utc": 1554131072.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "I am taking do a minor in JSOM that would require ITSS 4300, database fundamentals, but my major already makes me take database systems CS 4337. I thought to ask what is the difference between the two classes content wise? Do they cover the same stuff or is one harder or in more depth? Is it wise to take one before the other?", "author_fullname": "t2_6zfj0r04", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4347 vs ITSS 4300", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_mx3urm", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.88, "author_flair_background_color": null, "subreddit_type": "public", "ups": 6, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 6, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1619208293.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I am taking do a minor in JSOM that would require ITSS 4300, database fundamentals, but my major already makes me take database systems CS 4337. I thought to ask what is the difference between the two classes content wise? Do they cover the same stuff or is one harder or in more depth? Is it wise to take one before the other?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "mx3urm", "is_robot_indexable": true, "report_reasons": null, "author": "non-smith", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/mx3urm/cs_4347_vs_itss_4300/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/mx3urm/cs_4347_vs_itss_4300/", "subreddit_subscribers": 42010, "created_utc": 1619208293.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Has anyone taken Jalal Omer for 4347, he's like the only option left for that course?", "author_fullname": "t2_9xvmlqkf", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4347 Jalal Omer ?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_ty39vy", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1649300156.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Has anyone taken Jalal Omer for 4347, he&amp;#39;s like the only option left for that course?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "ty39vy", "is_robot_indexable": true, "report_reasons": null, "author": "Gold_Yogurt_1948", "discussion_type": null, "num_comments": 2, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/ty39vy/cs_4347_jalal_omer/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/ty39vy/cs_4347_jalal_omer/", "subreddit_subscribers": 42010, "created_utc": 1649300156.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Does anyone have any recommendations on which 4347 professor I should take out of the ones teaching this upcoming semester? I\u2019d like someone I can reasonably get an A with if I know the content and be able to hopefully use the knowledge later on. Thanks!", "author_fullname": "t2_6684a0vu", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Best professor for CS 4347 out of Eric Becker, Michael Christiansen, Pushpa Kumar, and Wei Wu?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_jmcfrs", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1604273057.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Does anyone have any recommendations on which 4347 professor I should take out of the ones teaching this upcoming semester? I\u2019d like someone I can reasonably get an A with if I know the content and be able to hopefully use the knowledge later on. Thanks!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "jmcfrs", "is_robot_indexable": true, "report_reasons": null, "author": "patsfan-4-life", "discussion_type": null, "num_comments": 7, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/jmcfrs/best_professor_for_cs_4347_out_of_eric_becker/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/jmcfrs/best_professor_for_cs_4347_out_of_eric_becker/", "subreddit_subscribers": 42010, "created_utc": 1604273057.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Title has the question", "author_fullname": "t2_9ow9lw59", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Why do we not learn about non relational databases in Cs 4347?", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_o0lywe", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 8, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 8, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1623783928.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Title has the question&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "o0lywe", "is_robot_indexable": true, "report_reasons": null, "author": "ihatecoreclass", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/o0lywe/why_do_we_not_learn_about_non_relational/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/o0lywe/why_do_we_not_learn_about_non_relational/", "subreddit_subscribers": 42010, "created_utc": 1623783928.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Hey, \n\nI'm planning on taking this class with him. Has anyone taken his class or any other class taught by him? He seems to be new to UTD. Thanks :)", "author_fullname": "t2_78r4j9j4", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Database Systems (CS 4347) with Jalal Omar", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_r99ice", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.8, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1638685774.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey, &lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m planning on taking this class with him. Has anyone taken his class or any other class taught by him? He seems to be new to UTD. Thanks :)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "r99ice", "is_robot_indexable": true, "report_reasons": null, "author": "slow_Scroll", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/r99ice/database_systems_cs_4347_with_jalal_omar/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/r99ice/database_systems_cs_4347_with_jalal_omar/", "subreddit_subscribers": 42010, "created_utc": 1638685774.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Has anyone taken prof Nidhiben Solanki for CS 4347 previously. Can you please suggest on how to prepare for her midterms.", "author_fullname": "t2_cryzci31", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Midterms for CS 4347 - Nidhiben Solanki", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_q2ue48", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.88, "author_flair_background_color": null, "subreddit_type": "public", "ups": 6, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 6, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1633557033.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Has anyone taken prof Nidhiben Solanki for CS 4347 previously. Can you please suggest on how to prepare for her midterms.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "q2ue48", "is_robot_indexable": true, "report_reasons": null, "author": "Eastern_Business_423", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/q2ue48/midterms_for_cs_4347_nidhiben_solanki/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/q2ue48/midterms_for_cs_4347_nidhiben_solanki/", "subreddit_subscribers": 42010, "created_utc": 1633557033.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "How is the professor for this class? Is this a heavy work load class? How are the projects, grades, and exams? A bit worried about the workload of this class with other classes such as CS 4337 and CS 4349.", "author_fullname": "t2_4aquwokh", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "How is CS 4347- Michael Christiansen?", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_g22ukd", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.67, "author_flair_background_color": null, "subreddit_type": "public", "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 1, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1586991524.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;How is the professor for this class? Is this a heavy work load class? How are the projects, grades, and exams? A bit worried about the workload of this class with other classes such as CS 4337 and CS 4349.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "g22ukd", "is_robot_indexable": true, "report_reasons": null, "author": "swimming_in_clouds", "discussion_type": null, "num_comments": 3, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/g22ukd/how_is_cs_4347_michael_christiansen/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/g22ukd/how_is_cs_4347_michael_christiansen/", "subreddit_subscribers": 42010, "created_utc": 1586991524.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "We have our first database systems exam this week and I was wondering if anyone had previously taken Wei Wu and know how she structures her exams and how the exams were in difficulty. ", "author_fullname": "t2_39c7r0tk", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "CS 4347 Exam with Wei Wu", "link_flair_richtext": [], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score": false, "name": "t3_ax8lpe", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.5, "author_flair_background_color": null, "subreddit_type": "public", "ups": 0, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": null, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": false, "score": 0, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1551714855.0, "link_flair_type": "text", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We have our first database systems exam this week and I was wondering if anyone had previously taken Wei Wu and know how she structures her exams and how the exams were in difficulty. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": true, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "", "id": "ax8lpe", "is_robot_indexable": true, "report_reasons": null, "author": "SexyTemoc", "discussion_type": null, "num_comments": 1, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/ax8lpe/cs_4347_exam_with_wei_wu/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/ax8lpe/cs_4347_exam_with_wei_wu/", "subreddit_subscribers": 42010, "created_utc": 1551714855.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "", "author_fullname": "t2_1tzoutopoj", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "rate my schedule, trying to graduate in one year. not a fan of CS 4141, it kind of messes with my long weekend. (taking night classes at collin college BTW)", "link_flair_richtext": [{"e": "text", "t": "Discussion"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": 140, "top_awarded_type": null, "hide_score": false, "name": "t3_1m5b0cp", "quarantine": false, "link_flair_text_color": "light", "upvote_ratio": 0.98, "author_flair_background_color": null, "ups": 200, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": 140, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": true, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Discussion", "can_mod_post": false, "score": 200, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "https://a.thumbs.redditmedia.com/cSUNSPiRSCPLX6PacX4gpBQZczk9p9_5E38WmMUacB8.jpg", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "post_hint": "image", "content_categories": null, "is_self": false, "subreddit_type": "public", "created": 1753077454.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "i.redd.it", "allow_live_comments": false, "selftext_html": null, "likes": null, "suggested_sort": "old", "banned_at_utc": null, "url_overridden_by_dest": "https://i.redd.it/hdmbyrnt26ef1.png", "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "preview": {"images": [{"source": {"url": "https://preview.redd.it/hdmbyrnt26ef1.png?auto=webp&amp;s=8d219d5cbaf9384493dff4f4a50c2fa792d7e6e5", "width": 685, "height": 774}, "resolutions": [{"url": "https://preview.redd.it/hdmbyrnt26ef1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=3034c15a8405b9f0eaf21d326ebdd323e2aa06fd", "width": 108, "height": 122}, {"url": "https://preview.redd.it/hdmbyrnt26ef1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e313f85720aa75860282ee0033f4b41263c72aad", "width": 216, "height": 244}, {"url": "https://preview.redd.it/hdmbyrnt26ef1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6c22966a81c1e947efe571a82ff1e5aabfdeb26f", "width": 320, "height": 361}, {"url": "https://preview.redd.it/hdmbyrnt26ef1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f62d7e0f9e82c9093d43ebd996b1889d079254b7", "width": 640, "height": 723}], "variants": {}, "id": "e6ItIRjn1n44yNpXa56-MV1_IWjoBkdbNlRJNAQ_8OI"}], "enabled": true}, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "ce6e31f2-bcc2-11eb-86e2-0e93bd643d81", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "mod_note": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "num_reports": null, "removal_reason": null, "link_flair_background_color": "#ff66ac", "id": "1m5b0cp", "is_robot_indexable": true, "report_reasons": null, "author": "the-scheduler", "discussion_type": null, "num_comments": 37, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1m5b0cp/rate_my_schedule_trying_to_graduate_in_one_year/", "stickied": false, "url": "https://i.redd.it/hdmbyrnt26ef1.png", "subreddit_subscribers": 42010, "created_utc": 1753077454.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "Is it time manageable? Is it doable? Is it realistic or am I going overboard?\n\nAny advice is appreciated.", "author_fullname": "t2_9duvl9mf", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "Thoughts on taking these CS courses over the Summer at UTD? (Circled)", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": 108, "top_awarded_type": null, "hide_score": false, "name": "t3_1rvqwxu", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 0.88, "author_flair_background_color": null, "ups": 6, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": 140, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": true, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 6, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=140&amp;height=108&amp;auto=webp&amp;s=8e42d622565e168be5839efdbb5f975017e852ad", "edited": 1773706156.0, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "post_hint": "image", "content_categories": null, "is_self": false, "subreddit_type": "public", "created": 1773705743.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "i.redd.it", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Is it time manageable? Is it doable? Is it realistic or am I going overboard?&lt;/p&gt;\n\n&lt;p&gt;Any advice is appreciated.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "url_overridden_by_dest": "https://i.redd.it/bjwxmql0xhpg1.jpeg", "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "preview": {"images": [{"source": {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?auto=webp&amp;s=8f9674029b9f792449ba4f922587067bbe5484d9", "width": 1650, "height": 1275}, "resolutions": [{"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=585f58cf6aba8d3a1992619d2f6269245b966332", "width": 108, "height": 83}, {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ff5d113ae666d736564429705ea0bb897f6e26af", "width": 216, "height": 166}, {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1fbbdbe3c94d3be696cae2c21deed0753b1b4092", "width": 320, "height": 247}, {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fee1ffe3e9ab1c8dda4187ae6766ef0f22851dbe", "width": 640, "height": 494}, {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1184ba6c695ba4c4a0301755cfc62f40e92735a2", "width": 960, "height": 741}, {"url": "https://preview.redd.it/bjwxmql0xhpg1.jpeg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6d305eefbac2c4d8c11aeb05970520ebc6b14842", "width": 1080, "height": 834}], "variants": {}, "id": "bjwxmql0xhpg1"}], "enabled": true}, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "mod_note": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "num_reports": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1rvqwxu", "is_robot_indexable": true, "report_reasons": null, "author": "History-Numerous", "discussion_type": null, "num_comments": 5, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1rvqwxu/thoughts_on_taking_these_cs_courses_over_the/", "stickied": false, "url": "https://i.redd.it/bjwxmql0xhpg1.jpeg", "subreddit_subscribers": 42010, "created_utc": 1773705743.0, "num_crossposts": 0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"approved_at_utc": null, "subreddit": "utdallas", "selftext": "[Spring schedule](https://preview.redd.it/odvo36jlokzf1.png?width=1722&amp;format=png&amp;auto=webp&amp;s=8a5406af458cfb54192f66a0fb572eda01a79660)\n\ncan't believe im doing this ugh", "author_fullname": "t2_1580jvo8iy", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false, "title": "rate my schedule..", "link_flair_richtext": [{"e": "text", "t": "Question: Academics"}], "subreddit_name_prefixed": "r/utdallas", "hidden": false, "pwls": 6, "link_flair_css_class": "", "downs": 0, "thumbnail_height": 79, "top_awarded_type": null, "hide_score": false, "media_metadata": {"odvo36jlokzf1": {"status": "valid", "e": "Image", "m": "image/png", "p": [{"y": 61, "x": 108, "u": "https://preview.redd.it/odvo36jlokzf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=6609075262aca34e0be4862269124dedc638e3ef"}, {"y": 122, "x": 216, "u": "https://preview.redd.it/odvo36jlokzf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=7e6c0dbc8448f1909180338b456247c0f966b314"}, {"y": 180, "x": 320, "u": "https://preview.redd.it/odvo36jlokzf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a277dd186cf821cf403a6a741f872683afa6e577"}, {"y": 361, "x": 640, "u": "https://preview.redd.it/odvo36jlokzf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9af5a2f74cb813ecb233294ec8b7354f114e4603"}, {"y": 542, "x": 960, "u": "https://preview.redd.it/odvo36jlokzf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=6eeb385f9a5260273489770d677fc872d72f059c"}, {"y": 610, "x": 1080, "u": "https://preview.redd.it/odvo36jlokzf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ccf9cd8cb93ad028a69456accc375e8e07671865"}], "s": {"y": 974, "x": 1722, "u": "https://preview.redd.it/odvo36jlokzf1.png?width=1722&amp;format=png&amp;auto=webp&amp;s=8a5406af458cfb54192f66a0fb572eda01a79660"}, "id": "odvo36jlokzf1"}}, "name": "t3_1opqmin", "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0, "author_flair_background_color": null, "subreddit_type": "public", "ups": 3, "total_awards_received": 0, "media_embed": {}, "thumbnail_width": 140, "author_flair_template_id": null, "is_original_content": false, "user_reports": [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false, "category": null, "secure_media_embed": {}, "link_flair_text": "Question: Academics", "can_mod_post": false, "score": 3, "approved_by": null, "is_created_from_ads_ui": false, "author_premium": false, "thumbnail": "https://b.thumbs.redditmedia.com/8GWrNJOyns98KNJwNqQ9DwFVkSwriS-8puUTYpVUeyE.jpg", "edited": false, "author_flair_css_class": null, "author_flair_richtext": [], "gildings": {}, "content_categories": null, "is_self": true, "mod_note": null, "created": 1762407041.0, "link_flair_type": "richtext", "wls": 6, "removed_by_category": null, "banned_by": null, "author_flair_type": "text", "domain": "self.utdallas", "allow_live_comments": false, "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://preview.redd.it/odvo36jlokzf1.png?width=1722&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8a5406af458cfb54192f66a0fb572eda01a79660\"&gt;Spring schedule&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;can&amp;#39;t believe im doing this ugh&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "likes": null, "suggested_sort": "old", "banned_at_utc": null, "view_count": null, "archived": false, "no_follow": false, "is_crosspostable": true, "pinned": false, "over_18": false, "all_awardings": [], "awarders": [], "media_only": false, "link_flair_template_id": "2e5aab34-0dbc-11ea-9e50-0e4e001924f7", "can_gild": false, "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags": [], "visited": false, "removed_by": null, "num_reports": null, "distinguished": null, "subreddit_id": "t5_2s4is", "author_is_blocked": false, "mod_reason_by": null, "removal_reason": null, "link_flair_background_color": "#ffd635", "id": "1opqmin", "is_robot_indexable": true, "report_reasons": null, "author": "LivingWonderful1864", "discussion_type": null, "num_comments": 6, "send_replies": true, "contest_mode": false, "mod_reports": [], "author_patreon_flair": false, "author_flair_text_color": null, "permalink": "/r/utdallas/comments/1opqmin/rate_my_schedule/", "stickied": false, "url": "https://www.reddit.com/r/utdallas/comments/1opqmin/rate_my_schedule/", "subreddit_subscribers": 42010, "created_utc": 1762407041.0, "num_crossposts": 0, "media": null, "is_video": false}}], "before": null}}
 ---
 
-Reddit's public JSON endpoints currently return HTTP 403 for unauthenticated
-requests (including the search endpoint and subreddit listing endpoints).
-Reddit started blocking anonymous JSON access in mid-2023 and the restriction
-remains in effect. Without OAuth credentials the script cannot fetch threads.
 
 Manual collection steps for CS 4347:
   1. In a browser, open https://www.reddit.com/r/utdallas/search/?q=CS+4347&restrict_sr=1
-  2. Open the top 8-12 threads (sort by relevance, then by top of all time).
-  3. For each thread, copy:
-       - The post title and body text.
-       - The top 10-20 comments (skip 'deleted' and joke replies).
-  4. Paste below the --- divider, one thread per block. Format suggestion:
-       === THREAD N: <title> ===
-       url: <permalink>
-       <selftext>
-       COMMENTS:
-       - [author] <comment>
+  
+  
+Go to utdallas
+r/utdallas
+•
+6y ago
+fluteofpurple
 
-Alternative: register a script-type app at https://www.reddit.com/prefs/apps,
-get a client_id + client_secret, then update this script to use the OAuth
-flow (POST https://www.reddit.com/api/v1/access_token then use the bearer
-token on oauth.reddit.com URLs). That would unlock automated re-fetches.
+Best Prof for CS 4347- Database Systems?
+As of now for next semester the options are Michael G Christiansen , Chris Irwin Davis, Ziaullah Khan, and Timothy L Culver. Among these professors who would you recommend or share your experiences based on these professors if you have taken one of them for a class? Or should I possibly wait for next spring for another specific good professor?
+
+
+Upvote
+2
+
+Downvote
+
+4
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/TwixTimeMS avatar
+TwixTimeMS
+•
+6y ago
+I'm curious about this too! Rmp didn't give me too much guidance. I really want to actually learn the material because I care about this class long term, so I guess I'll check back on this later.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+WhakAF
+•
+6y ago
+4347 is one of those classes that generally isn't taught very well in the classroom. It won't really matter who you take, every professor you listed is terrible (with the exception of Culver, who I've never taken and can't speak on) and you're going to learn most of what you need to know through your projects, which don't have much to do with your professor, most of them give the same projects.
+
+I will say Khan curves quite a bit, and he is also my least favorite professor you listed. Davis curves almost as much too. However, do not expect good exams or exam prep from either of those professors.
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/WearIgnoranceisBliss avatar
+WearIgnoranceisBliss
+•
+6y ago
+Alumnus
+I have taken Christiansen for CS4347, Davis for CS4337, and Khan for CS3345. I do not have any experience with Culver. With that said I will go over some thoughts on Christiansen, Davis, and Khan.
+
+Christiansen: He is a professional Java developer turned Academic. He has a wealth of information regarding professional software development, and seems to know the class material well. His lectures are dry and he reads from the slides, sit near the front so you can read what he writes on the board.
+
+He has two tests, two team-based programming projects, and about seven un-timed, online homework assignments that were either short answer or writing SQL queries. The two tests were taken in class and were easy to study for and ace if you use his study guide. The two programming projects were the best I've seen at UTD in terms of being professional software development quality. The home-works were just online elearning assignments with questions related directly to the slides or what was learned in class.
+
+Christiansen is a bit of a rogue in the fact that he hasn't been in academia his whole career. This comes with its own pros and cons. Pros: He is pretty easy going, what he teaches is extremely practical rather than theoretical, and he seemed to treat people as work associates rather than students. Cons: He is very dry and monotone when it comes to teaching the class, he seems to be teaching less theoretical material than other professors, and can probably come off as a little abrasive to students who don't have much real world work experience.
+
+To sum it up if you want a practical understanding of SQL and MySQL and how to incorporate these with Java without a lot of theory then Christiansen is your guy. If you're looking for a more theoretical understanding of the class then you might want to look somewhere else.
+
+Davis: He's an extremely knowledgeable yet fairly grounded professor. His lectures were interesting and he was one of the few UTD professors whose class I looked forward to attending.
+
+He had two tests that were worth a significant portion of the grade, two programming assignments in Racket and Prolog, a few un-timed, online homework assignments that were not worth much, and no group work. The two tests were taken in the testing center and were challenging to me, I would definitely make sure you understand everything in the slides before attempting them. The two programming assignments were well written and not extremely long. The home-works were just online elearning assignments with questions related directly to the slides.
+
+Davis is lacking when it comes to getting grades back on time or answering emails. I think we got our midterm grade back a week or two before class ended, and the programming assignment grades back at the end of the semester. There was a generous curve at the end of the semester that took me up half a letter grade.
+
+Khan: An extremely well-spoken professor who engages well with the class. His lectures were sub-par due to the fact that he was not familiar with the material and seemed to 'wing it' as we went through lectures.
+
+He had three tests, three or four projects, about six home-works, surprise quizzes, and no group work. The three tests were difficult to study for and he seemed to pull questions from different test banks rather than write the questions himself, this led to confusion or him not being able to work through the problems himself when questioned about the correct answer. The projects were of average difficulty, he let us use C++, Java, or C# to complete them, and when turning them in you had to meet up with a TA to demo the project. The home-works were again taken from another school or quiz bank and rarely seemed to align with what was taught in class. The surprise quizzes seemed to take place when he thought no one was paying attention or when attendance was low.
+
+Khan seems to have a loyal cult following, and most people like him or hate him. He will keep you on the edge of your seat throughout the semester due to the uncertainty of what is going on in class both knowledge-wise and grade-wise. Make sure he knows your name and face during the semester because he seems to curve heavily based on who participated in class or visited him during office hours.
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+[deleted]
+•
+6y ago
+Taking Christiansen right now. Really good professor, teaches the class perfect.
+
+Ziaullah Khan was a good prof when I took him for algorithms. IF you are a person who learns mainly through class participation (you're not on Reddit/discord during class) then I would def go with Khan.
+
+I would go with those two.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+3y ago
+nunuscott
+
+CS 4347 w/Chris Irwin Davis?
+Question: Academics
+Taking his class next semester and was wondering if anyone had any info about him? Don't see much on rmp or on this sub. Thanks
+
+
+Upvote
+1
+
+Downvote
+
+5
+Go to comments
+
+
+Share
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/IntelligentBug3222 avatar
+IntelligentBug3222
+•
+3y ago
+I took him for programming language paradigms, impossible to get ahold of outside of class. Says to email him but never gets back to you (does this to everyone, not just individual students). During the semester I took him I thinks he was having some family crisis because he was MIA for a bit. Multiple times we would wait in class for 15 mins and get a notification that class was cancelled 20-30 mins into class. What’s unfortunate is when he’s there, he’s actually a pretty good prof and knows his stuff. Just disorganized as hell. Also took a while to get grades back.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+nunuscott
+OP
+•
+3y ago
+Shiii ok ok. So like if I self study and pay attention for the most part can I get a B
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/IntelligentBug3222 avatar
+IntelligentBug3222
+•
+3y ago
+Yeah, you should be good. His projects were pretty doable and you can prob find online tbh. Not sure about 4347 specifically though
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Muhammad_reddit
+•
+2y ago
+Any updates? How was your class?(if you took him). Im planning on taking him as well for CS 4347
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/StockInformation3284 avatar
+StockInformation3284
+•
+3y ago
+Same question
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+2mo ago
+Clean_Atmosphere9559
+
+CS 4347 New Pre Requiements
+Discussion
+I've tried registering for Cs 4347 but its not letting me due to a new pre requirement. It's saying CS 3345 with grade C or better? Did they change it? But I'm still able to register for Cs 4348 and CS 4349. Currently my grade for CS 3345 is a D. Please help me get some clarity for this? Thank you.
+
+
+Upvote
+4
+
+Downvote
+
+9
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/LivingWonderful1864 avatar
+LivingWonderful1864
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+What year did you first come into UTD
+That is the course catalog that your advisors will honor
+Contact your advisor to get it overrided
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Clean_Atmosphere9559 avatar
+Clean_Atmosphere9559
+OP
+•
+2mo ago
+I came to utd at fall 2023
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/LivingWonderful1864 avatar
+LivingWonderful1864
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+That is not new, CS 3345 is required :P
+
+Comment Image
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Clean_Atmosphere9559 avatar
+Clean_Atmosphere9559
+OP
+•
+2mo ago
+They changes the grading pre requisite of cs 3345 for cs 4347. (fall 2026)
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/LivingWonderful1864 avatar
+LivingWonderful1864
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+idk but they honor ur catalog (the year you came into utd) so you dont gotta worry about that. Also, I would highly email ur advisor about this and get it overriden
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+•
+1mo ago
+hang on idk if you saw the email that was sent out today 😭 personally i feel fucked cause i got a D in 3345 like 2 years ago when i took it and now idk if im gonna be able to take future classes that need it. man i only had 2 semesters left here why are they doing ts.. (unless you think they're gonna somehow still honor my catalog when i didnt NEED a C or better??)
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/LivingWonderful1864 avatar
+LivingWonderful1864
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+
+
+uh oh...
+Email your advisor, best of luck 😭
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/okkkugfffghxfh avatar
+okkkugfffghxfh
+•
+1mo ago
+😭😭😭😭😭 thank you.. man cant even joke about ts without reddit releting my comments
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+3y ago
+shrek2gamecube
+Computer Science
+
+CS 4347 vs CS 4384 First?
+Question: Academics
+I’m wondering which class to take first sequentially. One I would take in the F23 semester, and the other in S24.
+
+If it effects the advice, taking CS 4347 would be with Jalal Omer, and taking CS 4384 would be with Dung Huynh.
+
+I appreciate any feedback!
+
+
+Upvote
+3
+
+Downvote
+
+2
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+ctw127
+•
+3y ago
+Computer Science
+really depends on how u spread out ur courses, but 4384 is going to be harder in terms of content compared to 4347. Huynh has a nice curve with grades though so it's not too stressful
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+7y ago
+fmlfishman
+
+Database systems cs 4347 professor
+The options right now are Christiansen, khan, or Timothy culver
+
+I’ve read the reviews for all, but there’s not many for their 4347 classes If anyone has taken either of these professors it’d be helpful to know your experience! How difficult were the exams, the projects/ hw difficulty + time to complete Also if the professor overall was informative This is an important class so I’d like to learn something but would not want an insanely difficult class
+
+Also edit:
+
+For 4349 ( Advanced Data structures and algorithms) how is Cankaya or Daescu
+
+Thanks
+
+
+Upvote
+7
+
+Downvote
+
+16
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+Comments Section
+u/Flyingcarpet89 avatar
+Flyingcarpet89
+•
+7y ago
+I graduated two years ago. I took christiansen. He wasn’t very good. He would just come and read the slides to you. Exams were average. I ended up making an A- but I felt that I didn’t learn much.
+
+Friend of mine took database systems with khan. He said it was definitely harder but I found that you will come out learning a lot more at the end.
+
+I had that same friend with me in CS project later and it became obvious that he knew a lot more than me about databases. If you end up taking christiansen then make sure you challenge yourself and do self learning too. I didn’t do that.
+
+I am not aware of other professors.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/fmlfishman avatar
+fmlfishman
+OP
+•
+7y ago
+What were his projects and hws like
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Flyingcarpet89 avatar
+Flyingcarpet89
+•
+7y ago
+Well it was a while ago but as far as I remember, the homework was not that hard and the project involved us creating a database and have that connected to the JDBC project which was provided to us. We had to make minor changes in the JDBC project to make sure all the CRUD tests were passing.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+MrGuffels
+•
+7y ago
+Khan is a mixed bag. I took him for intro to algorithms and while I got a B+, I learned nothing and am now retaking the class. Apparently his higher level classes are better but I still won't ever risk it personally.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/cuberandgamer avatar
+cuberandgamer
+•
+7y ago
+Computer Science
+I'm in his class right now. He doesn't do a good job at explaining stuff and he wastes time constantly. He's so disorganized it really angers me because I actually want to learn the material.
+
+However, I'm unwilling to retake the class. Got any advice on how someone like me can fill in the gaps and learn what Khan never taught?
+
+
+Upvote
+6
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+CurryWizard
+•
+7y ago
+Take culver. He has two exams,project and hwk. His class is easy. Only con is it's at night.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/fmlfishman avatar
+fmlfishman
+OP
+•
+7y ago
+Do you think you still learned a decent amount of stuff though?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+CurryWizard
+•
+7y ago
+Not a whole lot but some stuff here and there.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/marimu avatar
+marimu
+•
+7y ago
+Computer Science
+I like Cankaya a lot, and I imagine she's just fine for 4349, but my recommendation goes to Daescu. He teaches it a lot like his graduate level algorithms course. It is challenging, but you'll learn a lot, and it will benefit you in the long run.
+
+If you're really concerned about grade, Cankaya will probably be easier, though Daescu does have a generous curve built in.
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/fmlfishman avatar
+fmlfishman
+OP
+•
+7y ago
+I’m curious, Ive seen reviews that it’s more proof focused. Are all his hws and tests about proofs? Is he good at teaching? I really liked Wilson for discrete but he’s teaching honors for this course
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/marimu avatar
+marimu
+•
+7y ago
+Computer Science
+I could see someone saying he is more proof focused. It wasn't like discrete where you had to explicitly prove something. It was more answer the question about an algorithm and give a simple proof or explanation as to why the answer is correct. You do need to know your basic proof methods, mostly induction and contradiction. I would say his focus is more on making sure students actually understand an algorithm (how and why it works), not just memorize it.
+
+The homework is more challenging than the exams in the sense that it will have harder questions. The exams are typically 4 questions, 3 of which are very straight forward from examples in class or homework. These often involved stepping through an algorithm based off a given example, or answering basic questions about the algorithm (write the pseudocode, give the time complexity, etc.).
+
+The 4th question was a bit more theoretical and often involved applying some change to an algorithm. This could be him telling you the change up front and you have to explain how the change affects the algorithm, or he will ask you to do something slightly different, and you need to figure out how to change the algorithm to accomplish it.
+
+To do well in the class, you need to really understand the algorithms he covers. He is a good teacher, knows the material extremely well, but sometimes it was hard to hear him. I feel like his class is one that will pay off in the long run as you go in to job interviews and are asked to solve various problems.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+maniacyapper
+•
+7y ago
+Alumnus
+If you can afford to do so, wait for Becker.
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/fmlfishman avatar
+fmlfishman
+OP
+•
+7y ago
+Why do you say so? Does he only teach spring?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+maniacyapper
+•
+7y ago
+Alumnus
+I dont actually know if he only teaches spring or what, but he is probably one of the best professors for database imo
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/fmlfishman avatar
+fmlfishman
+OP
+•
+7y ago
+What was his class like? Does he teach well?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+maniacyapper
+•
+7y ago
+Alumnus
+he teaches well. there is one group project that is started at the beginning of the semester and is completed in phases to correlate with the material. Lectures are informative, hes pretty good.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+3y ago
+bj_nerd
+
+How Similar Are ITSS 4300 and CS 4347?
+Question: Academics
+CS Major minoring in Business Analytics.
+
+I have to take both Database Fundamentals (ITSS 4300) and Database Systems (CS/SE 4347). Has anyone taken both before? Are they super similar? Should I try to take both the same semester?
+
+My guess: It appears fundies is about using and administering a DBMS while systems is about actually building a DBMS. Is that right?
+
+Thanks!
+
+
+Upvote
+5
+
+Downvote
+
+7
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/csmash02 avatar
+csmash02
+•
+3y ago
+•
+Edited 3y ago
+Information Technology and Management
+Not a CS major so I never took CS 4347. I took Database Fundies ITSS 4300 spring of 2023 and got an A- with Thiru Pandian. Fundies is pretty easy and introduces you to the fundamentals of databases like creating a database, cardinalites, primary and foreign keys, sql Server, and querying. You also learn some noSQL concepts like big data and the 5Vs. You may also touch on MongoDB a little bit. And yes fundies is about using and administering a DMBS. I learned database admin roles like performance tuning and indexing in that class along with creating a database. Sounds like a good idea and experience to take CS 4347 and ITSS 4300 at the same time. If you can do well on CS 4347, I'm sure Fundies will be a piece of cake. Pandian is not teaching this course next semester but I heard Reza Aria is a solid professor, but either way the professors next semester should be ok, fundies isn't a hard class. Also forgot to add this, you will mainly learn SQL in Fundies so the class is good for being familiar with SQL workbench and querying in SQL.
+
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+bj_nerd
+OP
+•
+3y ago
+Awesome. I love SQL so that sounds great. Thank you!
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/csmash02 avatar
+csmash02
+•
+3y ago
+Information Technology and Management
+No problem, I saw your are a business analytics minor. I am a business analytics major btw. I just finished taking ITSS 4351, 4352, and 4353 which Im pretty sure are classes you also have to take. I ended up with As in 4351 and 4353, still waiting on 4352 grade to come out. I will just say that all three of these classes are interesting and easier in difficulty. I am taking ITSS 4354 and 4355 next semester so I can let you know how those classes are after next semester. But yeah, in terms of difficulty the business analytics and ITSS courses are much easier so if you are graduating soon, these courses will be much easier than your cs courses and your senior year will be chill.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+Street_Training9899
+•
+2y ago
+u/natureworld27 avatar
+natureworld27
+•
+2y ago
+did Thiru Pandians exams have questions on it that he didn't teach in class?
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/csmash02 avatar
+csmash02
+•
+2y ago
+Information Technology and Management
+I took this professor for ITSS 4300 database fundamentals and ITSS 4351 Foundations of Business Intelligence. First exam for database fundamentals was hard but 2nd one was a little easier. I also found that both of the 55 question exams had questions that he didn't cover in class as much or really at all. Most of his questions however covered content from lecture slides or practice questions. But yea his 4300 database exams were hard. For 4351 man his first exam was free. Literally 30 of those 55 questions were from those practice questions word for word and the other questions were content he covered from lecture slides. The 2nd exam though yea idk what was going on there he had a few questions like maybe 7-10 which he definitely didn't cover in class. I don't remember learning antecedent and consequent, association rules, or Bayes theorem in his class. Those questions over those concepts I got on his 2nd exam. So yea he grabs questions for these exams from a test bank so like some of the questions are over just things he never touched on. But usually around 7-10 around these which you could smart guess. Most of his questions I say he covered the content in class but yea his exams are difficult imo but not that bad. He also curves but not as much. I'd say his 4351 class is much easier than his database 4300 class.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+Go to utdallas
+r/utdallas
+•
+7mo ago
+Safe-Cat-3902
+
+Which professor would you recommend for CS-4347
+Discussion
+Planning to take Operating Systems (CS 4348) and trying to pick between:
+
+• Neeraj Mittal
+• Cody Hatfield
+• Elmer Salazar
+• I-Ling Yen
+
+How are they with lectures, projects, and overall difficulty? Would love to hear your experience or recommendations.
+
+
+Upvote
+8
+
+Downvote
+
+0
+Go to comments
+
+
+Share
+
+---
+
+
+Go to utdallas
+r/utdallas
+•
+5y ago
+ihatecoreclass
+
+Why do we not learn about non relational databases in Cs 4347?
+Question: Academics
+Title has the question
+
+
+Upvote
+7
+
+Downvote
+
+3
+Go to comments
+
+
+Share
+Sort by:
+
+Old (Default)
+
+Search Comments
+Expand comment search
+Comments Section
+u/ihatecoreclasses avatar
+ihatecoreclasses
+•
+5y ago
+Alumnus
+It's just how the course is structured I guess. In my experience, college classes in general are outdated in the content / practices they teach. If you haven't already, I'd highly suggest spending time to create some type of side project to better learn how modern tech stacks work.
+
+NoSQL databases aren't too hard to learn outside of class though. It's essentially just storing data without creating relations between any other entries (key-value db's like Redis and DynamoDB, JSON document store like MongoDB for example). Usually you'd use these if you have a specific use case that requires NoSQL, like temporarily storing data that requires fast read/write/update access vs. storing things persistently and/or requires relations between other tables in a relational database.
+
+Also, nice username. Looks like we share the same pain
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+pekkalacd
+•
+5y ago
+Because that would be “unrelated”.
+
+And the world’s worst pun attempt goes to me. the crowd of one person boo’s
+
+Nah but forreal, I think there is a class that does
+
+cs 4371 introduction to big data management and analytics
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/cs-hooper avatar
+cs-hooper
+•
+5y ago
+tbh if you know relational db you can pick up non relational pretty quick. I personally picked up mongodb in like an hour just looking at examples and documentation.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
