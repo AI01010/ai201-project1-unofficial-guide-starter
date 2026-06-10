@@ -1,12 +1,17 @@
-# Source: Rate My Professors (UTD, schoolID 1273) -- profs with reviews tagged for target courses
+# Source: Rate My Professors (UTD, schoolID 1273) -- profs teaching target courses
 # URL: https://www.ratemyprofessors.com/school/1273
-# Fetched: 2026-06-08 05:25:28
-# Note: Course-tag-filtered. Targets: CS 3345, 4337, 4347, 4348, 4349. Recency: last 3 years. Coverage: CS 3345: 118, CS 4337: 89, CS 4347: 84, CS 4348: 63, CS 4349: 55.
+# Fetched: 2026-06-09 18:56:41
+# Note: UTD CS-dept profs filtered to ratings tagged with CS 3345 / 4337 / 4347 / 4348 / 4349 (incl. cross-listed SE prefix) and date >= 2023-01-01. Coverage gap: no recent RMP reviews surfaced for CS 4383.
+# Target courses: CS 3345, CS 4337, CS 4347, CS 4348, CS 4349, CS 3354, CS 4383, CS 6360, CS 6363, CS 6364, CS 6375
+# Profs returned: 50
+# Total ratings kept: 590
+# Coverage: CS 3345: 120 | CS 4337: 89 | CS 4347: 87 | CS 4348: 61 | CS 4349: 58 | CS 3354: 73 | CS 4383: 0 | CS 6360: 31 | CS 6363: 22 | CS 6364: 16 | CS 6375: 33
 ---
 
 === Jalal Omer (legacyId 2712933) ===
-avgRating: 3.6 | avgDifficulty: 3.6 | numRatings: 63 | dept: Computer Science
-target_course_reviews: 38
+avgRating: 3.6 | avgDifficulty: 3.6 | numRatings: 63 (all-time) | dept: Computer Science
+- class=CS6360 | diff=5 | clarity=3 | help=3 | wta=None | date=2026-05-07 09:17:18 +0000 UTC
+  Positive: cares about teaching his subject and wants his students to learn what he teaches. Negative: bizarrely requires students to install malware to take quizzes
 - class=CS4347 | diff=4 | clarity=3 | help=3 | wta=None | date=2026-05-05 23:21:16 +0000 UTC
   He is very passionate about his topics. He tried very hard to make it easy for students to understand, but ended up falling behind on schedule on the final topics. Group project was a breeze. His exams however, are quite challenging. 60% of the course grade was dictated by the midterm and final. You cannot study the day before.
 - class=CS4347 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-12-21 22:10:37 +0000 UTC
@@ -26,12 +31,17 @@ The professor is demanding, but the harder the professor and exams are, the more
   Omer is a okay professor with a weird grading distribution. His project is only 15% while his exams are 30% each. Both the exams are difficult and nis final is especially difficult. So, even if you do well on the other parts, exams can bring your grade down heavily. Curve is also minimal and accent is hard to understand. Wouldn't recommend.
 - class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-11 20:59:28 +0000 UTC
   Very nice prof. Be sure to participate and attend classes regularly for a good bonus. His exams are tough and really need preparation but he usually curves at the end. Very reasonable and tries incredibly hard to make sure students understand the concepts.
+- class=CS6360 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-12-07 00:26:00 +0000 UTC
+  Prof Jalal is a great lecturer. Just listening to his lectures takes you almost 90% of the way to doing well in the tests.
+However, the course is way too bloated. Time was spent on insignificant things, due to which important topics had to be skimmed over. The assignments and course project are easy but tedious. Often graded by small things.
 - class=CS4347 | diff=5 | clarity=5 | help=5 | wta=None | date=2025-08-15 16:55:37 +0000 UTC
   Great professor when it comes to the topic but he can be a little rude at times. I personally thought the exams were ok but he does grade harshly. Projects took a lot of time so i didn't focus on the material that much. Failed each exam but he does curve at the end around 10 points! not an easy A.
 - class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-05-20 22:24:02 +0000 UTC
   Great class! Format was a group project, 2 exams, HW assignments, and occasional online quizzes with two attempts. He is a good lecturer and all the material works very well to teach the subject. Also a respectful person with engaging lectures.
 - class=CS4347 | diff=4 | clarity=4 | help=4 | wta=1 | date=2025-05-17 22:24:05 +0000 UTC
   Consistent participation gives you partial letter grade boost. 2 medium difficulty paper exams, closed notes. online quiz every couple weeks, given 2 attempts. easy hw every 2/3 weeks. major semester-long group project with a lot of work. good lectures, he can be funny sometimes too.
+- class=CS6360 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-05-13 20:48:08 +0000 UTC
+  It is important to attend his lectures because he is very good at explaining the topics. This course has most of its weightage on exams. Most importantly, attend his class and be very proactive in his class because if he recognizes you, he will bump your grade up by one grade point.
 - class=CS4347 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-05-13 04:18:18 +0000 UTC
   Genuinely shocked at all the low ratings. This class is not an easy A, but Professor Omer definitely gives you plenty of opportunities to get an A. The homeworks and quizzes prepare well for the exams. Exams are rough, but he is very fair with grading and adds a generous curve on top of bumping your grade if you are an active student.
 - class=CS4337 | diff=4 | clarity=5 | help=5 | wta=1 | date=2025-05-13 01:18:00 +0000 UTC
@@ -56,24 +66,52 @@ The professor is demanding, but the harder the professor and exams are, the more
   Participation is key in his class, and I highly recommend sitting in the front rows to stay engaged. His exams can be challenging if you don't put in the effort, but he's an incredible lecturer who genuinely cares about his students' success. He values questions and is always happy to help. Homework and group projects are straightforward.
 - class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2024-12-21 23:27:57 +0000 UTC
   Amazing professor! He cares about his students and while the exams are kind of difficult and it's not an easy A, as long as you understand the content you should be fine. Pay attention in class and participate for extra credit awarded at the end of the semester. Overall grade is based off of a group project, quizzes, homeworks, and exams.
+- class=CS6360 | diff=1 | clarity=5 | help=5 | wta=1 | date=2024-12-18 18:49:46 +0000 UTC
+  HIs lectures are great with lots of examples and thorough walkthrough to help you understand the material. Quizzes and homework are easy and the tests are just the examples from the slides, quizzes and homework. Study those and you'll learn a lot and do well.
 - class=CS4347 | diff=5 | clarity=1 | help=1 | wta=None | date=2024-05-22 03:20:35 +0000 UTC
   LISTEN TO ME! His exam were so HARD and grading was very strict. Literally I failed all of them and I normally get As in all my classes. DO NOT take him. Please take someone else. his group project is not too bad tho. His homeworks are medium difficulty but do take time. TLDR - STAY AWAY, I got a C in his class AFTER a small curve.
+- class=CS6360 | diff=2 | clarity=5 | help=5 | wta=1 | date=2024-05-21 23:11:51 +0000 UTC
+  Great lecturer, genuinely caring. Ask/answer question in-class for one higher letter grade. Extensive course content. 6x lengthy assignments (15%), stretched-out 5-phase project (20%), 4x lockdown browser quizzes (15%), 2x tough, penalizing exams (50%). Get ready to put in the hours.
 - class=CS4337 | diff=4 | clarity=3 | help=3 | wta=None | date=2024-05-13 18:49:39 +0000 UTC
   Dr. Omer's lectures are better than a typical professor's, but he spent too much time on them. We did not cover all content despite having no lectures cancelled. Make sure you get a good group, there are no consequences for non-contributors. Tests are difficult and while HW's were relevant more practice would've been nice.
 - class=CS4347 | diff=4 | clarity=5 | help=5 | wta=1 | date=2024-05-12 23:46:49 +0000 UTC
   This is an enjoyable class and I really had fun learning a lot from it. Quizzes are online and open note. Homework is pretty easy to do. Exams are hard so make sure you have a thorough understanding of the concepts and you'll be well prepared. He curves and gives a letter grade boost if you participate frequently in class.
+- class=CS6360 | diff=4 | clarity=4 | help=4 | wta=1 | date=2024-05-06 03:54:44 +0000 UTC
+  Overall nice guy who can lecture decently. Dense content, but slides do a pretty good job going over things. Exams are pretty hard, small mistakes can hurt your grade. Assignments aren't terrible, can help for study material. Assigns lockdown browser quizzes due on the same day. The class project can be a real pain in the butt. Small curve.
 - class=CS4347 | diff=5 | clarity=1 | help=1 | wta=None | date=2024-04-26 23:12:47 +0000 UTC
   Attendance is not mandatory and class is very boring. Exams are graded by prof harshly.
 - class=CS4347 | diff=5 | clarity=1 | help=1 | wta=None | date=2024-03-15 17:54:07 +0000 UTC
   Tough grader. HWs and project that were harshly graded.
 - class=CS4337 | diff=1 | clarity=5 | help=5 | wta=1 | date=2024-02-06 21:39:29 +0000 UTC
   Lectures make the somewhat dry material more engaging. He has very straightforward grading and the tests should be easy if you pay attention to his lectures. He also gives an amazing curve if you attend consistently and pay attention
+- class=CS6360 | diff=3 | clarity=4 | help=4 | wta=None | date=2023-12-21 02:14:31 +0000 UTC
+  Professor is a caring guy but the grading criteria is annoying. Exams are worth 25% of the grade and are 25 points (missing 2 multiple choice Q's will knock you down 1% overall grade). Homework is graded on accuracy and can be harshly marked at times. Course project is extensive but doable with a good group. Participate in class for grade bump!
+- class=CS6360 | diff=3 | clarity=4 | help=4 | wta=1 | date=2023-12-15 02:52:55 +0000 UTC
+  easy..if you study. 2 in class exams. try to do better in 1st exam as it gets tougher for the 2nd exam.
+- class=CS6360 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-12-15 01:33:07 +0000 UTC
+  Pros: 
+Decent at teaching
+Assignments are good and in depth 
+
+Cons:
+Small mistakes=big grade implications
+Terrible grading scheme (absolute)
+Exams directly affect grades(losing 1 mark is losing 1% and >94% is an A)
+The above means if you lose 7 marks in exams, i.e getting 1-2 questions wrong, puts you out of A. Another 4 marks lost puts you in B+
+- class=CS6360 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-12-11 02:31:14 +0000 UTC
+  Dr. Omer is a good teacher, he needs students to interact with him (on the last day of class he marks students who show up and interact with him in class for a letter grade bump). Quizzes are easy and online, exams usually cover what was discussed in class. The group project is research-heavy but doable. I would recommend, not easy A though
 - class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-12-09 20:13:10 +0000 UTC
   Good lectures, exams are not bad. Group project throughout the semester, split up into 6 parts it's not too bad but you will have to figure out stuff yourself for it. Homework is just normal. Slides do a good job of explaining and he has good lectures. Gives extra credit for "class participation" (sit in front 2 rows ig)
 - class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-12-06 03:48:49 +0000 UTC
   SO underrated. Assignments & exams/quizzes are very fair and not difficult at all. He explains concepts well and gives a lot of examples. Your grade is bumped up if you participate. He cares about the topic and is very knowledgable, lectures aren't boring either. He also cares about the students and is very eager to help if you reach out. Amazing!
 - class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-05-27 15:46:24 +0000 UTC
   Actually the absolute GOAT! Homework and quizzes are alright. Lectures are pretty good. Group project can be hard/time-consuming tho. Very caring. Very accessible both during and outside class. Truly wants you to learn and do well. Raises your grade a partial letter grade (such as B to B+ or A- to A) if you are a good student. Did I mention caring?
+- class=CS6360 | diff=4 | clarity=5 | help=5 | wta=1 | date=2023-05-19 04:25:56 +0000 UTC
+  Professor is so dedicated at teaching, Long lecture topics get ready to read. 
+
+Prepare for the exams with assignments and quiz's will be helpful for mid and finals.
+
+Overall good.
 - class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-05-05 18:35:52 +0000 UTC
   Second semester taking Dr. Omer. He is genuinely a gem in your academic career. His teaching style is very clear/ thorough. Assignment was graded by graders a bit harshly but his exams were graded by himself.
 Class content were very organized and quizzes were very helpful for exams. He is also very humorous.
@@ -87,9 +125,90 @@ He even gives you extra credit (up to a letter grade bump) if you participate in
 - class=CS4347 | diff=3 | clarity=4 | help=4 | wta=1 | date=2023-01-12 19:52:09 +0000 UTC
   The lectures are good especially when compared to most of the other professors at UTD. The slides were also helpful. He overall class structure an preparation for exam was good. The exam was fair. The homework was useful, but often vague, or graded harshly.
 
+=== Kamran Khan (legacyId 1636332) ===
+avgRating: 2.8 | avgDifficulty: 3.2 | numRatings: 74 (all-time) | dept: Computer Science
+- class=CS4347 | diff=1 | clarity=5 | help=5 | wta=1 | date=2026-05-08 04:20:57 +0000 UTC
+  Wow, what an amazing professor, really knows how to get us prepared for the industry
+- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2026-05-08 02:55:44 +0000 UTC
+  Plain and simply put, the goat. He is unorthodox, but he means well, his teaching is a bit different than others but it's in a good way, the guy cares about the students, which is why he might sometimes come out as harsh or annoyed, it's just because he wants you to succeed. Pay attention in class, and ur good, Took DSA w him too he's the best.
+- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2026-05-08 02:18:24 +0000 UTC
+  Best professor in the UTD CS industry
+- class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2026-02-26 23:02:17 +0000 UTC
+  Really good Professor, I love how he makes it tough for us, but it is a good type of tough, he is just preparing us when we get to the real world, and how to get through anything, he really cares for his students and makes sure we learn a lot from the class
+- class=CS4347 | diff=4 | clarity=5 | help=5 | wta=1 | date=2026-02-10 22:59:01 +0000 UTC
+  Really good Professor, makes its tough for us in the class, but he is just shaping us to be ready when we first start in the IT field, if you show up to class everyday, and sort of understand whats going on, the Professor wont let you down!
+- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2026-01-24 03:27:40 +0000 UTC
+  Avoid!! Worst professor I've ever had. I only write good reviews, but he made my semester hell. Gives like 4 hw assignments a day before exam. Can't give clear deadlines for anything. Expects us to have everything he says memorized up to exam day. His notes on elearning are so disorganized. His curve is the only thing that's good, but not worth it.
+- class=CS3345 | diff=4 | clarity=3 | help=3 | wta=None | date=2025-12-29 05:58:04 +0000 UTC
+  - Funny teacher with passion of what he's teaching; willing to help on anything
+- Online course content almost nonexistent; you're gonna have to REALLY lock in in-person
+- HWs and Projects so grounded, you could add them your portfolio/resume!
+- Tough grader on tests.
+
+Great teacher, but his teaching style isn't my thing.
+- class=CS4347 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-12-20 04:58:46 +0000 UTC
+  ik it says I have an A but please dont take him Ive had him for CS2 but he got 10x worse and his curve is essentially non existent now better off taking someone else
+- class=CS4347 | diff=3 | clarity=1 | help=1 | wta=None | date=2025-12-08 21:35:07 +0000 UTC
+  too many assignments. unclear grading criteria. heavily unorganized class.
+- class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-11-11 17:27:44 +0000 UTC
+  literally the best professor I've ever taken. Very lecture heavy but if you attend class and participate you will pass.
+- class=CS4347 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-10-13 18:36:38 +0000 UTC
+  horrible professor. lectures are just hime rambling on and one and threatening quizzes in the next class. he assigns homeworks that take at least 5 hours. exams are atrocious and assigns 3 assignments the sunday before the exam and expects them to be completed before the class of the exam itself. If you have a life, do not take him.
+- class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-05-21 18:27:00 +0000 UTC
+  hes not organized but great professor. This is the 2nd class i have taken with him and it is impossible to fail his classes. He curves at the end big time but his exams are very hard! Def attend lectures it is very useful. Will be taking him again for ML.
+- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-05-20 19:13:27 +0000 UTC
+  He is the most passionate professor that I have had in this college. his assignments are hard but if you work hard and make good use of his office hours you will be fine. I really enjoyed this class.
+- class=CS3345 | diff=4 | clarity=2 | help=2 | wta=None | date=2025-05-07 21:30:13 +0000 UTC
+  This prof is amazing a lectures and nothing else. Quiet disorganized but everything is at least in one place, just not actual organization. Will stop class to talk about why you should be on time when someone is late and waste time instead of actual lecturing. If lectures are the most important thing and can handle when prof's are rude, he's good.
+- class=CS3345 | diff=1 | clarity=1 | help=1 | wta=None | date=2025-04-08 18:54:55 +0000 UTC
+  Only professor ever had that openly complians about his poor ratings at Rate My Professor. Oh well, all in all, just another brick in the wall. Ego-maniac, attacks and tries to shame students. Can't communicate or teach well at all.  Don't bother sending emails, he won't answer any. Maybe if he wasn't so toxic, he would do better.
+- class=CS3345 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-03-29 21:04:26 +0000 UTC
+  Professor is horrible! He doesnt make his own slides, he steals them from other professors. He doesnt even have a book. His lectures are extremely bad because he goes off topic so much and makes fun of students who come late. Homework is hard. He has 4 homeworks but splits them into parts. First homework was 54 questions ON PAPER!. Avoid him!
+- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2025-02-24 00:41:43 +0000 UTC
+  This professor's teaching skills are mediocre, but is very condescending and disdainful toward younger generations. He often tries to make points to say that younger generations are "getting worse" when it is clear he has not been specific enough about his instructions. Homework instructions often don't match up with topics covered in class.
+- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2024-12-21 00:03:54 +0000 UTC
+  His teaching style is unique, i think it fit my learning style. If you do take his class you need to participate frequently.
+- class=CS3345 | diff=5 | clarity=1 | help=1 | wta=None | date=2024-12-20 22:43:32 +0000 UTC
+  Professor Clownran Khan wrote the review below. Any positive reviews regarding him are outdated and fake. This class is disorganized, with no clear criteria on grading. Previously, he curved significantly, but that is not the case anymore. Avoid if you want the chance to be happy in life. Take him if you love a professor with a massive ego! Awful.
+- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-12-20 03:11:08 +0000 UTC
+  his class made me depressed. i was expecting a big curve at the end of the semester and there was barely anything. exams are tough and weird wording. dont take him unless you're okay with your gpa going down.
+- class=CS4347 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-12-19 21:50:15 +0000 UTC
+  Spends more time yapping than actually teaching. His lectures are filled with endless rambling, leaving little room for actual learning. You'll find yourself tuning out more often than paying attention, as he avoids explaining key concepts. It's a waste of time if you're looking to actually understand DSA.
+- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-12-19 21:44:23 +0000 UTC
+  This professor is a nightmare. The class is a chaotic mess, with no clear structure. We're forced to take notes in Excel for some reason, which is completely unnecessary. The exams are ridiculously tough, and the wording was abysmal. If you dare ask a question, you're met with anger. A truly frustrating experience all around. Avoid him
+- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-12-19 18:09:27 +0000 UTC
+  Horrible professor. His class is so disorganized and will make you stress so much. I wouldn't take this guy again even if my life depended on it. No curve + avoid him for the love of God
+- class=CS3345 | diff=4 | clarity=3 | help=3 | wta=None | date=2024-11-11 18:53:23 +0000 UTC
+  Khan is something else tbh. He makes his students feel stupid for asking questions during class. His tests averages were in the 40's bc they are poorly worded, but he is allowing students to re-do it near the end of the semester. You really need to pay attention while you're in class or else you will fall behind and have to self teach.
+- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-08-26 23:38:02 +0000 UTC
+  This professor makes fun of students and mocks them for not understanding material he considers easy. Inaccessible outside class, does not respond to emails, and puts students down for asking questions during lectures.
+- class=CS4347 | diff=4 | clarity=3 | help=3 | wta=1 | date=2024-06-02 18:17:25 +0000 UTC
+  Professor Khan is a very nice and hilarious professor. He really cares about the topic and I learned a lot. However, the exams were incredibly difficult and had very bad class averages, even after the curve. I would recommend him just for the lectures.
+- class=CS3345 | diff=3 | clarity=3 | help=3 | wta=1 | date=2024-05-31 00:15:29 +0000 UTC
+  Has great advice on working as a computer scientist. Unfortunately, he is very disorganized. Online notes aren't ordered chronologically, homework wasn't given evenly throughout the semester, assignment instructions are sometimes unclear, and lectures would go off in random tangents. No backtracking on first exam and subjective questions on exams.
+- class=CS3345 | diff=2 | clarity=3 | help=3 | wta=None | date=2024-05-06 20:42:29 +0000 UTC
+  Insane curve, refuses to help you outside of class bc it creates an "unfair advantage", good lecturer, disorganized class, attendance is more or less mandatory, posts all the lecture slides and notes on eLearning, very ambiguous exams, rly caring. Overall a solid prof that will stress you out but u will learn a lot and end up with a good grade
+- class=CS3345 | diff=3 | clarity=4 | help=4 | wta=1 | date=2023-12-31 06:41:30 +0000 UTC
+  This class is disorganized and Professor Khan can become sidetracked, BUT if you attend the lectures and do the assignments, you should do well! The tests are tricky, but he is generous with curving. TIP: class participation really matters (aka if you participate, he will like you more and that will reflect in your grade!)
+- class=CS3345 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-12-23 23:00:03 +0000 UTC
+  He's a great lecturer and explains the concept very well. It is worth taking his class. However, the professor didn't follow the syllabus and the project grade took a long to be published, so kinda unorganized.
+- class=CS3345 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-12-19 15:30:47 +0000 UTC
+  Gives amazing lectures, although he doesn't take attendance, you need to be in class to understand. and if you pay attention in class, you will get an A or B. we had 1 major project, 3 exams worth 50% together, and homeworks were easy 100
+- class=CS3345 | diff=4 | clarity=5 | help=5 | wta=1 | date=2023-12-06 02:08:28 +0000 UTC
+  Not sure why his rating is so low. He's an amazing lecturer. Makes it seem interesting. No textbook just his notes. Feels like an actual college class worth paying for. Attendance not mandatory but you might miss quizzes and extra credit. Great choice but it's a little disorganized and seems like it varies a lil each sem so don't expect an A.
+- class=CS3345 | diff=4 | clarity=4 | help=4 | wta=1 | date=2023-11-09 18:49:01 +0000 UTC
+  Kinda disorganized, but he doesn't punish us for it and makes up with his lectures. He does a good job of making sure you learn mostly through the lectures. Although he tends to kind of jump into example graph problems or algorithms without giving a solid explanation of how an algorithm works. This is just his style of teaching.
+- class=CS4347 | diff=3 | clarity=2 | help=2 | wta=None | date=2023-05-21 23:43:07 +0000 UTC
+  Taken for intro to machine learning. Lectures were messy and mostly just involved copying code. Tests were rife with grammatical errors and felt poorly constructed. The final exam was quite literally debugging an already written programming by changing several values(Which the debugger told you what they were...) Kind professor, but messy course.
+- class=CS3345 | diff=5 | clarity=2 | help=2 | wta=None | date=2023-05-16 05:05:28 +0000 UTC
+  All his assignments were confusing, and the grader always took points off your assignments arbitrarily. Each test had many errors in the questions and had to be fixed. Averages were ~40 pre-fix on each test. His tests are extremely hard and barely pertain to class material. Don't recommend this professor unless you are ready to study quite a bit.
+- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2023-05-15 17:57:08 +0000 UTC
+  AVOID. Take this professor if you want to be stressed out over your grades the entire semester, up until the final day of grades. He gives extremely unfair exams, that are "multiple-select" with zero partial credit. The exams are also trick questions, even if he claims otherwise. The exam grades randomly drop for the following weeks after the exam.
+- class=CS3345 | diff=4 | clarity=5 | help=5 | wta=1 | date=2023-05-10 16:34:47 +0000 UTC
+  This professor is SO good. I can not stress how important it is that you take him for data structures and algorithms. He is so talented at explaining concepts to his students. I can confidently say that because of him, I believe I would be able to nail any interview questions regarding data structures and algorithms. He is simply the best.
+
 === Elmer Salazar (legacyId 2526451) ===
-avgRating: 2.5 | avgDifficulty: 3.9 | numRatings: 96 | dept: Computer Science
-target_course_reviews: 36
+avgRating: 2.5 | avgDifficulty: 3.9 | numRatings: 96 (all-time) | dept: Computer Science
 - class=CS4348 | diff=2 | clarity=3 | help=3 | wta=1 | date=2025-12-21 22:16:34 +0000 UTC
   I found this professor to be baffling. Parsing his slides/handwriting is like reading hieroglyphics upside down w/o your glasses on. Nice guy but you will have better luck sports betting than expecting him to respond to an email. I found the projects to be really interesting and felt like I learned a lot from them, probably some of my fav from UTD.
 - class=CS4337 | diff=4 | clarity=1 | help=1 | wta=None | date=2025-12-20 06:19:43 +0000 UTC
@@ -170,86 +289,67 @@ As another student has mentioned: "If I had one more semester to live, I would r
 - class=CS4337 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-04-13 05:12:10 +0000 UTC
   He has 3 projects 3 exams and 6/7 homeworks and a quiz every week. He made the project 1 optional because we were so far behind. when It came to project 2 we are required to write in racket. He thought it for 2 or 3 classes at most, and expects us to do a hard AI project. 3 weeks left and we still have a lot to cover. AVOID HIM AT ALL COST.
 
-=== Kamran Khan (legacyId 1636332) ===
-avgRating: 2.8 | avgDifficulty: 3.2 | numRatings: 74 | dept: Computer Science
-target_course_reviews: 34
-- class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2026-02-26 23:02:17 +0000 UTC
-  Really good Professor, I love how he makes it tough for us, but it is a good type of tough, he is just preparing us when we get to the real world, and how to get through anything, he really cares for his students and makes sure we learn a lot from the class
-- class=CS4347 | diff=4 | clarity=5 | help=5 | wta=1 | date=2026-02-10 22:59:01 +0000 UTC
-  Really good Professor, makes its tough for us in the class, but he is just shaping us to be ready when we first start in the IT field, if you show up to class everyday, and sort of understand whats going on, the Professor wont let you down!
-- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2026-01-24 03:27:40 +0000 UTC
-  Avoid!! Worst professor I've ever had. I only write good reviews, but he made my semester hell. Gives like 4 hw assignments a day before exam. Can't give clear deadlines for anything. Expects us to have everything he says memorized up to exam day. His notes on elearning are so disorganized. His curve is the only thing that's good, but not worth it.
-- class=CS3345 | diff=4 | clarity=3 | help=3 | wta=None | date=2025-12-29 05:58:04 +0000 UTC
-  - Funny teacher with passion of what he's teaching; willing to help on anything
-- Online course content almost nonexistent; you're gonna have to REALLY lock in in-person
-- HWs and Projects so grounded, you could add them your portfolio/resume!
-- Tough grader on tests.
-
-Great teacher, but his teaching style isn't my thing.
-- class=CS4347 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-12-20 04:58:46 +0000 UTC
-  ik it says I have an A but please dont take him Ive had him for CS2 but he got 10x worse and his curve is essentially non existent now better off taking someone else
-- class=CS4347 | diff=3 | clarity=1 | help=1 | wta=None | date=2025-12-08 21:35:07 +0000 UTC
-  too many assignments. unclear grading criteria. heavily unorganized class.
-- class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-11-11 17:27:44 +0000 UTC
-  literally the best professor I've ever taken. Very lecture heavy but if you attend class and participate you will pass.
-- class=CS4347 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-10-13 18:36:38 +0000 UTC
-  horrible professor. lectures are just hime rambling on and one and threatening quizzes in the next class. he assigns homeworks that take at least 5 hours. exams are atrocious and assigns 3 assignments the sunday before the exam and expects them to be completed before the class of the exam itself. If you have a life, do not take him.
-- class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-05-21 18:27:00 +0000 UTC
-  hes not organized but great professor. This is the 2nd class i have taken with him and it is impossible to fail his classes. He curves at the end big time but his exams are very hard! Def attend lectures it is very useful. Will be taking him again for ML.
-- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-05-20 19:13:27 +0000 UTC
-  He is the most passionate professor that I have had in this college. his assignments are hard but if you work hard and make good use of his office hours you will be fine. I really enjoyed this class.
-- class=CS3345 | diff=4 | clarity=2 | help=2 | wta=None | date=2025-05-07 21:30:13 +0000 UTC
-  This prof is amazing a lectures and nothing else. Quiet disorganized but everything is at least in one place, just not actual organization. Will stop class to talk about why you should be on time when someone is late and waste time instead of actual lecturing. If lectures are the most important thing and can handle when prof's are rude, he's good.
-- class=CS3345 | diff=1 | clarity=1 | help=1 | wta=None | date=2025-04-08 18:54:55 +0000 UTC
-  Only professor ever had that openly complians about his poor ratings at Rate My Professor. Oh well, all in all, just another brick in the wall. Ego-maniac, attacks and tries to shame students. Can't communicate or teach well at all.  Don't bother sending emails, he won't answer any. Maybe if he wasn't so toxic, he would do better.
-- class=CS3345 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-03-29 21:04:26 +0000 UTC
-  Professor is horrible! He doesnt make his own slides, he steals them from other professors. He doesnt even have a book. His lectures are extremely bad because he goes off topic so much and makes fun of students who come late. Homework is hard. He has 4 homeworks but splits them into parts. First homework was 54 questions ON PAPER!. Avoid him!
-- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2024-12-21 00:03:54 +0000 UTC
-  His teaching style is unique, i think it fit my learning style. If you do take his class you need to participate frequently.
-- class=CS3345 | diff=5 | clarity=1 | help=1 | wta=None | date=2024-12-20 22:43:32 +0000 UTC
-  Professor Clownran Khan wrote the review below. Any positive reviews regarding him are outdated and fake. This class is disorganized, with no clear criteria on grading. Previously, he curved significantly, but that is not the case anymore. Avoid if you want the chance to be happy in life. Take him if you love a professor with a massive ego! Awful.
-- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-12-20 03:11:08 +0000 UTC
-  his class made me depressed. i was expecting a big curve at the end of the semester and there was barely anything. exams are tough and weird wording. dont take him unless you're okay with your gpa going down.
-- class=CS4347 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-12-19 21:50:15 +0000 UTC
-  Spends more time yapping than actually teaching. His lectures are filled with endless rambling, leaving little room for actual learning. You'll find yourself tuning out more often than paying attention, as he avoids explaining key concepts. It's a waste of time if you're looking to actually understand DSA.
-- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-12-19 21:44:23 +0000 UTC
-  This professor is a nightmare. The class is a chaotic mess, with no clear structure. We're forced to take notes in Excel for some reason, which is completely unnecessary. The exams are ridiculously tough, and the wording was abysmal. If you dare ask a question, you're met with anger. A truly frustrating experience all around. Avoid him
-- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-12-19 18:09:27 +0000 UTC
-  Horrible professor. His class is so disorganized and will make you stress so much. I wouldn't take this guy again even if my life depended on it. No curve + avoid him for the love of God
-- class=CS3345 | diff=4 | clarity=3 | help=3 | wta=None | date=2024-11-11 18:53:23 +0000 UTC
-  Khan is something else tbh. He makes his students feel stupid for asking questions during class. His tests averages were in the 40's bc they are poorly worded, but he is allowing students to re-do it near the end of the semester. You really need to pay attention while you're in class or else you will fall behind and have to self teach.
-- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-08-26 23:38:02 +0000 UTC
-  This professor makes fun of students and mocks them for not understanding material he considers easy. Inaccessible outside class, does not respond to emails, and puts students down for asking questions during lectures.
-- class=CS4347 | diff=4 | clarity=3 | help=3 | wta=1 | date=2024-06-02 18:17:25 +0000 UTC
-  Professor Khan is a very nice and hilarious professor. He really cares about the topic and I learned a lot. However, the exams were incredibly difficult and had very bad class averages, even after the curve. I would recommend him just for the lectures.
-- class=CS3345 | diff=3 | clarity=3 | help=3 | wta=1 | date=2024-05-31 00:15:29 +0000 UTC
-  Has great advice on working as a computer scientist. Unfortunately, he is very disorganized. Online notes aren't ordered chronologically, homework wasn't given evenly throughout the semester, assignment instructions are sometimes unclear, and lectures would go off in random tangents. No backtracking on first exam and subjective questions on exams.
-- class=CS3345 | diff=2 | clarity=3 | help=3 | wta=None | date=2024-05-06 20:42:29 +0000 UTC
-  Insane curve, refuses to help you outside of class bc it creates an "unfair advantage", good lecturer, disorganized class, attendance is more or less mandatory, posts all the lecture slides and notes on eLearning, very ambiguous exams, rly caring. Overall a solid prof that will stress you out but u will learn a lot and end up with a good grade
-- class=CS3345 | diff=3 | clarity=4 | help=4 | wta=1 | date=2023-12-31 06:41:30 +0000 UTC
-  This class is disorganized and Professor Khan can become sidetracked, BUT if you attend the lectures and do the assignments, you should do well! The tests are tricky, but he is generous with curving. TIP: class participation really matters (aka if you participate, he will like you more and that will reflect in your grade!)
-- class=CS3345 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-12-19 15:30:47 +0000 UTC
-  Gives amazing lectures, although he doesn't take attendance, you need to be in class to understand. and if you pay attention in class, you will get an A or B. we had 1 major project, 3 exams worth 50% together, and homeworks were easy 100
-- class=CS3345 | diff=4 | clarity=5 | help=5 | wta=1 | date=2023-12-06 02:08:28 +0000 UTC
-  Not sure why his rating is so low. He's an amazing lecturer. Makes it seem interesting. No textbook just his notes. Feels like an actual college class worth paying for. Attendance not mandatory but you might miss quizzes and extra credit. Great choice but it's a little disorganized and seems like it varies a lil each sem so don't expect an A.
-- class=CS3345 | diff=4 | clarity=4 | help=4 | wta=1 | date=2023-11-09 18:49:01 +0000 UTC
-  Kinda disorganized, but he doesn't punish us for it and makes up with his lectures. He does a good job of making sure you learn mostly through the lectures. Although he tends to kind of jump into example graph problems or algorithms without giving a solid explanation of how an algorithm works. This is just his style of teaching.
-- class=CS4347 | diff=3 | clarity=2 | help=2 | wta=None | date=2023-05-21 23:43:07 +0000 UTC
-  Taken for intro to machine learning. Lectures were messy and mostly just involved copying code. Tests were rife with grammatical errors and felt poorly constructed. The final exam was quite literally debugging an already written programming by changing several values(Which the debugger told you what they were...) Kind professor, but messy course.
-- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2023-05-15 17:57:08 +0000 UTC
-  AVOID. Take this professor if you want to be stressed out over your grades the entire semester, up until the final day of grades. He gives extremely unfair exams, that are "multiple-select" with zero partial credit. The exams are also trick questions, even if he claims otherwise. The exam grades randomly drop for the following weeks after the exam.
-- class=CS3345 | diff=4 | clarity=5 | help=5 | wta=1 | date=2023-05-10 16:34:47 +0000 UTC
-  This professor is SO good. I can not stress how important it is that you take him for data structures and algorithms. He is so talented at explaining concepts to his students. I can confidently say that because of him, I believe I would be able to nail any interview questions regarding data structures and algorithms. He is simply the best.
-- class=CS3345 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-04-09 02:20:25 +0000 UTC
-  Very disorganized and poor test language.
-- class=CS4347 | diff=1 | clarity=5 | help=5 | wta=1 | date=2023-03-08 23:54:47 +0000 UTC
-  Great Professor! Would highly recommend taking him!
-- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-01-07 19:54:11 +0000 UTC
-  This is the BEST class I have taken at UTD, partially due to the very interesting Algorithms and thought process taught in the class. But a large reason was the professor. His lectures are informative, funny, and he is very personable. Given any chance I will take one of his classes again. Professors like this make college and learning enjoyable.
+=== Chris Davis (legacyId 1936866) ===
+avgRating: 2.9 | avgDifficulty: 3 | numRatings: 95 (all-time) | dept: Computer Science
+- class=CS4337 | diff=2 | clarity=5 | help=5 | wta=1 | date=2025-05-26 00:22:51 +0000 UTC
+  CD is criminally underrated on here. Honestly the course material for paradigms puts me to sleep but you can skip a few classes or do other things in class, CD is chill like that. There wasn't really that much work and exams weren't too hard.
+- class=CS4337 | diff=4 | clarity=4 | help=4 | wta=1 | date=2025-05-21 18:13:13 +0000 UTC
+  He curves good at the end. Made a 45 on both midterm and final and made a C- at the end. Takes a while to grade everything though. I would attend all his classes. Lectures are useful for exams.
+- class=CS4337 | diff=4 | clarity=2 | help=2 | wta=None | date=2025-04-04 01:45:46 +0000 UTC
+  He's a nice guy, very passionate, but easily sidetracked. Something about his lectures do not click with me, and it seems like that's a common problem among my peers. Also takes a while to grade things. Here's to hoping he curves, will update this at the end of the semester.
+- class=CS4337 | diff=4 | clarity=4 | help=4 | wta=1 | date=2024-12-22 05:34:46 +0000 UTC
+  Very passionate professor! FRQ grading is pretty lenient and partial credit is given. Tests are DIFFICULT (requires immense preparation)! He gives a generous curve (one letter grade above pretty sure)...extra credit opportunity is available at the end of the semester.
+- class=CS4337 | diff=2 | clarity=5 | help=5 | wta=1 | date=2024-12-22 01:53:35 +0000 UTC
+  Doing my civic duty to raise his RMP average. Slow to grade, but I can't fathom why this alone has caused so many people here to get their panties in a twist. Passionate and knowledgeable about the subject and gave a generous curve for 4337. You'll need to talk to him before or after class if you have an issue that needs resolving.
+- class=CS4337 | diff=3 | clarity=4 | help=4 | wta=1 | date=2024-12-19 07:49:04 +0000 UTC
+  Great lecturer, but if you need something done after class, you better stay after and watch it happen before your very eyes. Also, you will not be receiving grades for several weeks, so don't wait for feedback. He's reachable outside class, but he keeps odd hours for some and the right hours for others (prime time was 12-2 in the morning for me...)
+- class=CS6360 | diff=5 | clarity=1 | help=1 | wta=None | date=2024-12-14 05:48:30 +0000 UTC
+  He will wait weeks to post things he says he will post the next day and takes forever to get back to students. We are about to have our final exam and haven't had a single assignment besides the midterm graded. We had way more time for the easy midterm project than we had for the extremely time consuming final project. Great lecturer
+- class=CS6360 | diff=5 | clarity=1 | help=1 | wta=None | date=2024-12-12 19:57:56 +0000 UTC
+  I wrote this before the final so I wasn't influenced by the curve others have mentioned - Chris Davis is the worst professor I have ever had at UT Dallas. Assignments haven't been graded even over 100 days after the due date. The final project had its documentation change without a version number update and the time needed to complete is insane.
+- class=CS4337 | diff=3 | clarity=4 | help=4 | wta=1 | date=2024-11-04 17:46:15 +0000 UTC
+  He is a bit disorganized considering your grades from the beginning of the class might not even show up until the last week, but he is passionate in his teachings and has a lot of deep understanding about what he teaches. It's one of those classes where sitting in the front row helps drastically.
+- class=CS4337 | diff=2 | clarity=1 | help=1 | wta=None | date=2024-05-14 01:42:43 +0000 UTC
+  Grading isn't bad, there are two pretty easy exams and each are only 25% of your grade (the rest of your grade is attendance + projects + HWs) and projects/HWs are pretty easy. However, Davis is incredibly disorganized and doesn't grade a lot of your work until after you take the final (including the midterm).
+- class=CS4337 | diff=2 | clarity=2 | help=2 | wta=None | date=2024-05-07 02:40:23 +0000 UTC
+  Good lecturer, he's a great speaker, goes off track is very disorganized, and makes more excuses than any professor I've ever had. Students pay too much money to not have assignments assigned when they're supposed to, have lectures start 20 minutes late, and have grades returned more than a month later. Full of excuses, unacceptable.
+- class=CS4337 | diff=3 | clarity=4 | help=4 | wta=1 | date=2024-04-27 04:35:55 +0000 UTC
+  Teaches the class pretty well and was quite disorganized. Gives 2 long and hard programming projects, so use YouTube and example codes on the internet for help! Exams are hard but the reviews are helpful. He is willing to help when needed! I would have done better in this class if I studied more for the exams, and he makes a curve at the end.
+- class=CS6360 | diff=3 | clarity=4 | help=4 | wta=1 | date=2024-01-20 05:01:20 +0000 UTC
+  Its a easy A if you are taking a course under him. Has 4 assignments (Before midterm), 2 projectss and 1 Mid term and 1 final. He teaches fine, grades well. He extends the deadline of the proj1 if requested by students but cramps up the 2nd project till the end of semester and time isn't sufficient for it (is unorganized in that manner).
+- class=CS6360 | diff=2 | clarity=1 | help=1 | wta=None | date=2023-12-26 16:49:53 +0000 UTC
+  Professor and course were disorganized. 3 easy homeworks, 1 individual project that was easy and given too much time, and 1 group project which was difficult and given less time. Attendance required, but you can self study for exams with the book and review sheet he provides. Overall, he cares for students and gave a massive curve at the end.
+- class=CS4337 | diff=3 | clarity=3 | help=3 | wta=None | date=2023-12-22 04:51:14 +0000 UTC
+  Horrible at posting grades until the last minute, rambles about something the first 30 min of lecture, introduces a new unit on the second last week thats on the final, not very reliable in communicating stuff or getting a hold of him. Homeworks are fine, programming project problems can be tricky, and the exams are very bs, but gives unknown curve
+- class=CS4337 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-12-21 08:07:57 +0000 UTC
+  His class isn't too difficult but he NEVER responds and doesn't grade on time. The due date for final grades was today and he still didn't submit them. If you're ok with the stress then take him but I didn't like him at all.
+- class=CS4347 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-12-21 00:05:06 +0000 UTC
+  NEVER TAKE HIS COURSE. We didn't even get exam 2 grades on the day of final grade submission due date. He says a lot of things that he doesn't keep his words while he was busy doing tweeter. Project needed to be graded by TA, but TA was not informed by him neither. Homework that contain some exam questions posted on last day of exam date range.
+- class=CS4337 | diff=4 | clarity=1 | help=1 | wta=None | date=2023-12-12 18:05:06 +0000 UTC
+  Davis is very knowledgeable, but good luck learning anything from him. His lectures get extremely off topic for 30+ mins at a time, we didn't get midterm grades back until December, our hws are still ungraded, he dropped a whole new chapter on the second to last day of class, and announced the final as cumulative on the last day of class.
+- class=CS6360 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-12-10 22:21:02 +0000 UTC
+  Davis is a good lecturer but that's it. I never got my midterm exam grade back even after pinging him on Teams. Additionally, he pushed back the individual project's due date so much that he assigned the far more involved and difficult group project (implement a rudimentary DBMS from scratch) was assigned literally the week before final exams.
+- class=CS4347 | diff=1 | clarity=1 | help=1 | wta=None | date=2023-12-09 19:35:03 +0000 UTC
+  Don't take him unless you want to suffer through a professor saying that he'll post stuff and never do it. It's been nearly a month and we still haven't gotten our exam 2 grades, and he never posted homework for us to study for exam 3. Never even notified the TA that he was supposed to meet with us to run our projects. Never ever again.
+- class=CS4337 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-12-09 08:33:45 +0000 UTC
+  Frustrating experience. Will never respond to emails/Teams messages and won't keep his word about anything unless constantly reminded by multiple members of the class. Homeworks and programming assignments aren't that hard. Tests are pretty difficult quite honestly, and he won't grade it. We had it on 10/11 and now it's 11/21 with no grade.
+- class=CS4347 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-11-02 01:41:38 +0000 UTC
+  Davis is a good lecturer, however he is disorganized, its been 5 weeks since exam 1 was taken and we still do not have grades, for the second exam he forgot to post the all three of the homework so we nothing but the 200 slides to review in preparation. Cool dude but too disoganized, really tanks his score and his class. Not fun being in his class
+- class=CS4337 | diff=3 | clarity=3 | help=3 | wta=None | date=2023-09-04 01:46:30 +0000 UTC
+  Good lecturer, homework is easy, exams are meh (study all details), projects are also not too long.
+- class=CS4337 | diff=3 | clarity=2 | help=2 | wta=None | date=2023-05-19 23:01:17 +0000 UTC
+  The professor was never accessible outside the class and he posted the final grades before even giving the result of 3 projects and 3 homework. In class he shows interest in teaching and the students but the fact that he is so disorganizate makes the class really stressing in particular because you do not know how your grade is before the last day
+- class=CS4337 | diff=3 | clarity=3 | help=3 | wta=1 | date=2023-05-18 15:33:01 +0000 UTC
+  Class was pretty boring, stopped going for 2nd half of semester, attendace is mandatory. Exams were based off of the HW and slides and overall class was pretty easy as long as you make sure to study enough for the exams. Professor is pretty disorganized, submitted grades without most of the HWs and projects even graded, but he is very caring.
+- class=CS4337 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-05-17 01:48:42 +0000 UTC
+  First, he didn't even grade the homework that is included in final exam until end of first day of final (given three days to choose). Second, homework answer is different on final. Third, didn't even respond to students' question about second one. Now, he has one last day to submit final grade, but nobody knows their grades yet. Avoid as you can.
+- class=CS4337 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-04-10 07:52:58 +0000 UTC
+  Professor Davis is a caring guy. Very knowledgeable. His homework is not bad, nor are his projects. Exams are a little tough, but so long as you pay attention in class and actually study, you should do just fine. Try to ask him questions in class about the homework because he takes a couple of days to respond to questions through teams and emails.
+- class=CS4337 | diff=3 | clarity=3 | help=3 | wta=1 | date=2023-01-18 18:02:21 +0000 UTC
+  Dr. Davis gives 2 projects, about 5 homeworks, and 2 tests as well as an attendance grade. While he cares deeply about the subject and in class will help you understand any concept, he is not accessible outside of class, and gets distracted in class leading to a lack of extensive coverage of some topics. His tests are straight from the lectures.
 
 === Gity Karami (legacyId 2398089) ===
-avgRating: 2.7 | avgDifficulty: 3.4 | numRatings: 155 | dept: Computer Science
-target_course_reviews: 27
+avgRating: 2.7 | avgDifficulty: 3.4 | numRatings: 155 (all-time) | dept: Computer Science
 - class=CS4337 | diff=4 | clarity=4 | help=4 | wta=1 | date=2026-05-24 09:56:14 +0000 UTC
   Pros: A lot of material is provided, so you are well prepared before the exam. She is available to help you succeed. The quizzes and note examples are very helpful for studying. You need to work hard, but the bonus points are rewarding. Cons: Grading is tough, so choose good teammates. Do not depend on bonus points.
 - class=CS4337 | diff=3 | clarity=3 | help=3 | wta=1 | date=2026-04-13 22:04:24 +0000 UTC
@@ -306,10 +406,11 @@ target_course_reviews: 27
   Horrible prof, grading was about as good as a random number generator. She has no sympathy or leniency. Get 9/10 parts to a question right? Well here is 0 credit for it. Also she has no examples to base your answers off. She is too lazy to give answer keys for reviews. Uses student solutions to base sample problems, and they are sometimes incorrect
 
 === Omar Hamdy (legacyId 2727867) ===
-avgRating: 3.9 | avgDifficulty: 3.4 | numRatings: 131 | dept: Computer Science
-target_course_reviews: 24
+avgRating: 3.9 | avgDifficulty: 3.4 | numRatings: 133 (all-time) | dept: Computer Science
 - class=CS3345 | diff=1 | clarity=5 | help=5 | wta=1 | date=2026-06-01 22:42:48 +0000 UTC
   Great overall
+- class=CS4349 | diff=4 | clarity=4 | help=4 | wta=1 | date=2026-05-07 20:23:24 +0000 UTC
+  He is very demanding and a bit rude, but lectures are very helpful
 - class=CS3345 | diff=4 | clarity=3 | help=3 | wta=None | date=2026-03-22 01:39:49 +0000 UTC
   While I love his lecture style and he really does boil the concepts down, I think the exams were too difficult! Exam averages are close to C+ to D, and even if you did study the lecture slides, there are gotchas like specific things or even poorly-worded questions. Professor also skimps out on extra credit even if promised!
 - class=CS3345 | diff=2 | clarity=5 | help=5 | wta=1 | date=2026-01-24 03:54:07 +0000 UTC
@@ -354,62 +455,9 @@ target_course_reviews: 24
   Absolutely the BEST professor you can have!!! Lectures are AMAZING, he dedicates time to make you really understand the topics so you learn a lot in his classes, never miss a lecture. I also took him for CS 4341 and it is definitely the best choice you can make, worth every second of your time. Take him, you won't regret it!!!!
 - class=CS3345 | diff=3 | clarity=2 | help=2 | wta=None | date=2024-04-30 02:59:55 +0000 UTC
   Probably the most overrated professor at UTD if I'm being honest, he's just okay. He has a passion for computer science and grades fair, however his lectures can be a bit much. Gave us 3 hw assignments spread throughout the semester with 2 weeks to finish them. Last second he assigned us a hw right before the final which was super annoying.
-- class=CS3345 | diff=2 | clarity=5 | help=5 | wta=1 | date=2024-03-04 04:40:43 +0000 UTC
-  One of the best CS lecturers I have ever had! Take him if you want to learn data structures!
-
-=== Chris Davis (legacyId 1936866) ===
-avgRating: 2.9 | avgDifficulty: 3 | numRatings: 95 | dept: Computer Science
-target_course_reviews: 23
-- class=CS4337 | diff=2 | clarity=5 | help=5 | wta=1 | date=2025-05-26 00:22:51 +0000 UTC
-  CD is criminally underrated on here. Honestly the course material for paradigms puts me to sleep but you can skip a few classes or do other things in class, CD is chill like that. There wasn't really that much work and exams weren't too hard.
-- class=CS4337 | diff=4 | clarity=4 | help=4 | wta=1 | date=2025-05-21 18:13:13 +0000 UTC
-  He curves good at the end. Made a 45 on both midterm and final and made a C- at the end. Takes a while to grade everything though. I would attend all his classes. Lectures are useful for exams.
-- class=CS4337 | diff=4 | clarity=2 | help=2 | wta=None | date=2025-04-04 01:45:46 +0000 UTC
-  He's a nice guy, very passionate, but easily sidetracked. Something about his lectures do not click with me, and it seems like that's a common problem among my peers. Also takes a while to grade things. Here's to hoping he curves, will update this at the end of the semester.
-- class=CS4337 | diff=4 | clarity=4 | help=4 | wta=1 | date=2024-12-22 05:34:46 +0000 UTC
-  Very passionate professor! FRQ grading is pretty lenient and partial credit is given. Tests are DIFFICULT (requires immense preparation)! He gives a generous curve (one letter grade above pretty sure)...extra credit opportunity is available at the end of the semester.
-- class=CS4337 | diff=2 | clarity=5 | help=5 | wta=1 | date=2024-12-22 01:53:35 +0000 UTC
-  Doing my civic duty to raise his RMP average. Slow to grade, but I can't fathom why this alone has caused so many people here to get their panties in a twist. Passionate and knowledgeable about the subject and gave a generous curve for 4337. You'll need to talk to him before or after class if you have an issue that needs resolving.
-- class=CS4337 | diff=3 | clarity=4 | help=4 | wta=1 | date=2024-12-19 07:49:04 +0000 UTC
-  Great lecturer, but if you need something done after class, you better stay after and watch it happen before your very eyes. Also, you will not be receiving grades for several weeks, so don't wait for feedback. He's reachable outside class, but he keeps odd hours for some and the right hours for others (prime time was 12-2 in the morning for me...)
-- class=CS4337 | diff=3 | clarity=4 | help=4 | wta=1 | date=2024-11-04 17:46:15 +0000 UTC
-  He is a bit disorganized considering your grades from the beginning of the class might not even show up until the last week, but he is passionate in his teachings and has a lot of deep understanding about what he teaches. It's one of those classes where sitting in the front row helps drastically.
-- class=CS4337 | diff=2 | clarity=1 | help=1 | wta=None | date=2024-05-14 01:42:43 +0000 UTC
-  Grading isn't bad, there are two pretty easy exams and each are only 25% of your grade (the rest of your grade is attendance + projects + HWs) and projects/HWs are pretty easy. However, Davis is incredibly disorganized and doesn't grade a lot of your work until after you take the final (including the midterm).
-- class=CS4337 | diff=2 | clarity=2 | help=2 | wta=None | date=2024-05-07 02:40:23 +0000 UTC
-  Good lecturer, he's a great speaker, goes off track is very disorganized, and makes more excuses than any professor I've ever had. Students pay too much money to not have assignments assigned when they're supposed to, have lectures start 20 minutes late, and have grades returned more than a month later. Full of excuses, unacceptable.
-- class=CS4337 | diff=3 | clarity=4 | help=4 | wta=1 | date=2024-04-27 04:35:55 +0000 UTC
-  Teaches the class pretty well and was quite disorganized. Gives 2 long and hard programming projects, so use YouTube and example codes on the internet for help! Exams are hard but the reviews are helpful. He is willing to help when needed! I would have done better in this class if I studied more for the exams, and he makes a curve at the end.
-- class=CS4337 | diff=3 | clarity=3 | help=3 | wta=None | date=2023-12-22 04:51:14 +0000 UTC
-  Horrible at posting grades until the last minute, rambles about something the first 30 min of lecture, introduces a new unit on the second last week thats on the final, not very reliable in communicating stuff or getting a hold of him. Homeworks are fine, programming project problems can be tricky, and the exams are very bs, but gives unknown curve
-- class=CS4337 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-12-21 08:07:57 +0000 UTC
-  His class isn't too difficult but he NEVER responds and doesn't grade on time. The due date for final grades was today and he still didn't submit them. If you're ok with the stress then take him but I didn't like him at all.
-- class=CS4347 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-12-21 00:05:06 +0000 UTC
-  NEVER TAKE HIS COURSE. We didn't even get exam 2 grades on the day of final grade submission due date. He says a lot of things that he doesn't keep his words while he was busy doing tweeter. Project needed to be graded by TA, but TA was not informed by him neither. Homework that contain some exam questions posted on last day of exam date range.
-- class=CS4337 | diff=4 | clarity=1 | help=1 | wta=None | date=2023-12-12 18:05:06 +0000 UTC
-  Davis is very knowledgeable, but good luck learning anything from him. His lectures get extremely off topic for 30+ mins at a time, we didn't get midterm grades back until December, our hws are still ungraded, he dropped a whole new chapter on the second to last day of class, and announced the final as cumulative on the last day of class.
-- class=CS4347 | diff=1 | clarity=1 | help=1 | wta=None | date=2023-12-09 19:35:03 +0000 UTC
-  Don't take him unless you want to suffer through a professor saying that he'll post stuff and never do it. It's been nearly a month and we still haven't gotten our exam 2 grades, and he never posted homework for us to study for exam 3. Never even notified the TA that he was supposed to meet with us to run our projects. Never ever again.
-- class=CS4337 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-12-09 08:33:45 +0000 UTC
-  Frustrating experience. Will never respond to emails/Teams messages and won't keep his word about anything unless constantly reminded by multiple members of the class. Homeworks and programming assignments aren't that hard. Tests are pretty difficult quite honestly, and he won't grade it. We had it on 10/11 and now it's 11/21 with no grade.
-- class=CS4347 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-11-02 01:41:38 +0000 UTC
-  Davis is a good lecturer, however he is disorganized, its been 5 weeks since exam 1 was taken and we still do not have grades, for the second exam he forgot to post the all three of the homework so we nothing but the 200 slides to review in preparation. Cool dude but too disoganized, really tanks his score and his class. Not fun being in his class
-- class=CS4337 | diff=3 | clarity=3 | help=3 | wta=None | date=2023-09-04 01:46:30 +0000 UTC
-  Good lecturer, homework is easy, exams are meh (study all details), projects are also not too long.
-- class=CS4337 | diff=3 | clarity=2 | help=2 | wta=None | date=2023-05-19 23:01:17 +0000 UTC
-  The professor was never accessible outside the class and he posted the final grades before even giving the result of 3 projects and 3 homework. In class he shows interest in teaching and the students but the fact that he is so disorganizate makes the class really stressing in particular because you do not know how your grade is before the last day
-- class=CS4337 | diff=3 | clarity=3 | help=3 | wta=1 | date=2023-05-18 15:33:01 +0000 UTC
-  Class was pretty boring, stopped going for 2nd half of semester, attendace is mandatory. Exams were based off of the HW and slides and overall class was pretty easy as long as you make sure to study enough for the exams. Professor is pretty disorganized, submitted grades without most of the HWs and projects even graded, but he is very caring.
-- class=CS4337 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-05-17 01:48:42 +0000 UTC
-  First, he didn't even grade the homework that is included in final exam until end of first day of final (given three days to choose). Second, homework answer is different on final. Third, didn't even respond to students' question about second one. Now, he has one last day to submit final grade, but nobody knows their grades yet. Avoid as you can.
-- class=CS4337 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-04-10 07:52:58 +0000 UTC
-  Professor Davis is a caring guy. Very knowledgeable. His homework is not bad, nor are his projects. Exams are a little tough, but so long as you pay attention in class and actually study, you should do just fine. Try to ask him questions in class about the homework because he takes a couple of days to respond to questions through teams and emails.
-- class=CS4337 | diff=3 | clarity=3 | help=3 | wta=1 | date=2023-01-18 18:02:21 +0000 UTC
-  Dr. Davis gives 2 projects, about 5 homeworks, and 2 tests as well as an attendance grade. While he cares deeply about the subject and in class will help you understand any concept, he is not accessible outside of class, and gets distracted in class leading to a lack of extensive coverage of some topics. His tests are straight from the lectures.
 
 === Chitturi Bhadrachalam (legacyId 2516353) ===
-avgRating: 3.1 | avgDifficulty: 3.5 | numRatings: 71 | dept: Computer Science
-target_course_reviews: 21
+avgRating: 3.1 | avgDifficulty: 3.5 | numRatings: 71 (all-time) | dept: Computer Science
 - class=CS4349 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-12-11 21:13:29 +0000 UTC
   He's your average professor. He has a accent but is still understandable, and if you pay attention then it does make sense. Homeworks and exams are not that bad. Material was definitely learnable outside of class.
 
@@ -456,8 +504,7 @@ I know this sounds not enticing, but given the current pool of CS professors, he
   Professor Chitturi's lectures can be hard to follow sometimes, but are mostly clear. He also does a lot of example problems in class that are very helpful. There are 3 exams, manageable hw, and a curve at the end. Great professor and course!
 
 === Meghana Satpute (legacyId 2519346) ===
-avgRating: 3.5 | avgDifficulty: 2.6 | numRatings: 110 | dept: Computer Science
-target_course_reviews: 20
+avgRating: 3.5 | avgDifficulty: 2.6 | numRatings: 110 (all-time) | dept: Computer Science
 - class=CS3345 | diff=2 | clarity=4 | help=4 | wta=1 | date=2026-03-31 01:17:41 +0000 UTC
   Do well on the homework assignments, projects, and quizzes and you don't have to worry too much about exams to get a B or higher. I will say it took a long time for midterm grades to appear, but I didn't worry too much about it since HW, projects, and "in-class" activities (you can do them at home) carried me. Has an exam review ppt too
 - class=CS3345 | diff=2 | clarity=4 | help=4 | wta=1 | date=2025-12-21 17:18:33 +0000 UTC
@@ -501,8 +548,7 @@ However, the TA, Will Doan, has shown his condescension. He will report students
   Easy A, had a few annoying homeworks that took eons to complete but besides that the projects and exams were really easy.
 
 === Yi Zhao (legacyId 2731721) ===
-avgRating: 2.8 | avgDifficulty: 3.5 | numRatings: 71 | dept: Computer Science
-target_course_reviews: 19
+avgRating: 2.8 | avgDifficulty: 3.5 | numRatings: 71 (all-time) | dept: Computer Science
 - class=CS4337 | diff=3 | clarity=3 | help=3 | wta=1 | date=2026-01-19 23:58:34 +0000 UTC
   I enjoyed his class, structured with 2 exams and 6 homeweworks, and attendance quizzes. I found his lectures to be very monotone and not that helpful.
 - class=CS4337 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-20 15:29:09 +0000 UTC
@@ -544,8 +590,7 @@ more interesting past the midterm (this isn't really a fault of his, just a head
   Assignment are often never covered in class, and exam questions are unlike the assignments. Not only are attendance quizzes graded, he will also automatically fail you if you miss 4 of them. He seems knowledgeable and enjoys teaching, but he is not worth the hassle throughout the semester.
 
 === Sridhar Alagar (legacyId 2299173) ===
-avgRating: 3.5 | avgDifficulty: 3.6 | numRatings: 109 | dept: Computer Science
-target_course_reviews: 18
+avgRating: 3.5 | avgDifficulty: 3.6 | numRatings: 109 (all-time) | dept: Computer Science
 - class=CS3345 | diff=5 | clarity=1 | help=1 | wta=None | date=2026-05-26 03:14:06 +0000 UTC
   Incredibly harsh grading for such time-consuming projects. Have to write a "2-3 page document" about your code, but for full credit you're probably going to have to write 8-10 pages. Only got the hang of what was being asked at the end of the semester due to the vague/misleading instructions (which were often only fixed last second). Tests are ok.
 - class=CS4348 | diff=3 | clarity=4 | help=4 | wta=1 | date=2026-04-30 03:48:37 +0000 UTC
@@ -583,9 +628,84 @@ target_course_reviews: 18
 - class=CS3345 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-09-07 20:43:26 +0000 UTC
   Very short explanations for very complex topics, no slides posted until after he goes over them, goes through slides extremely fast with no time to take notes. Do yourself a favor and just don't take this professor if you want to understand anything.
 
+=== Priya Narayanasami (legacyId 2337456) ===
+avgRating: 2.6 | avgDifficulty: 3.3 | numRatings: 58 (all-time) | dept: Computer Science
+- class=CS3354 | diff=2 | clarity=4 | help=4 | wta=1 | date=2026-02-05 00:30:36 +0000 UTC
+  Pretty chill professor teammates will make or break your group project and homeworks are a bit tedious. Overall though, not too bad of a class.
+- class=CS3354 | diff=1 | clarity=5 | help=5 | wta=1 | date=2025-12-09 15:41:46 +0000 UTC
+  The class has a few homework's that are EXACTLY what she covers in class and there's a group project that has a few submissions but none of it was difficult. In class she covers exactly what you need to know to succeed so if you attend and listen, its an easy A+.
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=1 | date=2025-08-14 22:09:00 +0000 UTC
+  She's very nice, but be careful. Most of your grade comes from a group project that you spend half the semester making diagrams on, and the last 4 weeks actually coding. The HWs were assigned before the topics were covered in class and got in the way of working on the project. The exam was pretty easy, but her test prep wasn't helpful
+- class=CS3354 | diff=2 | clarity=2 | help=2 | wta=None | date=2025-05-20 22:30:36 +0000 UTC
+  She is nice but her exam review was not helpful for kinda challenging exam and she has so much homework on top of the time consuming group project. Luckily there was lenient grading for most homework assignments and group project.
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=None | date=2024-12-23 18:36:12 +0000 UTC
+  Attendance mandatory and she asks a lot of questions. Has a lot of hw, specifically the group project assignments which are really large but due every two-three weeks. Exams literally make or break the grade for the entire semester despite the large number of hws, literally went down from an A+ to an A-, and others went down more just cuz of exam.
+- class=CS3354 | diff=3 | clarity=4 | help=4 | wta=1 | date=2024-12-22 05:40:31 +0000 UTC
+  Lots of work (quizzes + hw + group project related assignments) but not too bad at all. They all are graded pretty generously. However, the final exam could make or break your grade...honestly having a final exam for this class is kinda pointless and I barely got an A in this class because of the final but double sided cheat sheet is allowed
+- class=CS3354 | diff=2 | clarity=2 | help=2 | wta=None | date=2024-12-09 23:29:13 +0000 UTC
+  Tsunami of assignments including homework, activities, quizzes, and group project phases (graded generously). Attendance + participation is part of your grade and lectures are difficult to pay attention. It should be a relatively easy class to do well in assuming you don't flunk the final.
+- class=CS3354 | diff=4 | clarity=3 | help=3 | wta=1 | date=2024-04-19 18:01:53 +0000 UTC
+  Her lectures are boring, but maybe that's because the course itself is so dry. Gives homework every single week and a group project to work on, so expect to spend ALOT of time for the class. She hates it if no one participates in class, so try to speak up sometimes if no one else is speaking. She cares about her students learning the class material
+- class=CS3354 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-12-07 03:11:59 +0000 UTC
+  Unclear instructions on most assignments, demands participation constantly, and just overall focuses on all the unimportant things in the class rather than conveying material. Feels like we are in a High school class sometimes, and of course the group project ends up being like one or two people doing the whole thing.
+- class=CS3354 | diff=3 | clarity=2 | help=2 | wta=None | date=2023-11-09 20:02:03 +0000 UTC
+  I can't express how boring this class is! She brings no spice to the content, DEMANDS class participation, and don't get me started on the group project. She is the only teacher for this course that requires you to build a fully functional website that you only start programming a month left in the semester. Please do not take her at any cost!
+- class=CS3354 | diff=4 | clarity=1 | help=1 | wta=None | date=2023-11-09 18:32:32 +0000 UTC
+  The content of the course itself isn't exciting, but she takes it to a whole new level of boring and draining with monotonous power points on top of mind numbing homework every week. Lots of work, little learning. A project is assigned at the beginning of the semester, and all the work she assigns gets in the way working on the project. Avoid.
+- class=CS3354 | diff=2 | clarity=3 | help=3 | wta=1 | date=2023-09-04 01:42:15 +0000 UTC
+  It's SWE so, of course, attendance is mandatory and lectures are boring. Each project phase is an easy 100 and there is only one project. Final product doesn't even have to be functional. Assignments are a bit tedious and confusing, communication not great. Still easy.
+- class=CS3354 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-08-30 20:26:24 +0000 UTC
+  tedious class, mandatory attendance and group work, classes are more like torture than tutor
+- class=CS3354 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-08-28 22:54:35 +0000 UTC
+  I've never met a professor who is so strict. She assigns seats and won't let you move, micromanages device usage, and is condescending. She runs her classroom like we're high school children and is very authoritarian in the way she teaches. She said it's because she got complaints about being disorganized, but she went from one extreme to the other
+- class=CS3354 | diff=4 | clarity=1 | help=1 | wta=None | date=2023-05-07 22:54:39 +0000 UTC
+  This course was a mess. Grades were sporadic and unjustified the majority of the time. The lectures were pointless and she assigned way too much work because we were taking a "junior level class." The class required a full stack app over the course of the semester with a bunch of random useless documents. Do not take!
+- class=CS3354 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-04-10 18:42:15 +0000 UTC
+  instructions for assignments often unclear. she sometimes takes 20 mins to actually start with class instruction.
+- class=CS3354 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-03-29 17:43:10 +0000 UTC
+  Never before has someone spoken so much while saying so little
+
+=== Weili Wu (legacyId 1530329) ===
+avgRating: 3 | avgDifficulty: 2.7 | numRatings: 40 (all-time) | dept: Computer Science
+- class=CS6360 | diff=5 | clarity=1 | help=1 | wta=None | date=2026-01-15 03:47:03 +0000 UTC
+  Lectures are impossible to understand.  You have to spend much time reading the book to succeed in course. There is a curve at end, but it shows her lack of teaching ability. Very challenging to communicate with. A very disappointing experience.
+- class=CS6360 | diff=5 | clarity=2 | help=2 | wta=None | date=2025-12-25 04:23:59 +0000 UTC
+  HWs and project are long but leniently graded. However, the exams are lengthy and graded harshly. She seems to curve the final grade by at least 5 points. Read the textbook to do well on exams, as the lectures alone are not sufficient.
+- class=CS6360 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-12-17 05:47:10 +0000 UTC
+  Lectures are difficult to understand and slides are not made well. One group project throughout the semester, choose a good group to split the work because 2 phases are done on the last week. Homework are pretty long series of textbook questions. Study the textbook sections throughly to prepare for free response exams (final is cumulative).
+- class=CS6360 | diff=5 | clarity=2 | help=2 | wta=None | date=2025-08-28 16:05:54 +0000 UTC
+  Professor Wu is a very nice person, but her lectures were challenging to follow at times. Homework was very lengthy but not too difficult. Exams were very long. Grading was also very harsh, with points deducted for less than optimal answers, even if correct. She did curve at the end, and the professor was helpful during office hours.
+- class=CS4347 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-06-03 14:14:56 +0000 UTC
+  Simply read off powerpoints for her lectures and would often have her TA teach in her place. Homeworks were long, often multiple practice sections from the textbook for one assignment. Would receive little to no feedback on our group project or exams. Applies a massive curve at the end of the semester (I scored below 40 on both midterm and final)
+- class=CS6360 | diff=3 | clarity=3 | help=3 | wta=1 | date=2025-05-20 19:57:36 +0000 UTC
+  The Professor was very encouraging and gave many helpful examples in class. While graded on the lenient side, the 3 hws were very tedious. The exams were on the difficult side, but there is a pretty generous curve for the final grade. Overall, the class was pretty good.
+- class=CS6360 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-04-30 20:21:18 +0000 UTC
+  Professor Lily was very nice. There were 3 hws that were on the tedious side, but not too bad. There were 2 exams, and while the grades were low, there is a pretty good curve at the end. The project was not too bad as well. Good class!
+- class=CS6360 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-04-09 23:09:41 +0000 UTC
+  Professor Lily was very nice and upbeat. There are 3 hws and 1 project (project was either group or individual, your choice - submitted in 4 phases). The hws were pretty lengthy, but the questions don't actually take too long to do. While the exams were tougher than average, there is a pretty good curve at the end. Would recommend.
+- class=CS4347 | diff=3 | clarity=2 | help=2 | wta=1 | date=2025-04-08 18:28:47 +0000 UTC
+  She nice person, just wish she would speak English better. Ok teacher.
+- class=CS6360 | diff=2 | clarity=2 | help=2 | wta=None | date=2025-04-05 01:10:43 +0000 UTC
+  Professors will curve. Unfortunately, the TA I met was very bad. He seemed to have social difficulties. And he was very bad at grading. If you got your answer wrong in the exam, you would be given 0 points directly without any process points. If you find out that the TA's name is Dongyu Mao, please drop the course directly, otherwise you suffer.
+- class=CS6360 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-02-27 01:32:47 +0000 UTC
+  Professor Lily's lectures consisted mainly of examples of the concepts from the slides. They really help with the project and understanding the material. The hw's are pretty lengthy, but not too difficult. Would recommend.
+- class=CS6360 | diff=3 | clarity=4 | help=4 | wta=1 | date=2024-11-12 10:13:21 +0000 UTC
+  She's a great professor for database systems, though lectures can be a bit confusing. Thankfully, they're recorded for review. Homework is manageable and helps prepare for exams. The group project is challenging but graded leniently. You'll need to do a lot of self-study to fully understand the material
+- class=CS4347 | diff=3 | clarity=3 | help=3 | wta=None | date=2024-05-03 06:01:17 +0000 UTC
+  Professor is nice and understanding, extends due dates of HW and projects if students ask. Didn't teach a lot of SQL and we were kind of expected to learn it ourselves. Exams are worth 70% and are difficult. The content of the class is focused more on database theory from the 1970s rather than real world practical application.
+- class=CS4347 | diff=2 | clarity=4 | help=4 | wta=1 | date=2023-05-21 06:26:50 +0000 UTC
+  Very good professor for database systems. Lectures are a bit confusing, but she records them so you can go back and rewatch what you are confused about. There is a good amount of homework, but it does well in preparing you for what is on the Exams. There is also a group project that is a bit difficult but graded very easily.
+- class=CS6360 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-04-16 22:13:25 +0000 UTC
+  Its extremely hard to comprehend what she says in class. She takes a rather conceptual approach which is pretty much useless if you want to solve any real life problems with skills learnt in this class. Avoid at all cost.
+- class=CS6360 | diff=4 | clarity=1 | help=1 | wta=None | date=2023-03-21 08:23:31 +0000 UTC
+  Dr. Lily teaches the QE section of CS 6360 so her class is a lot more demanding than expected. The material is easy, but her teaching style is scattered and extremely disorganized. The exams are needlessly lengthy and often don't overlap with the ridiculously huge homeworks.
+
+Not enjoyable and I wouldn't recommend this class to anyone.
+- class=CS6360 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-03-18 19:31:03 +0000 UTC
+  Officially worst professor at UTD.
+
 === Neeraj Mittal (legacyId 182843) ===
-avgRating: 3.2 | avgDifficulty: 4.1 | numRatings: 49 | dept: Computer Science
-target_course_reviews: 14
+avgRating: 3.2 | avgDifficulty: 4.1 | numRatings: 49 (all-time) | dept: Computer Science
 - class=CS4348 | diff=4 | clarity=4 | help=4 | wta=1 | date=2026-05-23 23:11:22 +0000 UTC
   Attend class (participation quizzes). 3 projects, hard but doable. 4 easy graded quizzes, 2 get dropped. 3 exams that are extremely difficult. Takes off points easily on exams. Some topics covered in class wont be on slides but will be tested. Has extra credit that may improve your grade (not guaranteed).
 - class=CS4348 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-05-22 20:30:24 +0000 UTC
@@ -615,37 +735,109 @@ target_course_reviews: 14
 - class=CS4348 | diff=4 | clarity=4 | help=4 | wta=1 | date=2023-08-25 17:34:31 +0000 UTC
   Professor Mittal is one of a kind. His lectures are fun. His projects are okay but you need to spend a lot of time thinking about the solution. AI or internet's not gonna be any help. Tests are hard and sometimes frustrating. But if you're good at math and can get anywhere around 80% in tests and 90% or more in projects you're set.
 
-=== Eric Becker (legacyId 2324103) ===
-avgRating: 4.1 | avgDifficulty: 2.9 | numRatings: 63 | dept: Computer Science
-target_course_reviews: 12
-- class=CS4347 | diff=1 | clarity=5 | help=5 | wta=1 | date=2024-12-14 06:06:37 +0000 UTC
-  Super nice guy, class is a free A if you lock in for like an hour a week. Make sure you have a good group and stay on top of project deadlines.
-- class=CS4347 | diff=1 | clarity=4 | help=4 | wta=1 | date=2024-12-07 03:01:38 +0000 UTC
-  Pros: fun group project, tells you exam contents & w/ cheat sheet, final skip policy, open internet group quizzes, cohort time in class. Cons: if you want to learn DB theory deeply, his lectures can be incomprehensible, so must read. Grading for project has - pts for minor mistakes. Depending on TA attention to detail, grading can be easy or hard.
-- class=CS4347 | diff=1 | clarity=5 | help=5 | wta=1 | date=2024-05-07 23:32:24 +0000 UTC
-  He's a really nice prof. that knows what he's talking about. Easy class, open book group quizzes, group project (really easy), and a midterm. If you have under 3 absences and a 90 in the class, you get to skip the exam (only 6/75 people had to take the exam). Best class to finish off utd with personally
-- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-12-08 01:27:05 +0000 UTC
-  Professor Becker is a great professor. There was 1 midterm in class (with cheat sheet), and 1 easy group project. There were 6 open-everything group quizzes, and if you have a 90+ and 3- absences you can skip the final exam and have that grade. Highly recommend!
-- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-11-27 23:08:41 +0000 UTC
-  Dr. Becker is the best professor I've had. His course is planned out very well and he is very considerate. The midterm (in class, cheat sheet allowed) was not bad, and if you end the semester with a 90+ and 3- absences you can skip the final and have that grade. There is an easy group project and 6 open note group quizzes. Highly recommend!
-- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-11-16 20:56:23 +0000 UTC
-  Professor Becker is super nice and very hilarious. His course was planned out very well and I learned a lot. There were 6 group quizzes, 1 midterm during class that wasn't too bad (cheat sheet allowed, you can skip the final if you have a 90+ and have good attendance). The group project was very easy and graded leniently as well. Highly recommend!
-- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-11-11 23:59:02 +0000 UTC
-  Professor Becker is very nice and an amazing professor. There was 1 midterm during and in class with 1 sheet sheet allowed front and back (you can skip the final if you meet attendance standards and have a 90+), 6 open note and internet group quizzes, and 1 group project. All of these were pretty easy and graded very reasonably. Great professor!
-- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-11-03 18:52:06 +0000 UTC
-  Professor Becker is very nice and hilarious. His group quizzes and the group project (both pretty short and easy) helped understand topics for the midterm very well. There are attendance quizzes every class that factor into your grade and whether or not you have to take the final. Great professor!
-- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-10-05 02:15:15 +0000 UTC
-  Professor Becker explains concepts very clearly and gives good examples. There is 1 exam that is fair, and group quizzes that were pretty easy. There is an easy group project as well. If you miss less than 3 unexcused absences and have a grade estimate of at least A-, you can skip the final. Great professor and course!
-- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-09-29 04:00:05 +0000 UTC
-  Professor Becker is very nice and gives good lectures. He does helpful examples as well. There is 1 group project that is pretty easy and no hw. There are also group quizzes that are not bad as well. There is 1 midterm, and depending on your grade and attendance score, you probably will not have to take the final. Great professor and class!
-- class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-05-01 18:14:52 +0000 UTC
-  Took for dig. logic and database, DL was rough, I felt there wasn't enough help to get a high grade on exams. However DB was easier and definitely had enough support to provide for a high grade on exams. Definitely recommend for DB, quizzes will give you a very strong insight to how the exams will play out. Projects are easy with the right group.
-- class=CS4347 | diff=3 | clarity=3 | help=3 | wta=1 | date=2023-03-30 02:46:27 +0000 UTC
-  group project has 4 parts (40% of grade). midterm is 25% of grade. 6 quizzes are 10% of grade. final exam is 25% of grade. final can be skipped if you have 3 or fewer unexcused absences and an A- or above by week before final exam. Overall decent prof but can be better at communicating with students and providing more example for quizzes and exams.
+=== Mehra Borazjany (legacyId 1918370) ===
+avgRating: 2.8 | avgDifficulty: 3.3 | numRatings: 115 (all-time) | dept: Computer Science
+- class=CS3354 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-17 11:33:30 +0000 UTC
+  If u put effort you'll get an A. People dont care about this class so half of the class had to retake midterm. Midterm - hard. Finals - super ez. pick good teammates cuz they might putoff all work on u. everyone underestimated midterms and failed. not an ez A. grading not harsh.
+- class=CS3354 | diff=4 | clarity=1 | help=1 | wta=None | date=2025-10-22 18:24:38 +0000 UTC
+  This professors grading is probably going to fail me. 
+
+"Threshold Requirement to Pass the Course - To pass the course, you must earn at
+least 70% on exams and 70% on projects, assignments, and participation. Meeting the
+overall course grade alone is not enough &#8212; both components must meet the threshold."
+- class=CS3354 | diff=4 | clarity=2 | help=2 | wta=None | date=2025-01-11 19:59:58 +0000 UTC
+  Lectures and instructions were unclear, and feedback was vague - made it hard to improve. Group project was a big part of the grade, so finding a good team was key. unstuck AI helped with exam prep.
+- class=CS3354 | diff=2 | clarity=2 | help=2 | wta=None | date=2024-12-10 02:03:59 +0000 UTC
+  Boring lectures. She rambles on FOREVER about topics that do not matter. She did not give us ANY time whatsoever to work on our team project in class; The entire course is basically about the project and it's worth 45% of our grade so it's fair to assume that she should give her students time to work. Uninteresting, but it's an easy class.
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=1 | date=2024-05-08 21:33:17 +0000 UTC
+  It felt like there was a disconnect between the lectures and what was actually going on in class, and I'm not exactly sure what I learned. Majority of your grade is a group project, with the final exam only being 15%.
+- class=CS3354 | diff=5 | clarity=1 | help=1 | wta=None | date=2024-05-02 21:06:36 +0000 UTC
+  The exam was impossible.
+- class=CS3354 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-05-06 02:20:36 +0000 UTC
+  Half teaches you things, with terrible explanations and uploads slides that are incapable of teaching you. Takes attendance randomly. Gives rubric for assignments/project and says feedback is given, however feedback is terrible, rubric doesn't match her expectations, honestly don't even know what they are. Don't take her if you value your sanity.
+- class=CS3354 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-05-04 16:54:50 +0000 UTC
+  We never knew what she was expecting even with formatting and rubric, also grades harshly. There is a reason 40% of the class stopped showing up after the first 2 assignment grades were in. If you do what is asked you get points taken off, you only get full points if "you go above and beyond." 45% of grade is from group project so find a good group
+- class=CS3354 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-05-03 16:29:31 +0000 UTC
+  Professor Borazjany's lectures and instructions were very vague/confusing and always changing. The feedback was also very unclear so you don't know how to improve. The hw was graded very harshly as well. 1 final exam and 1 semester long group project. Do not recommend.
+- class=CS3354 | diff=3 | clarity=2 | help=2 | wta=None | date=2023-05-01 18:11:46 +0000 UTC
+  Professor Borazjany's grading criteria and instructions were very vague and confusing and the hw's were graded very harshly. There was a semester long group project and one final exam. However, her lectures did very little to prepare you for the exam.
+- class=CS3354 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-04-30 21:04:19 +0000 UTC
+  Professor has poor communication in terms of grading assignments. Assignments that were graded were given with poor feedback such as one liners, one words which gives no clear reasoning as to why it is wrong. After attempting to be clarified during office hours, the feedback was not the problem at all. Bad Group = Bad grade.
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=None | date=2023-04-26 00:58:15 +0000 UTC
+  Professor Borazjany is very nice. However, the grading criteria for the hw and group project is very vague and sometimes confusing (the hw was graded rather harshly). There is 1 exam at the end of the semester, but most of your grade is from the group project (45%) with everything else divided pretty much evenly. Overall, pretty decent professor.
+- class=CS3354 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-02-10 17:49:20 +0000 UTC
+  Professor Borazjany is very nice and cares about her students. There are weekly course modules with assignments and one group project. There is also one final exam. Great professor and course!
+
+=== Sriraam Natarajan (legacyId 2331194) ===
+avgRating: 3.6 | avgDifficulty: 3.6 | numRatings: 26 (all-time) | dept: Computer Science
+- class=CS6375 | diff=5 | clarity=1 | help=1 | wta=None | date=2026-05-28 03:21:43 +0000 UTC
+  Took this ML course in 2023. The class experience was frustrating due to exam confusion and communication issues around the midterm, which later had to be retaken. I personally felt the course focused more on presentation than effective teaching, and overall it was not a positive learning experience for me.
+- class=CS6364 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-05-12 07:57:04 +0000 UTC
+  He is passionate about teaching but dont really teach well. He just goes over things as if its an revision class and dont cover stuff in detail. Wastes time in undessary personal boasting and stories, it owuld be useful to rather invest that time in real teaching.
+- class=CS6364 | diff=5 | clarity=2 | help=2 | wta=None | date=2025-04-05 04:15:42 +0000 UTC
+  He is not a good professor and does not entertain questions.
+- class=CS6364 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-03-25 03:50:32 +0000 UTC
+  Extremely rude. Bold and intriguing students are not welcome. Heavy home work, more than class work and teaching.
+- class=CS6364 | diff=1 | clarity=1 | help=1 | wta=1 | date=2025-01-19 23:53:24 +0000 UTC
+  Too easy course. Got to learn more form the book than the prof.
+- class=CS6364 | diff=3 | clarity=5 | help=5 | wta=1 | date=2024-12-11 02:14:43 +0000 UTC
+  For AI he's one of the best professors I've seen at UTD. Great lecturer, great at getting students engaged, and barely any homework. The only real issues I've got is that exam specifics got a little disorganized near the end, and the heavy percentage of the 2 exams mean they're make-or-break, but those problems are par for the course in CS here.
+- class=CS6375 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-06-05 21:55:07 +0000 UTC
+  It's obvious that he's been getting review-brigaded by disgruntled students. Check his evaluations on coursebook, they paint an entirely different picture from these "reviews."
+- class=CS6375 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-06-01 21:04:10 +0000 UTC
+  Highly recommend taking this class! It is challenging but rewarding. Professor is generous if you participate in class and communicate with him. Two difficult exams, five simple programming assignments, fun and easy semester project, but he curves fairly at the end.
+- class=CS6375 | diff=3 | clarity=4 | help=4 | wta=1 | date=2023-05-21 19:06:13 +0000 UTC
+  His lectures are interesting and you won't get bored in the class. Programming assignments are fun and challenging as well. Stresses on fundamentals, so you will definitely gain knowledge whether you like it or not!
+- class=CS6375 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-05-19 04:01:46 +0000 UTC
+  Take Professor Natarajan if his class strength  is around 60. No clear grading criteria, God knows about the curve!!! 
+
+Lots of boasting. 
+
+Programming assignments are decent. Tough grader.
+- class=CS6375 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-05-18 19:20:55 +0000 UTC
+  I don't recommend taking this course if you want good grades. Even you perform well, you'll end up getting bad grades.
+- class=CS6375 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-05-17 18:31:29 +0000 UTC
+  Even if you score well in exams, you will end up getting poor grades. Additionally, his teaching quality has decreased a lot. He's always in a hurry to finish the syllabus. More importantly, he isn't curving at all.
+- class=CS6375 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-01-30 01:07:13 +0000 UTC
+  Fun lectures. Not just theory but also practical knowledge through programming assignments and final project.
+Easy grader
+
+=== Srimathi Srinivasan (legacyId 2424646) ===
+avgRating: 2.2 | avgDifficulty: 3.6 | numRatings: 144 (all-time) | dept: Computer Science
+- class=CS3354 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-06-08 17:33:52 +0000 UTC
+  Her expertise is very questionable. In class work sessions are useless. She digresses on non material topics, these topics inappropiate for in class.This unprofessional behavior is typical for her. Also berates students frequently. Attendance is required, has severe consequences if you miss a  class.  A very toxic professor. Don't recommend.
+- class=CS3354 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-06-08 02:22:48 +0000 UTC
+  Her 3354 class will be solid for your GPA, not to mention the semester-long group project will be very helpful in terms of gaining industry knowledge. That being said though, she's generally very unprofessional and disorganized, i.e. goes on 10-20 minute tangents frequently and holds students overtime because she didn't take attendance beforehand.
+- class=CS3354 | diff=1 | clarity=5 | help=5 | wta=1 | date=2025-05-12 03:31:14 +0000 UTC
+  Very kind and generous professor. As long as you come to class and do what is asked it is an easy A. VERY STRICT on the attendance policy. If you miss more than 5 classes it is 10 POINTS OFF YOUR GRADE. For example if you have an A in the class and have more than 5 absences, it is AN AUTOMATIC AUTOMATIC B.
+- class=CS3354 | diff=4 | clarity=1 | help=1 | wta=None | date=2025-05-07 22:14:36 +0000 UTC
+  Class itself is just ok. However, the professor is horrendous, she gives lectures about life for 30 mins every class before going onto a presentation put together by a toddler with chatgpt. She said "I dont see any creativity" in your project to groups RIGHT AFTER they presented. She says she cares but its more about her image than actually caring.
+- class=CS3354 | diff=2 | clarity=1 | help=1 | wta=None | date=2025-04-27 03:23:36 +0000 UTC
+  Cons:
+Lectures are as interesting as watching snails run a 100-meter dash.
+Assignment instructions/expectations always unclear.
+Massive ego.
+Asks students for feedback only to dismiss EVERY idea.
+
+Pro:
+Feeling of relief after leaving class.
+- class=CS3354 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-04-05 01:35:06 +0000 UTC
+  not good option
+- class=CS3354 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-04-05 01:29:52 +0000 UTC
+  3/3:She's dismissive, inflexible, and refuses to listen. When students gave her feedback, she wasted an entire class arguing against it instead of owning up and improving. Her PowerPoints are laughable, just random textbook screenshots with a couple of lazy sentences slapped on. The course is frustrating, disorganized and a total waste of time
+- class=CS3354 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-04-05 01:28:00 +0000 UTC
+  2/3: Instead of teaching, she forces students to present slides in an attempt to be "interactive." Any work comes with inconsistent instructions, leaving everyone confused. She claims to be "easygoing" and lenient with grading, that's a lie. If you email her for an extension or clarification, expect no real answer or just plain unhelpfulness.
+- class=CS3354 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-04-05 01:21:27 +0000 UTC
+  1/3: She is utterly incapable of giving clear instructions. She has zero respect for students' time she consistently wastes 20 minutes every class rambling about irrelevant "life lessons," then holds everyone back after class just to take attendance because she forgot to do it earlier. Her lectures are painfully dull and completely unhelpful.
+- class=CS3354 | diff=4 | clarity=1 | help=1 | wta=None | date=2025-02-18 22:47:09 +0000 UTC
+  this professor was so stingy with expectations, i have never seen any other professor be this unreasonable over the smallest things. don't take her if you want to retain your mind for the semester
+- class=CS3354 | diff=1 | clarity=4 | help=4 | wta=1 | date=2024-12-05 16:31:43 +0000 UTC
+  Ignore everyone who calls her "rude" or says she "berates" students. My group made mistakes on the project, but she pointed them out and helped us learn. It may be embarrassing, but it's better to make mistakes now and be corrected than to fail in the professional world. She is kind and genuinely wants us to succeed, people are just weak-hearted.
+- class=CS3354 | diff=3 | clarity=1 | help=1 | wta=None | date=2024-12-03 23:03:09 +0000 UTC
+  She says she "wants us to learn" and that "we need to know how to face the real world", but that is just her excuse to be rude. She embarrasses her students while they are presenting, and will dismiss students who are asking for clarification. Very unorganized as well. She also blames students for her mistakes in delivering instructions correctly.
 
 === Serdar Erbatur (legacyId 2585193) ===
-avgRating: 3.8 | avgDifficulty: 3 | numRatings: 91 | dept: Computer Science
-target_course_reviews: 12
+avgRating: 3.8 | avgDifficulty: 3 | numRatings: 91 (all-time) | dept: Computer Science
 - class=CS4349 | diff=4 | clarity=5 | help=5 | wta=1 | date=2026-01-18 17:07:34 +0000 UTC
   Definitely one of the better professors at utd. He goes over useful examples in his lectures, and if you took good notes, you would notice that some parts he left to review on our own is what appears on the exam. The exams were slightly tricky, but they were open note and partial credit was very lenient.
 - class=CS4349 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-12-17 16:07:56 +0000 UTC
@@ -677,9 +869,35 @@ Want to get a good grade and understand algos for interviews? Go to class.
 - class=CS4349 | diff=1 | clarity=5 | help=5 | wta=1 | date=2023-09-28 01:37:42 +0000 UTC
   Greatest professor I have ever taken at UTD! Love this guy!
 
+=== Eric Becker (legacyId 2324103) ===
+avgRating: 4.1 | avgDifficulty: 2.9 | numRatings: 63 (all-time) | dept: Computer Science
+- class=CS4347 | diff=1 | clarity=5 | help=5 | wta=1 | date=2024-12-14 06:06:37 +0000 UTC
+  Super nice guy, class is a free A if you lock in for like an hour a week. Make sure you have a good group and stay on top of project deadlines.
+- class=CS4347 | diff=1 | clarity=4 | help=4 | wta=1 | date=2024-12-07 03:01:38 +0000 UTC
+  Pros: fun group project, tells you exam contents & w/ cheat sheet, final skip policy, open internet group quizzes, cohort time in class. Cons: if you want to learn DB theory deeply, his lectures can be incomprehensible, so must read. Grading for project has - pts for minor mistakes. Depending on TA attention to detail, grading can be easy or hard.
+- class=CS4347 | diff=1 | clarity=5 | help=5 | wta=1 | date=2024-05-07 23:32:24 +0000 UTC
+  He's a really nice prof. that knows what he's talking about. Easy class, open book group quizzes, group project (really easy), and a midterm. If you have under 3 absences and a 90 in the class, you get to skip the exam (only 6/75 people had to take the exam). Best class to finish off utd with personally
+- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-12-08 01:27:05 +0000 UTC
+  Professor Becker is a great professor. There was 1 midterm in class (with cheat sheet), and 1 easy group project. There were 6 open-everything group quizzes, and if you have a 90+ and 3- absences you can skip the final exam and have that grade. Highly recommend!
+- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-11-27 23:08:41 +0000 UTC
+  Dr. Becker is the best professor I've had. His course is planned out very well and he is very considerate. The midterm (in class, cheat sheet allowed) was not bad, and if you end the semester with a 90+ and 3- absences you can skip the final and have that grade. There is an easy group project and 6 open note group quizzes. Highly recommend!
+- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-11-16 20:56:23 +0000 UTC
+  Professor Becker is super nice and very hilarious. His course was planned out very well and I learned a lot. There were 6 group quizzes, 1 midterm during class that wasn't too bad (cheat sheet allowed, you can skip the final if you have a 90+ and have good attendance). The group project was very easy and graded leniently as well. Highly recommend!
+- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-11-11 23:59:02 +0000 UTC
+  Professor Becker is very nice and an amazing professor. There was 1 midterm during and in class with 1 sheet sheet allowed front and back (you can skip the final if you meet attendance standards and have a 90+), 6 open note and internet group quizzes, and 1 group project. All of these were pretty easy and graded very reasonably. Great professor!
+- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-11-03 18:52:06 +0000 UTC
+  Professor Becker is very nice and hilarious. His group quizzes and the group project (both pretty short and easy) helped understand topics for the midterm very well. There are attendance quizzes every class that factor into your grade and whether or not you have to take the final. Great professor!
+- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-10-05 02:15:15 +0000 UTC
+  Professor Becker explains concepts very clearly and gives good examples. There is 1 exam that is fair, and group quizzes that were pretty easy. There is an easy group project as well. If you miss less than 3 unexcused absences and have a grade estimate of at least A-, you can skip the final. Great professor and course!
+- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2023-09-29 04:00:05 +0000 UTC
+  Professor Becker is very nice and gives good lectures. He does helpful examples as well. There is 1 group project that is pretty easy and no hw. There are also group quizzes that are not bad as well. There is 1 midterm, and depending on your grade and attendance score, you probably will not have to take the final. Great professor and class!
+- class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-05-01 18:14:52 +0000 UTC
+  Took for dig. logic and database, DL was rough, I felt there wasn't enough help to get a high grade on exams. However DB was easier and definitely had enough support to provide for a high grade on exams. Definitely recommend for DB, quizzes will give you a very strong insight to how the exams will play out. Projects are easy with the right group.
+- class=CS4347 | diff=3 | clarity=3 | help=3 | wta=1 | date=2023-03-30 02:46:27 +0000 UTC
+  group project has 4 parts (40% of grade). midterm is 25% of grade. 6 quizzes are 10% of grade. final exam is 25% of grade. final can be skipped if you have 3 or fewer unexcused absences and an A- or above by week before final exam. Overall decent prof but can be better at communicating with students and providing more example for quizzes and exams.
+
 === Yen I-Ling (legacyId 1267349) ===
-avgRating: 1.7 | avgDifficulty: 4.8 | numRatings: 48 | dept: Computer Science
-target_course_reviews: 11
+avgRating: 1.7 | avgDifficulty: 4.8 | numRatings: 48 (all-time) | dept: Computer Science
 - class=CS4348 | diff=5 | clarity=1 | help=1 | wta=None | date=2026-04-20 15:02:31 +0000 UTC
   Not a good professor, everyone's failing everything, and she's completely okay with that. Don't take her, studied for hours for her exams understanding the concepts perfectly only to bomb every exam.
 - class=CS4348 | diff=5 | clarity=1 | help=1 | wta=None | date=2026-04-13 17:20:44 +0000 UTC
@@ -703,9 +921,34 @@ target_course_reviews: 11
 - class=CS4348 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-01-18 01:24:07 +0000 UTC
   It is literally the first day of class and I am going to drop, since nothing in her class structure makes any sense logically to anyone but her, whatsoever - while she was explaining the class policies. So unfortunate cause she seems sweet, just not as a professor.
 
+=== Vibhav Gogate (legacyId 1837370) ===
+avgRating: 4.7 | avgDifficulty: 4.4 | numRatings: 36 (all-time) | dept: Computer Science
+- class=CS6364 | diff=4 | clarity=5 | help=5 | wta=1 | date=2025-12-30 08:35:01 +0000 UTC
+  Great professor with great lectures. HW/projects are ok (he lets you use GPT) but the real difficulty was from the exams. 1st exam he accidentally made too difficult so he offered a makeup exam which was really nice. 2nd exam was difficult but doable if you study hard. As others have said, NOT an easy A but one of the best professors for learning.
+- class=CS6364 | diff=5 | clarity=5 | help=5 | wta=1 | date=2025-12-23 06:38:00 +0000 UTC
+  This is a hard course, but he is genuinely invested in his students. I was failing at one point, and his help made a real difference. With the makeup exam, I was able to finish with a B+. He truly wants students to learn and understand the material. As the last person said, he is a real educator and I agree.
+- class=CS6364 | diff=5 | clarity=5 | help=5 | wta=1 | date=2025-12-20 08:00:28 +0000 UTC
+  This course rewards real work, not participation points. Take it if you want to earn your grade. Otherwise, do not. Professor is a real educator.
+- class=CS6375 | diff=4 | clarity=5 | help=5 | wta=1 | date=2024-12-31 22:41:47 +0000 UTC
+  Extremely knowledgeable of ML, has several Python projects which take really long to run and a little tricky to implement, he posts homework solutions that are similar to exam probs, goes in-depth into the material and you can learn a lot. Goes over exam content the day before, though his questions can still be pretty difficult curveballs. Curves
+- class=CS6375 | diff=4 | clarity=5 | help=5 | wta=1 | date=2024-12-25 21:13:44 +0000 UTC
+  He is one of the best professors you could find. His subject is tough but you can score marks in the exam if you study all his material and solve his past exams. 
+Professor is very nice and his lectures helps even an idiot like me to understand ML.
+- class=CS6375 | diff=4 | clarity=5 | help=5 | wta=1 | date=2024-11-20 05:44:44 +0000 UTC
+  He's a walking encyclopedia of machine learning. His knowledge rivals that of top minds. Ask him anything, and you'll be blown away by the depth and clarity of his answers. Not only quick but incredibly generous with his time and insights, he's a true problem-solver.
+- class=CS6375 | diff=5 | clarity=5 | help=5 | wta=1 | date=2024-10-20 01:45:10 +0000 UTC
+  I have super crush on his lectures and delivery style. Half the time I am just watching him talk about machine learning as if its his life work. This is a course of joy.
+- class=CS6375 | diff=4 | clarity=5 | help=5 | wta=1 | date=2024-07-16 22:39:47 +0000 UTC
+  BEST PROFESSOR IN UTD EVER
+- class=CS6375 | diff=5 | clarity=5 | help=5 | wta=1 | date=2023-12-29 02:33:07 +0000 UTC
+  He knows a lot, and his lectures are well-organized and interesting. When I asked him about his DARPA projects, he explained them to me in a cool way. Some people just have something special about them that makes them stand out, and he's definitely one of those people. I think he should be teaching at MIT or Stanford instead of UTDallas.
+- class=CS6375 | diff=5 | clarity=5 | help=5 | wta=1 | date=2023-12-21 02:04:43 +0000 UTC
+  If you are not up for a challenge, do not take Gogate's ML class! Projects are heavy and take a long time to complete (even running them can take days), but they ensure that you understand the ML concepts completely. Professor is EXTREMELY helpful outside of class in OH. He drops very helpful hints about exam topics during lectures, so go to class!
+- class=CS6375 | diff=5 | clarity=5 | help=5 | wta=1 | date=2023-05-22 04:53:24 +0000 UTC
+  Very memorable and info dense projects and lectures on top of pretty generous grading makes the class more about learning than getting a good grade.
+
 === Doug Degroot (legacyId 2464399) ===
-avgRating: 3.3 | avgDifficulty: 3 | numRatings: 64 | dept: Computer Science
-target_course_reviews: 10
+avgRating: 3.3 | avgDifficulty: 3 | numRatings: 64 (all-time) | dept: Computer Science
 - class=CS4348 | diff=3 | clarity=5 | help=5 | wta=1 | date=2026-06-02 00:12:08 +0000 UTC
   Professor DeGroot is a great professor! He really cares about career success for his students and is willing to spend time in office hours helping out. Fair exams and grading as well. Great class and professor!
 - class=CS4348 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-06-07 16:28:48 +0000 UTC
@@ -727,9 +970,37 @@ target_course_reviews: 10
 - class=CS4348 | diff=3 | clarity=4 | help=4 | wta=1 | date=2023-02-10 19:47:09 +0000 UTC
   Professor Degroot's lectures are very clear and understandable. There are 3 exams and manageable hw. Great professor and course!
 
+=== Ding-Zhu Du (legacyId 918305) ===
+avgRating: 2.2 | avgDifficulty: 3.2 | numRatings: 32 (all-time) | dept: Computer Science
+- class=CS6363 | diff=4 | clarity=2 | help=2 | wta=None | date=2025-05-26 04:41:00 +0000 UTC
+  Inscrutable accent with bare slides, long and frequent homeworks, exams very difficult, but very easy grader such that if you just attend classes and submit work on time, the lowest he will give you is a B- regardless of how poorly you do in the class.
+- class=CS4349 | diff=5 | clarity=3 | help=3 | wta=None | date=2025-05-22 05:36:15 +0000 UTC
+  Prof has his upsides and downsides. Namely, he is pretty knowledgeable about algorithms and optimization. However, he is very difficult to understand due to accent and quiet voice (no mic) - don't talk over. He generally has attendance (unknown grade) but flip flops on it through the semester. His exams are difficult and all free response no notes.
+- class=CS6363 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-05-18 19:18:15 +0000 UTC
+  Very thick accent and goes on lots of tangents which makes it hard to gain anything from the lectures (attendance is also mandatory). HWs and exams were pretty easy thanks to the lenient grade cutoffs. Take if you want the easy A.
+- class=CS4349 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-05-17 18:48:43 +0000 UTC
+  HW and exams are extremely hard, probably like a 20-30% average score for the class. Also quite difficult to understand him. Luckily the curve helped a lot of people pass, but I would take a different prof.
+- class=CS4349 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-05-17 05:56:12 +0000 UTC
+  This Prof is the GOAT. He cares about his students and has a lot of knowledge and experience.
+- class=CS4349 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-05-08 03:51:08 +0000 UTC
+  AVOID FOR THE LOVE OF GOD. This guy is probably the worst professor in the entire US. Doesn't speak English, doesn't allow a cheat sheet on exams, His exams are sooo hard. Expects you to write a pseudocode otherwise you won't full points. This guy is genuinely bad
+- class=CS4349 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-01-22 16:35:43 +0000 UTC
+  He is one of the most experienced professors and his class is properly structured. He has a lot of knowledge and is an incredibly nice guy. I would definitely recommend this professor.
+- class=CS6363 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-05-06 18:03:51 +0000 UTC
+  Speaks in unintelligible english, mandatory attendance where you won't learn a single thing from him or his slides. Provides absolutely 0 value as an instructor, you must self-study. Exams are pretty hard FRQ-onlys. TAs have recitations giving hints to hw problems. Sample midterm exam given, not for final. Generous grading scale at the very least.
+- class=CS4349 | diff=3 | clarity=2 | help=2 | wta=None | date=2023-05-16 05:13:01 +0000 UTC
+  Overall, don't take this class with him unless there's no options left.
+
+Lectures and slides are mostly incomprehensible, and you'll hardly understand anything from him. You'd be better off teaching yourself honestly.
+
+He is, at the very least, friendly. Grading is generous and he gives hints on homework & exams.
+- class=CS4349 | diff=3 | clarity=3 | help=3 | wta=None | date=2023-05-01 18:26:22 +0000 UTC
+  Pro: Grading is lenient, never really felt stressed about the course, provides hints for hws and exams are open note Cons: Hard to understand his English, very accent heavy--difficult to understand lectures. Honestly, a okay choice depending on who you have to choose for Advanced Algorithms.
+
 === Xinda Wang (legacyId 2929006) ===
-avgRating: 4.9 | avgDifficulty: 2.4 | numRatings: 10 | dept: Computer Science
-target_course_reviews: 9
+avgRating: 4.9 | avgDifficulty: 2.4 | numRatings: 10 (all-time) | dept: Computer Science
+- class=CS4347 | diff=3 | clarity=4 | help=4 | wta=1 | date=2026-05-07 19:46:01 +0000 UTC
+  She is very nice and knowledgeable, but struggled to communicate in lectures, so you will likely have to self-learn the material. Tests are very long with lots of free response and writing SQL by hand, but her reviews help a lot. The group project is a decent amount of work, but not too bad.
 - class=CS4347 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-05-17 12:44:37 +0000 UTC
   She is a very sweet person. Taking this my senior year, I did enjoy it. Apart from the group project, which takes a good amount of coordination, the course was very manageable. She also gave us magnet bookmarks as a gift after our final exam :)
 - class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2025-05-13 01:30:04 +0000 UTC
@@ -750,8 +1021,7 @@ target_course_reviews: 9
   For her first semester, I have no complaints with Prof. Wang. In terms of preparation, I feel confident in my SQL skills that can transfer into the real world. For exams, one of the only profs that has provided a thorough, and I mean a thorough exam review, which was super helpful. Overall a solid class with a solid prof.
 
 === Ziaullah Khan (legacyId 1636344) ===
-avgRating: 3 | avgDifficulty: 3.3 | numRatings: 120 | dept: Computer Science
-target_course_reviews: 8
+avgRating: 3 | avgDifficulty: 3.3 | numRatings: 120 (all-time) | dept: Computer Science
 - class=CS4347 | diff=4 | clarity=5 | help=5 | wta=1 | date=2026-05-06 06:23:13 +0000 UTC
   To start off he definitely is very passionate when he teaches which keeps you stimulated. He may be an unorganized with the lectures and I promise you if you attend class regularly you're going to do well in his course. He is definitely hilarious and fun to learn from.
 - class=CS3345 | diff=4 | clarity=5 | help=5 | wta=1 | date=2025-08-04 21:38:56 +0000 UTC
@@ -769,27 +1039,67 @@ target_course_reviews: 8
 - class=CS3345 | diff=3 | clarity=2 | help=2 | wta=None | date=2024-05-16 11:52:51 +0000 UTC
   he's entertaining. lectures were fun and he would joke around a lot. he's not that good as a teacher tho. he's unorganized and wings every lecture. many times, he would be unsure about topics he's trying to teach. the tests were filled with ambiguity, it's hard to do well on them no matter how much you study. take other profs if you can.
 
-=== Beiyu Lin (legacyId 3131840) ===
-avgRating: 4.4 | avgDifficulty: 2.2 | numRatings: 19 | dept: Computer Science
-target_course_reviews: 7
-- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-22 04:00:38 +0000 UTC
-  I felt that the course materials were extremely well connected. Each lecture built naturally on the previous one. She consistently compared different data structures by highlighting their differences, strengths, implementations, and trade-offs through real-world applications. I really learned a lot.
-- class=CS3345 | diff=1 | clarity=4 | help=4 | wta=1 | date=2025-12-21 18:58:22 +0000 UTC
-  She isn't the best at teaching the concepts and sometimes might not understand the concept fully herself. But, she is a very caring professor and it is very easy to get an A in her class.
-- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-19 15:03:25 +0000 UTC
-  I really enjoyed this class! There are two midterms and one final, total is 60% of the final grade, hws is 40%. Lectures are well organized and materials are connected. HWs are based on lecture materials and she would also introduce lots of real life practical applications of different abstract data types as we were learning.
-- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-17 12:55:24 +0000 UTC
-  She's wonderful and always available after classes. I always stopped by her office hours. During the final weeks, she even hosted extended office hours M-F everyday 9am-4/4:30pm for two weeks, and during weekend. Homework is connected with lectures as long as attending classes. We can do very well as long as attending classes, doing homework, etc.
-- class=CS3345 | diff=2 | clarity=3 | help=3 | wta=1 | date=2025-12-15 22:05:01 +0000 UTC
-  Alright so to start off, great person. It is clear she is passionate for teaching and cares for students. This was the most disorganized course Ive taken, hws seemed random and unreasonably difficult. Very hard to get a hold of her outside of class, takes weeks to get an email back. Test werent too bad but were 85% of ur grade. Grades come in late
-- class=CS3345 | diff=2 | clarity=5 | help=5 | wta=1 | date=2025-12-10 01:34:42 +0000 UTC
-  Professor is very caring, both for students, and for the subjects she teaches. Expectations for the class were outlined very clearly, and she went over everything you could need for exams. If you pay attention in class, or just put in the effort outside of it, you will do very well.
-- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-09 03:53:21 +0000 UTC
-  One of the sweetest professor ever!
+=== Dung Huynh (legacyId 194919) ===
+avgRating: 3.6 | avgDifficulty: 3.5 | numRatings: 31 (all-time) | dept: Computer Science
+- class=CS6363 | diff=3 | clarity=3 | help=3 | wta=1 | date=2026-06-05 14:56:14 +0000 UTC
+  Exams are 90% of the grade and are pure memorization based on the sample exams and in-class review. 75 or higher gets an A for the final grade. Most of the lecture notes are not on the exams.
+- class=CS6363 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-12-06 03:59:07 +0000 UTC
+  Exams make up 90% of the grade, and he grades extremely harshly. He will take off every point he possibly can. The remaining 10% is homework, but the workload is still very heavy. I would not recommend taking his class.
+- class=CS6363 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-05-22 20:13:22 +0000 UTC
+  Notes are great but you need to attend lectures or read the textbook to fully understand them. HWs are hard and require you to think. 2 exams, and they are honestly easier than HWs and are more memorization than anything. They are 90% of the grade but are HEAVILY curved, and he has extra credit for attendance, so it's hard not to get above a B+.
+- class=CS6363 | diff=4 | clarity=3 | help=3 | wta=1 | date=2025-05-20 20:02:49 +0000 UTC
+  The Professor provided great notes and did many helpful examples in class. While the exams were on the difficult side, there is a good curve for the final grade. The only gripe I had was that the 2 exams together were worth 90% of the entire course grade, which made it hard to improve. Otherwise, the class was pretty good.
+- class=CS6363 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-04-30 20:28:35 +0000 UTC
+  Professor Huynh was very nice. There were 5 hws and 2 exams. While the exam scores were on the low side, there is a pretty good curve at the end. Also, the exam reviews were very similar to the actual exams. The only thing was that the exams were worth 90% of the grade. Other than that, great course!
+- class=CS6363 | diff=4 | clarity=4 | help=4 | wta=1 | date=2025-04-09 23:15:49 +0000 UTC
+  Professor Huynh's class was tough, but he was very nice. There are 5-6 hws and slight extra credit based on attendance. The exams were very difficult, but there is a pretty generous curve at the end (exams together are worth 90% of your grade). While the posted lecture notes are good, attending class is definitely necessary. Would recommend.
+- class=CS6363 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-02-27 01:38:51 +0000 UTC
+  Professor Huynh's lectures consist of going over the class notes. The explanations and extra examples help a lot in understanding the concepts, and the hw's are harder versions of the examples from the notes. Would recommend.
+- class=CS4348 | diff=5 | clarity=3 | help=3 | wta=None | date=2023-05-03 23:23:07 +0000 UTC
+  Took for automata, was pretty difficult, luckily there were curves given--guess its been a difficult subject in the past. I'd say his lectures are good, but I just was so bored in his classes and its are to follow when you're not engaged.
+
+=== Barbara  Maweu (legacyId 3009036) ===
+avgRating: 3 | avgDifficulty: 2.4 | numRatings: 15 (all-time) | dept: Computer Science
+- class=CS3354 | diff=1 | clarity=4 | help=4 | wta=1 | date=2026-05-04 01:43:44 +0000 UTC
+  boring class, cheat sheet on exams, homework is free. project rubric is show up and breathe = pass. easy class, no excuse to do bad
+- class=CS3354 | diff=2 | clarity=4 | help=4 | wta=1 | date=2026-01-01 07:51:52 +0000 UTC
+  Never attended class. Class was easy, though there was a lot of content. You get a cheat sheet on both exams. There is a group project where your experience will vary A LOT depending on the quality of your teammates (that you can't choose). Overall, the project wasn't hard. Weekly quizzes & homework were super easy. Read the textbook & slides.
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=None | date=2025-12-21 18:55:09 +0000 UTC
+  Class was harder than expected. Can't really understand lectures. Group projects are pretty chill if you have good teammates. HW is really time consuming. Exams are tricky and can really mess up your grade.
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=None | date=2025-12-14 20:06:52 +0000 UTC
+  Her lectures are very monotone. Attendance is not mandatory but if you want to do really well in exams, you would need to study the lecture slides + textbook.  Group project + presentation is easy. Unfortunately when I took the course, she told some groups to be ready to present before the project due date, so i dont recommend procrastinating it.
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=None | date=2025-12-13 19:46:58 +0000 UTC
+  TAKE Tien nguyen for dis class (very easy A), I regret picking this prof, HW questions sometimes vague, lectures are useless and just reads off slides, group project easy, quizzes are ez and at home, exam questions tricky and require reading the textbook and slides are not really inline with the exam questions, overall OK professor but not the best
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=None | date=2025-12-13 02:42:12 +0000 UTC
+  She's alright, her TAs for my section graded kinda harshly though sometimes. So much homework, and exam questions could be difficult at times/gave random questions from content in the book.
+- class=CS3354 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-10-23 05:28:01 +0000 UTC
+  hw and quizzes every week, exams do not follow review provided.
+- class=CS3354 | diff=2 | clarity=4 | help=4 | wta=1 | date=2024-12-18 01:42:53 +0000 UTC
+  Very nice, cares about her students. Lectures are not the best, but attendance is not mandatory. Quizzes are based off of slides and textbook, can be tricky but not impossible. Group project was pretty easy with minimal work. Final exam based on quizzes and definitions for terms. Not difficult at all, and willing to answer any questions/concerns.
+
+=== Sergey Bereg (legacyId 462041) ===
+avgRating: 3.7 | avgDifficulty: 2.8 | numRatings: 155 (all-time) | dept: Computer Science
+- class=CS6363 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-05-28 18:49:24 +0000 UTC
+  Quietest professor ever. Lectures were a bit dry, but he does spice it up with examples not directly from CLRS. Also focuses a lot on NP-completeness. Homeworks weren't bad and the midterm was curved.
+- class=CS6363 | diff=3 | clarity=4 | help=4 | wta=1 | date=2024-12-04 08:06:10 +0000 UTC
+  Professor Bereg has a straightforward teaching style, but his lectures can be a bit dry. The coursework is challenging, so you'll need to stay on top of the material. Definitely use the free textbook and try unstuck AI for study prep - it really helped me grasp the concepts.
+- class=CS6363 | diff=3 | clarity=1 | help=1 | wta=None | date=2024-05-21 23:16:27 +0000 UTC
+  Incomprehensible and absolutely uninteresting lectures. He cares but still lectures are skippable. You can read the book CLRS and get an easy A.
+- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-05-14 10:08:30 +0000 UTC
+  Very disorganized professor. Changed the syllabus after first midterm. No consistency on enforcing the rule or syllabus. Worst professor I have encountered at UTD. Very lazy trying to do the least amount of work by making test questions as few as possible. Would never take again.
+- class=CS6363 | diff=3 | clarity=4 | help=4 | wta=1 | date=2024-05-14 04:35:54 +0000 UTC
+  Professor Bereg is a solid professor. His lectures are a bit dry, but if you pay attention he actually explains topics pretty well. Homeworks are about every 2 weeks and are moderately difficult. Exams are easy if you kept up with the class and are passable if you cram. Cheatsheets are allowed. Overall, organized and consistent class.
+- class=CS6363 | diff=2 | clarity=4 | help=4 | wta=1 | date=2023-12-21 21:08:47 +0000 UTC
+  Prof Bereg is caring, helpful, and tries his best to impart knowledge. His lectures are hard to follow though, so you will need to prep before classes to follow what he's teaching. Hard assignments, but if you can do those, you can do the exams without much trouble. Class is theory-oriented (No programming), hardly helps much for interview prep.
+- class=CS6363 | diff=4 | clarity=5 | help=5 | wta=1 | date=2023-05-19 04:41:20 +0000 UTC
+  Dr Bereg lectures will be easy to understand only if you read the syllabus upfront otherwise you will get lost during lectures. Because of his low voice.
+
+Due to his expertise in the subject, explains the concepts simplified manner.
+
+Exams are 40 percent each, careful!
 
 === Pushpa Kumar (legacyId 1711969) ===
-avgRating: 4.2 | avgDifficulty: 2.4 | numRatings: 84 | dept: Computer Science
-target_course_reviews: 7
+avgRating: 4.2 | avgDifficulty: 2.4 | numRatings: 84 (all-time) | dept: Computer Science
 - class=CS4347 | diff=3 | clarity=3 | help=3 | wta=1 | date=2026-05-27 04:15:36 +0000 UTC
   Better database professor than Erik Peterson and is a pretty lenient grader but in some lectures I wish she explained the diagrams better. Luckily she allowed a cheat sheet and group project was usually a free A.
 - class=CS4347 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-05-16 16:28:43 +0000 UTC
@@ -805,31 +1115,108 @@ target_course_reviews: 7
 - class=CS4347 | diff=3 | clarity=3 | help=3 | wta=None | date=2023-03-29 22:13:38 +0000 UTC
   I think people are misinterpreting nice for a good professor. She is a very nice person and sweet when you need question clarified, which I appreciate. However, when it comes to being a good professor, she is average. She just regurgitates slides and gives you assignments. Study sessions for exams is her telling you to read all of the slides.
 
-=== Ding-Zhu Du (legacyId 918305) ===
-avgRating: 2.2 | avgDifficulty: 3.2 | numRatings: 32 | dept: Computer Science
-target_course_reviews: 7
-- class=CS4349 | diff=5 | clarity=3 | help=3 | wta=None | date=2025-05-22 05:36:15 +0000 UTC
-  Prof has his upsides and downsides. Namely, he is pretty knowledgeable about algorithms and optimization. However, he is very difficult to understand due to accent and quiet voice (no mic) - don't talk over. He generally has attendance (unknown grade) but flip flops on it through the semester. His exams are difficult and all free response no notes.
-- class=CS4349 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-05-17 18:48:43 +0000 UTC
-  HW and exams are extremely hard, probably like a 20-30% average score for the class. Also quite difficult to understand him. Luckily the curve helped a lot of people pass, but I would take a different prof.
-- class=CS4349 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-05-17 05:56:12 +0000 UTC
-  This Prof is the GOAT. He cares about his students and has a lot of knowledge and experience.
-- class=CS4349 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-05-08 03:51:08 +0000 UTC
-  AVOID FOR THE LOVE OF GOD. This guy is probably the worst professor in the entire US. Doesn't speak English, doesn't allow a cheat sheet on exams, His exams are sooo hard. Expects you to write a pseudocode otherwise you won't full points. This guy is genuinely bad
-- class=CS4349 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-01-22 16:35:43 +0000 UTC
-  He is one of the most experienced professors and his class is properly structured. He has a lot of knowledge and is an incredibly nice guy. I would definitely recommend this professor.
-- class=CS4349 | diff=3 | clarity=2 | help=2 | wta=None | date=2023-05-16 05:13:01 +0000 UTC
-  Overall, don't take this class with him unless there's no options left.
+=== Tien Nguyen (legacyId 2397418) ===
+avgRating: 2.1 | avgDifficulty: 2.3 | numRatings: 20 (all-time) | dept: Computer Science
+- class=CS3354 | diff=1 | clarity=5 | help=5 | wta=1 | date=2025-12-19 21:23:01 +0000 UTC
+  Easy class only graded on 5-6 HWs but the prof really can't teach.
+- class=CS3354 | diff=1 | clarity=5 | help=5 | wta=1 | date=2025-12-12 21:52:28 +0000 UTC
+  Easiest A ever. No exams, just homeworks and super simple projects doable in less than an hour.
 
-Lectures and slides are mostly incomprehensible, and you'll hardly understand anything from him. You'd be better off teaching yourself honestly.
+He doesn't really care about the class, but that is good because I didn't really care about school either.
+- class=CS3354 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-12-09 21:37:24 +0000 UTC
+  This professor never answers my questions clearly and never shows interest in doing so either. He also assigns assignments at the last minute too. I would suggest you take another professor instead.
+- class=CS3354 | diff=1 | clarity=3 | help=3 | wta=None | date=2025-08-18 05:53:28 +0000 UTC
+  Clarifies HW in class and no exams. Lecture content boring but he tries to make it interactive/ask questions/motivate the concepts. His lectures weren't bad, but sometimes he no-shows and the TA just reads slides. Easy A, but standard SE topics like modeling aren't covered which might hurt later without self study. Don't recommend to learn well.
+- class=CS3354 | diff=2 | clarity=2 | help=2 | wta=None | date=2025-05-21 08:38:22 +0000 UTC
+  WORK IN A GROUP. have at least one group member in class near project deadlines in case he drops some info related to the project. assignments were mostly fine, VERY ambiguous but graded nicely. lecture was honestly not worth showing up for except for near deadline times.
+- class=CS3354 | diff=2 | clarity=2 | help=2 | wta=None | date=2025-05-17 01:59:35 +0000 UTC
+  Assignment descriptions were unclear and poorly defined. Attendance wasn't mandatory and we didn't have any exams, so the class was basically the same 6 people sleeping through the lecture each time. The programming projects were actually pretty good after you figured out what you were supposed to do, but the lectures were a pure waste of time.
+- class=CS3354 | diff=1 | clarity=1 | help=1 | wta=1 | date=2025-05-05 23:22:57 +0000 UTC
+  Easy course if you attend in-person bcuz he ADDS instructions so people who miss don't get full marks. Instructions are vague. He raised his voice at a student for asking a question after class. He doesn't answer emails fast and makes his TA's teach majority of the time. If you need a free 100, take him and go in-person to his classes.
 
-He is, at the very least, friendly. Grading is generous and he gives hints on homework & exams.
-- class=CS4349 | diff=3 | clarity=3 | help=3 | wta=None | date=2023-05-01 18:26:22 +0000 UTC
-  Pro: Grading is lenient, never really felt stressed about the course, provides hints for hws and exams are open note Cons: Hard to understand his English, very accent heavy--difficult to understand lectures. Honestly, a okay choice depending on who you have to choose for Advanced Algorithms.
+=== Beiyu Lin (legacyId 3131840) ===
+avgRating: 4.4 | avgDifficulty: 2.2 | numRatings: 19 (all-time) | dept: Computer Science
+- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-22 04:00:38 +0000 UTC
+  I felt that the course materials were extremely well connected. Each lecture built naturally on the previous one. She consistently compared different data structures by highlighting their differences, strengths, implementations, and trade-offs through real-world applications. I really learned a lot.
+- class=CS3345 | diff=1 | clarity=4 | help=4 | wta=1 | date=2025-12-21 18:58:22 +0000 UTC
+  She isn't the best at teaching the concepts and sometimes might not understand the concept fully herself. But, she is a very caring professor and it is very easy to get an A in her class.
+- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-19 15:03:25 +0000 UTC
+  I really enjoyed this class! There are two midterms and one final, total is 60% of the final grade, hws is 40%. Lectures are well organized and materials are connected. HWs are based on lecture materials and she would also introduce lots of real life practical applications of different abstract data types as we were learning.
+- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-17 12:55:24 +0000 UTC
+  She's wonderful and always available after classes. I always stopped by her office hours. During the final weeks, she even hosted extended office hours M-F everyday 9am-4/4:30pm for two weeks, and during weekend. Homework is connected with lectures as long as attending classes. We can do very well as long as attending classes, doing homework, etc.
+- class=CS3345 | diff=2 | clarity=3 | help=3 | wta=1 | date=2025-12-15 22:05:01 +0000 UTC
+  Alright so to start off, great person. It is clear she is passionate for teaching and cares for students. This was the most disorganized course Ive taken, hws seemed random and unreasonably difficult. Very hard to get a hold of her outside of class, takes weeks to get an email back. Test werent too bad but were 85% of ur grade. Grades come in late
+- class=CS3345 | diff=2 | clarity=5 | help=5 | wta=1 | date=2025-12-10 01:34:42 +0000 UTC
+  Professor is very caring, both for students, and for the subjects she teaches. Expectations for the class were outlined very clearly, and she went over everything you could need for exams. If you pay attention in class, or just put in the effort outside of it, you will do very well.
+- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-09 03:53:21 +0000 UTC
+  One of the sweetest professor ever!
+
+=== Emily Fox (legacyId 2406543) ===
+avgRating: 5 | avgDifficulty: 3.6 | numRatings: 15 (all-time) | dept: Computer Science
+- class=CS3345 | diff=3 | clarity=4 | help=4 | wta=1 | date=2026-06-09 02:28:33 +0000 UTC
+  Clear lectures, fair exams.
+- class=CS4349 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-01-24 13:24:41 +0000 UTC
+  Professor Fox is an incredible lecturer! She is also very organized and has everything (lecture recordings, class notes, etc.) neatly formatted on her course website! She is also very accessible outside of class and her office hours were super helpful! 11/10 would recommend!
+- class=CS4349 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-01-22 17:02:25 +0000 UTC
+  Dr. Fox is an amazing professor and one of my favorites in the CS program. She clearly cares a lot about helping her students succeed and learn.
+- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2024-12-26 17:07:15 +0000 UTC
+  Professor Emily clearly understands the material she's teaching, and her lectures are engaging and well-explained. Attendance is not mandatory, and her lectures and lecture notes (which are very nicely formatted) are posted online afterwards. If you have the opportunity to take one of her courses, do it! Really one of the best professors I've had
+- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2024-12-26 04:24:59 +0000 UTC
+  No mandatory attendance and automatic extensions on assignments, but you'd want to attend Dr. Fox's lectures and finish your homework on time anyways because she's just that good. Caring, open to discussion, gives reasonable assignments and exams; would recommend.
+- class=CS4349 | diff=3 | clarity=5 | help=5 | wta=1 | date=2024-12-11 02:33:20 +0000 UTC
+  Dr. Fox hits a nice balance of not too much work, but still teaching you what you need to know. She gives sample exams that are generally good preparation for her exams. Homework assignments start out easy the first half of the semester, but do get a bit harder in the 2nd half. One of my best professors, highly recommend.
+- class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-12-19 09:49:19 +0000 UTC
+  Lecture writeups, whiteboard scribbles, and recorded lectures are all posted on course website. This prof does everything to make your life as easy as possible while still learning the material. Homework challenging but prepares you well for exams. Exams are straightforward with some occasional curveballs but extra credit opportunities included.
+
+=== Rahman Tahrima (legacyId 3103949) ===
+avgRating: 4.6 | avgDifficulty: 3 | numRatings: 13 (all-time) | dept: Computer Science
+- class=CS6375 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-19 19:15:00 +0000 UTC
+  Professor Rahman was great! While the content was difficult, the lectures were very good. The hws were graded on completion, and the projects were graded leniently (AI allowed as long as you document interaction). While exam 1 was difficult, the exam review was very helpful for exam 2, and there was a good curve on final grades. Great class!
+- class=CS6375 | diff=2 | clarity=5 | help=5 | wta=1 | date=2025-12-17 05:37:05 +0000 UTC
+  Professor teaches the material well and with mathematical rigor. Recordings could be found on Teams, at least for this semester. Projects were intuitive (use Colab!) but exams did require studying slides and homework sets.
+- class=CS6375 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-10-28 00:13:24 +0000 UTC
+  This class is math heavy with difficult material. 2 exams, 4 programming projects, and hw every 2 weeks. While the workload was heavy, the hw is graded on completion and the programming projects are graded leniently and allow use of AI as long as you include a transcript of your AI chats. There is also a curve at the end. I'd say it's worth taking!
+- class=CS6375 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-10-23 01:25:13 +0000 UTC
+  This class consisted of 2 exams (with cheat sheet), hw about every 2 weeks graded for completion, and 4 programming projects graded leniently and allowing use of AI assistance with documentation. The exams were difficult, as this class is math heavy, so the material is difficult, but there is a decent curve at the end. Would recommend!
+- class=CS6375 | diff=4 | clarity=4 | help=4 | wta=1 | date=2025-10-17 01:44:42 +0000 UTC
+  Great and caring professor. More hw heavy for a CS class (hw and projects about every 2 weeks) and difficult exams (cheat sheet allowed - 2 exams). The material is difficult, but there is a curve at the end.
+- class=CS6375 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-10-12 00:05:40 +0000 UTC
+  This class consisted of 2 exams (w/ cheat sheet), 4 projects and hw about every 2 weeks. The hws were not graded, only counted for completion. The material is difficult and more math heavy, but there is a curve on the final grade. The workload was a little more than the usual CS class, but would recommend.
+- class=CS6375 | diff=4 | clarity=4 | help=4 | wta=1 | date=2025-10-02 20:26:33 +0000 UTC
+  Professor Rahman was very nice. The hws were graded for completion, and the course grade is made up of the 4 programming assignments and 2 exams. The workload was on the heavier side, and the material is on the difficult side (more math), but the grades turn out fine.
+
+=== Mark Paulk (legacyId 1897357) ===
+avgRating: 3.3 | avgDifficulty: 2.9 | numRatings: 87 (all-time) | dept: Computer Science
+- class=CS3354 | diff=1 | clarity=5 | help=5 | wta=1 | date=2024-12-19 22:42:41 +0000 UTC
+  Dr. Paulk's class was amazing! He's like a grandpa telling us a story in front of the fireplace lol. He's been in the game for a long time, so he knows his stuff. Exams were pretty easy, the cheat sheet (front and back) def helps. Assignments, individual and group, are crazy easy and graded leniently. He has office hours almost everyday too!
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=1 | date=2024-12-17 22:21:31 +0000 UTC
+  The class was pretty easy, but the exams are a bunch of random facts from the slides. Make sure your cheat sheet is perfect, or you'll miss points on the tests. The HW is pretty easy and the group assignments are not bad either. He does have an attendance sheet, though.
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=1 | date=2024-09-16 13:38:59 +0000 UTC
+  Good lecturer, easy homework, but 90% of your grade is 3 tests, and the questions are mostly random facts from the slides (you are allowed a one-page front-and-back cheat sheet).
+- class=CS3354 | diff=3 | clarity=4 | help=4 | wta=1 | date=2023-12-20 01:11:27 +0000 UTC
+  I normally hate lectures but his slightly sarcastic/blunt mood makes them a tad more interesting. Lots of homework but pretty easy to do; however, there are also group assignments and both can be vaguely written. He allows a full sheet of notes during the exam where you can shove a ton of slides onto the paper and bring it.
+- class=CS3354 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-12-20 00:53:32 +0000 UTC
+  This class was a waste of time. The lecture was him just rambling on about his career. Assignments were easy. The only thing to worry about are the tests. The class is centered around being able to make a cheat sheet. He barely tests your ability to do the work but tests on small, insignificant details from the slides.
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=None | date=2023-05-10 20:05:32 +0000 UTC
+  Better options than him, the one benefit is attendance is not enforced, and you can bring in a cheat sheet full of content to use for exams. That being said, tests are 75% of the course so you cannot do bad. On top of that, homework's are graded extremely harshly with no room to get lost points back. Take a professor that has some empathy.
+
+=== Ebru Cankaya (legacyId 1735915) ===
+avgRating: 3.8 | avgDifficulty: 2.6 | numRatings: 81 (all-time) | dept: Computer Science
+- class=CS4347 | diff=2 | clarity=4 | help=4 | wta=1 | date=2024-12-15 06:59:11 +0000 UTC
+  She really does care about her students and her lectures are pretty good. Homeworks are pretty easy, and while some can take a bit, they are all graded fairly leniently. Exams are not too much harder than HWs and she gives decent review materials. There's an open-ended group project (you can choose a group) and presentation, but it's not too bad.
+- class=CS3354 | diff=2 | clarity=5 | help=5 | wta=1 | date=2024-05-10 17:57:27 +0000 UTC
+  not a valuable class, but 1) she doesn't require actually implementing the group project 2) Attendance not mandatory - you can get a good grade on her exams without showing up to class since you can bring printed slides to them and exam questions are easy and based on slides. This 3354 class is very chill and much less taxing than other professors
+- class=CS3354 | diff=4 | clarity=4 | help=4 | wta=1 | date=2024-02-06 21:41:53 +0000 UTC
+  She is very caring and energetic and her lectures are very good quality. There is a group project but grading is lenient. Attendance is completely optional and assignments are very easy. However, the open note tests have a lot of trick questions
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=1 | date=2024-01-21 06:12:14 +0000 UTC
+  There is a big group project that you are required to complete, but it should be fine if all of your members do their share of the work. The exams are open note, but some questions can be difficult.
+- class=CS3354 | diff=3 | clarity=3 | help=3 | wta=None | date=2023-10-27 19:30:06 +0000 UTC
+  She is nice the only issue is her exams that are super tricky be aware when taking her class.
+- class=CS3354 | diff=2 | clarity=4 | help=4 | wta=1 | date=2023-05-19 20:55:37 +0000 UTC
+  The class itself is fairly easy so I wouldn't say the professor matters too much. The content is outdated so it's not too interesting but Cankaya is nice and pretty passionate about what she teaches. Good amount of assignments and the tests are entirely from the slides. Best piece of advice is just start the project early.
 
 === Jason Jue (legacyId 856339) ===
-avgRating: 3.7 | avgDifficulty: 3 | numRatings: 46 | dept: Computer Science
-target_course_reviews: 6
+avgRating: 3.7 | avgDifficulty: 3 | numRatings: 46 (all-time) | dept: Computer Science
 - class=CS4349 | diff=5 | clarity=5 | help=5 | wta=1 | date=2025-12-21 22:20:59 +0000 UTC
   Extremely patient professor who clearly KNOWSSS his stuff. It felt like he understood how genuinely difficult this freaking class is and took great effort to help us in any way he can with it. It felt like he nailed the balance between being understanding and also making us work for it so we don't have a slop degree.
 - class=CS4349 | diff=1 | clarity=5 | help=5 | wta=1 | date=2025-12-20 02:19:49 +0000 UTC
@@ -843,51 +1230,65 @@ target_course_reviews: 6
 - class=CS4349 | diff=4 | clarity=5 | help=5 | wta=1 | date=2024-12-23 20:44:49 +0000 UTC
   Dr. Jue is the first professor at UTD that I have absolutely loved! Lectures felt well prepared and when asking questions during lectures he would give clear and concise answers. The course was hard but he wants you to learn and grow as a computer science student so don't expect an easy A. Great grading criteria and helpful during office hours.
 
-=== James Wilson (legacyId 2434231) ===
-avgRating: 3.4 | avgDifficulty: 3.1 | numRatings: 57 | dept: Computer Science
-target_course_reviews: 5
-- class=CS4349 | diff=5 | clarity=1 | help=1 | wta=None | date=2026-05-05 00:32:51 +0000 UTC
-  Releases homework like 5 at a time, but there's no due date on anything. Homework is a participation grade, which could be a good or bad thing depending on how you look at it, you get zero feedback. Impossible to reach over email. Lectures are hard to follow. Test are difficult. Grade almost completely dependent on the 2 exams. Grades come out late
-- class=CS4349 | diff=4 | clarity=1 | help=1 | wta=None | date=2025-05-24 18:08:44 +0000 UTC
-  There are no slides for his course, if you do not take notes on the examples he does in class, you will fail. Very unorganized, did not have grades for any of the exams until the day grades were due. Exams heavy. The exams were very difficult. Also not very good with communication, emailed him multiple time and got no response.
-- class=CS4349 | diff=4 | clarity=4 | help=4 | wta=1 | date=2025-05-22 20:36:44 +0000 UTC
-  His lectures are great at breaking down complex topics, and he seems like a genuine dude who wants students to learn. Also, homework is a participation grade, and TAs leave good feedback. However, the claims that he's disorganized and never graded the first exam until the end are true. He's still great, but keep that in mind if you're taking him.
-- class=CS4349 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-05-22 15:59:24 +0000 UTC
-  Do not take him unless its the last resort. He didn't grade a single exam the whole semester and then just put out the final grade at the end of the semester. He didn't display any of the exam grades in elearning so we still don't know what we scored even after grades were due. Whenever I tried emailing him about it, he just ignored it.
-- class=CS4349 | diff=4 | clarity=2 | help=2 | wta=None | date=2025-05-22 15:51:14 +0000 UTC
-  Adv Algos with Wilson, is very unorganized and he can't communicate well. He is a decent professor. In Spring 2025, the class had 3 exams, totaling 80%. He didn't post a SINGLE exam grade on to elearning, so you never knew what grade you had in the class until may 22nd (last day to submit grades). Also as far as I know, he doesn't curve.
+=== Haim Schweitzer (legacyId 182842) ===
+avgRating: 2.9 | avgDifficulty: 2.4 | numRatings: 37 (all-time) | dept: Computer Science
+- class=CS6364 | diff=3 | clarity=1 | help=1 | wta=None | date=2025-05-21 19:22:03 +0000 UTC
+  Very weird and cryptic grading. Does not curve the final grade, only curves the individual components (exams, quizzes, hws, projects). Unnecessarily complex exam in terms of ease of taking the test. Homeworks are not graded for correctness, you get full points just for attempting them.
+- class=CS6364 | diff=2 | clarity=1 | help=1 | wta=None | date=2024-07-25 18:00:13 +0000 UTC
+  soooo bad like UTD is bad enough but this is embarrassing. In the summer he does one 4-hour lecture every Friday and its laughable how little he covers thats actually useful in this time. He barely covers the surface level stuff for AI even though its a grad-level course. Will not recommend, I only did it to graduate early.
+- class=CS6364 | diff=5 | clarity=1 | help=1 | wta=None | date=2023-09-02 21:11:49 +0000 UTC
+  The Professor is highly unethical and unprofessional in his conduct towards the students. He has superficial knowledge of AI. When asked doubts regarding intensive topics like IDA*, MDP, Factor Graphs etc from the textbook he has suggested (Russell and Norvig AI), he is at a loss. Ambiguous grading and ghosts students upon confrontation.
+- class=CS6375 | diff=4 | clarity=5 | help=5 | wta=1 | date=2023-05-23 23:12:10 +0000 UTC
+  I took both ML and AI classes under Prof. Schweitzer. Expectations will be set at the beginning of semester and the Prof meets them 100%. If you don't like the criteria/pedagogy you can move to another section. Very helpful during the office hours. Get your doubts clarified. Key to crack the course: Stay attentive in all classes and do assignments.
+- class=CS6364 | diff=2 | clarity=1 | help=1 | wta=None | date=2023-05-19 19:48:55 +0000 UTC
+  Useless Professor!!! His lectures are boring and syllabus is outdated... He has some perplexed face when we ask him a question. Avoid him for AI
+- class=CS6375 | diff=3 | clarity=1 | help=1 | wta=None | date=2023-05-19 08:58:57 +0000 UTC
+  He is always late to the lectures, at least 15 mins and every week. His block courses are super duper tiring. 
 
-=== Ravi Prakash (legacyId 138270) ===
-avgRating: 3.9 | avgDifficulty: 3.6 | numRatings: 64 | dept: Computer Science
-target_course_reviews: 5
-- class=CS4348 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-29 18:50:41 +0000 UTC
-  i personally really enjoyed this prof's lecture style, though it's not for everyone. very engaging speaker and he communicates the content well. exams are a bit hit and miss with very little partial credit, just be sure to pay attention to his lecture examples. projects were saved by the ta being an angel.
-- class=CS4348 | diff=2 | clarity=5 | help=5 | wta=1 | date=2024-12-21 19:18:46 +0000 UTC
-  Lectures were great and concepts were always made clear. Exams are open note and are straightforward if you understand the concepts. Grades were made up of 2 exams, quizzes, 2 projects, and an essay.
-- class=CS4348 | diff=3 | clarity=5 | help=5 | wta=1 | date=2024-10-16 16:51:33 +0000 UTC
-  he's one of the best lecturers ive ever had. explains things great, and is patient and understanding. class was a bit hard but thats just the content.
-- class=CS4348 | diff=4 | clarity=4 | help=4 | wta=None | date=2024-08-23 20:46:39 +0000 UTC
-  Very nice/caring guy whose lectures were interesting, but reading the textbook was better. However, quizzes/exams were hard due to being free response/fill in the blank with no partial credit for fill in the blanks. TAs were annoying as they graded projects harshly, and Dr. Prakash would often side with them. Taken during summer.
-- class=CS4348 | diff=4 | clarity=3 | help=3 | wta=1 | date=2023-01-25 21:35:36 +0000 UTC
-  I've taken 2 classes with Dr. Prakash, CS 3305 and CS 4348. Dr. Prakash is a wonderful lecturer. Lecture materials are thorough and assignments / projects are interesting and great practice. However, exams for both courses are difficult and confusing, sometimes covering different content than covered in class. Grading is harsh for exams / quizzes.
+He acts like a generous grader but nope, he is not.
 
-=== Parisa Darbari (legacyId 3071618) ===
-avgRating: 4.2 | avgDifficulty: 3.2 | numRatings: 5 | dept: Computer Science
-target_course_reviews: 5
-- class=CS3345 | diff=2 | clarity=4 | help=4 | wta=1 | date=2026-02-08 22:23:09 +0000 UTC
-  I went to 5 classes, ended with an A. I couldn't learn much from her lectures bc it was hard to follow her train of thought. The material itself wasn't difficult so I just taught myself. And the tests weren't that bad as long as you studied a fair amount.
-- class=CS3345 | diff=3 | clarity=4 | help=4 | wta=1 | date=2026-01-29 00:39:51 +0000 UTC
-  Decent professor with good lectures. Her exams were formatted very good and they were pretty easy if you studied. Assignments were sometimes unclear and there were grading mistakes. However, would take her if you are already kinda familiar with data structures and want to pass the class easily.
-- class=CS3345 | diff=4 | clarity=4 | help=4 | wta=None | date=2026-01-13 16:07:04 +0000 UTC
-  The class is really fast and sometimes she doesn't explain well. Midterms are weighted pretty heavily, but she gives a review. However, there are always a few things outside of it. On the bright side, she curves and doesn't give minus grades. She cares about her students as well.
-- class=CS4349 | diff=4 | clarity=4 | help=4 | wta=1 | date=2025-12-20 03:09:27 +0000 UTC
-  I think she is very caring and a good professor. Her accent can be really hard to understand sometimes but she tries her best to make the concepts clear. She curves generously when the average of the class is bad. Overall, she is not a bad choice if you are ready to study a little bit on your own.
-- class=CS4349 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-08-23 02:14:49 +0000 UTC
-  New professor but very caring with students and a lenient grader. Gives lots of partial points. Exams make most of the grade. Attend lectures and read her notes and you'll get an A.
+He is a decent prof for ML. I would say avoid if you can. Unfortunately, I could not learn much about this trend subject. :(
+
+=== Benjamin Raichel (legacyId 2092131) ===
+avgRating: 4.4 | avgDifficulty: 3.7 | numRatings: 27 (all-time) | dept: Computer Science
+- class=CS6363 | diff=4 | clarity=5 | help=5 | wta=1 | date=2025-12-07 00:27:13 +0000 UTC
+  Professor Ben is brilliant, quick-witted, and an amazing lecturer.
+While lectures are a tad quick-paced, the explanations are precise and well-defined. Put in hours to understand the slides.
+Homeworks are challenging but graded fairly. Attempt them yourself to do well on the tests. Pay attention during homework review for good tips.
+- class=CS6363 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-01-02 17:33:25 +0000 UTC
+  Professor Raichel's class is very good and he does everything on time. Syllabus is completed well before the exams and we get sufficient time to do homework. Homeworks can be tough but exams are somewhat easier version of homework and slides. Study the slides and homework well for the exams.
+- class=CS6363 | diff=4 | clarity=5 | help=5 | wta=1 | date=2024-12-12 23:22:27 +0000 UTC
+  Professor Ben is a caring, smart, and brilliant lecturer. His way of explaining the nuances of algorithms significantly improved my understanding of the topic. His homework assignments are challenging but graded leniently. The tests are easier than the homeworks. Listen to his homework review classes to do well in the tests.
+Would take again.
+- class=CS6363 | diff=5 | clarity=5 | help=5 | wta=1 | date=2023-03-21 08:15:55 +0000 UTC
+  Dr. Raichel teaches the QE section of CS 6363. The class is very engaging but extremely demanding of your time and patience. He puts a lot of work into his slides and even uploads his old recordings for reference. 
+
+There are 6 homeworks, 2 exams and weekly quizzes. If you put in the effort, this class is quite rewarding.
+- class=CS6363 | diff=4 | clarity=5 | help=5 | wta=1 | date=2023-01-30 00:59:24 +0000 UTC
+  Amazing lecture content. Would definitely recommend to take CS6363 under him if you really want to learn.
+Challenging homework questions.
+- class=CS6363 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-01-25 21:20:18 +0000 UTC
+  Best professor I've had at this school so far! Lecture materials are super thorough and easy to understand. Lectures cover the info you need to know in depth. HW is tough but great practice. Exams are basically recycled HW questions but a bit easier. Dr. Raichel wants you to do well in his course and will make sure that you learn a lot!
+
+=== Richard Min (legacyId 1875394) ===
+avgRating: 1.8 | avgDifficulty: 3.6 | numRatings: 166 (all-time) | dept: Computer Science
+- class=CS6364 | diff=1 | clarity=3 | help=3 | wta=1 | date=2026-01-14 20:37:42 +0000 UTC
+  The exams, which the majority of the grade is based on, are pretty fair. The material is taken from the slides/textbook and the review quizzes that he gives to you
+- class=CS6375 | diff=3 | clarity=1 | help=1 | wta=None | date=2025-12-01 21:54:23 +0000 UTC
+  Trust RMP this time.
+Homeworks are tedious and yet dont teach you anything.
+Exams are mostly fill in the blanks taken right from textbook and slides you basically have to memorize.
+Elearning page is ridiculously cluttered and disorganized.
+Min often goes off topic in lecture as well, making lectures not worthwhile
+- class=CS6364 | diff=3 | clarity=1 | help=1 | wta=None | date=2025-11-18 13:22:24 +0000 UTC
+  A litmus test of his teaching would be how many students will attend his lectures if attendance threat is not enforced by him. Hardly 5%, hence he is scared, takes attendance like in school and instills fear of grade drop. He is more interested in Geopolitics than Tech, the only moments he dares to look at students, else reads slides off ppt.
+- class=CS6364 | diff=3 | clarity=1 | help=1 | wta=None | date=2025-11-08 03:35:22 +0000 UTC
+  I only have one comment: why this website does not have 0-star ranking?
+- class=CS6364 | diff=3 | clarity=1 | help=1 | wta=None | date=2025-11-06 15:12:25 +0000 UTC
+  His elearning is a disaster, he tunes our mind to AI by making us design mental algorithms to find needle  in his elearning haystack. You will feel busy throughout the semester without learning anything of importance. Welcome to rat race!
 
 === James Willson (legacyId 1984439) ===
-avgRating: 3.7 | avgDifficulty: 3 | numRatings: 104 | dept: Computer Science
-target_course_reviews: 5
+avgRating: 3.7 | avgDifficulty: 3 | numRatings: 104 (all-time) | dept: Computer Science
 - class=CS4349 | diff=4 | clarity=4 | help=4 | wta=1 | date=2026-01-04 06:33:46 +0000 UTC
   Willson is a great lecturer and generally kind, but he is really bad at communicating outside of class. He also genuinely just will not grade your exams. We had 3 exams for the class, I only ever found out my grade for the 1st, he never posted the other exams, the class is over and I never found out. 5% attendance, 20% homework, 3 exams @25% each
 - class=CS4349 | diff=4 | clarity=1 | help=1 | wta=None | date=2025-05-22 14:48:54 +0000 UTC
@@ -901,9 +1302,36 @@ He graded everything after the 11:59 PM deadline on the last day of the semester
 - class=CS4349 | diff=4 | clarity=2 | help=2 | wta=None | date=2024-12-21 19:12:58 +0000 UTC
   Engaging lecturer if you are vigilant about actively paying attention. Incredibly disorganized; no syllabus was ever made, HWs were all graded after the final, and nothing was said about how final grades are determined.
 
+=== Ravi Prakash (legacyId 138270) ===
+avgRating: 3.9 | avgDifficulty: 3.6 | numRatings: 64 (all-time) | dept: Computer Science
+- class=CS4348 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-12-29 18:50:41 +0000 UTC
+  i personally really enjoyed this prof's lecture style, though it's not for everyone. very engaging speaker and he communicates the content well. exams are a bit hit and miss with very little partial credit, just be sure to pay attention to his lecture examples. projects were saved by the ta being an angel.
+- class=CS4348 | diff=2 | clarity=5 | help=5 | wta=1 | date=2024-12-21 19:18:46 +0000 UTC
+  Lectures were great and concepts were always made clear. Exams are open note and are straightforward if you understand the concepts. Grades were made up of 2 exams, quizzes, 2 projects, and an essay.
+- class=CS4348 | diff=3 | clarity=5 | help=5 | wta=1 | date=2024-10-16 16:51:33 +0000 UTC
+  he's one of the best lecturers ive ever had. explains things great, and is patient and understanding. class was a bit hard but thats just the content.
+- class=CS4348 | diff=4 | clarity=4 | help=4 | wta=None | date=2024-08-23 20:46:39 +0000 UTC
+  Very nice/caring guy whose lectures were interesting, but reading the textbook was better. However, quizzes/exams were hard due to being free response/fill in the blank with no partial credit for fill in the blanks. TAs were annoying as they graded projects harshly, and Dr. Prakash would often side with them. Taken during summer.
+- class=CS4348 | diff=4 | clarity=3 | help=3 | wta=1 | date=2023-01-25 21:35:36 +0000 UTC
+  I've taken 2 classes with Dr. Prakash, CS 3305 and CS 4348. Dr. Prakash is a wonderful lecturer. Lecture materials are thorough and assignments / projects are interesting and great practice. However, exams for both courses are difficult and confusing, sometimes covering different content than covered in class. Grading is harsh for exams / quizzes.
+
+=== James Wilson (legacyId 2434231) ===
+avgRating: 3.4 | avgDifficulty: 3.1 | numRatings: 58 (all-time) | dept: Computer Science
+- class=CS4349 | diff=5 | clarity=1 | help=1 | wta=None | date=2026-05-05 00:32:51 +0000 UTC
+  Releases homework like 5 at a time, but there's no due date on anything. Homework is a participation grade, which could be a good or bad thing depending on how you look at it, you get zero feedback. Impossible to reach over email. Lectures are hard to follow. Test are difficult. Grade almost completely dependent on the 2 exams. Grades come out late
+- class=CS4349 | diff=4 | clarity=1 | help=1 | wta=None | date=2025-05-24 18:08:44 +0000 UTC
+  There are no slides for his course, if you do not take notes on the examples he does in class, you will fail. Very unorganized, did not have grades for any of the exams until the day grades were due. Exams heavy. The exams were very difficult. Also not very good with communication, emailed him multiple time and got no response.
+- class=CS4349 | diff=4 | clarity=4 | help=4 | wta=1 | date=2025-05-22 20:36:44 +0000 UTC
+  His lectures are great at breaking down complex topics, and he seems like a genuine dude who wants students to learn. Also, homework is a participation grade, and TAs leave good feedback. However, the claims that he's disorganized and never graded the first exam until the end are true. He's still great, but keep that in mind if you're taking him.
+- class=CS4349 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-05-22 15:59:24 +0000 UTC
+  Do not take him unless its the last resort. He didn't grade a single exam the whole semester and then just put out the final grade at the end of the semester. He didn't display any of the exam grades in elearning so we still don't know what we scored even after grades were due. Whenever I tried emailing him about it, he just ignored it.
+- class=CS4349 | diff=4 | clarity=2 | help=2 | wta=None | date=2025-05-22 15:51:14 +0000 UTC
+  Adv Algos with Wilson, is very unorganized and he can't communicate well. He is a decent professor. In Spring 2025, the class had 3 exams, totaling 80%. He didn't post a SINGLE exam grade on to elearning, so you never knew what grade you had in the class until may 22nd (last day to submit grades). Also as far as I know, he doesn't curve.
+
 === Ranran Feng (legacyId 2055150) ===
-avgRating: 2 | avgDifficulty: 3.3 | numRatings: 52 | dept: Computer Science
-target_course_reviews: 4
+avgRating: 2 | avgDifficulty: 3.3 | numRatings: 52 (all-time) | dept: Computer Science
+- class=CS3354 | diff=2 | clarity=1 | help=1 | wta=None | date=2026-04-30 03:53:59 +0000 UTC
+  She just reads straight from outdated slides in lectures. Assignments and exams are all over the place. No guidance on group projects.
 - class=CS3345 | diff=2 | clarity=3 | help=3 | wta=None | date=2024-05-14 20:59:19 +0000 UTC
   Teaches DSA at a very surface level, no coding is ever done and I would not recommend this class if you want to be proficient at interview questions. Exams and final grade is curved - homework is easy. Assignments take forever to be graded.
 - class=CS3345 | diff=2 | clarity=3 | help=3 | wta=1 | date=2024-05-06 12:51:16 +0000 UTC
@@ -913,23 +1341,17 @@ target_course_reviews: 4
 - class=CS3345 | diff=2 | clarity=3 | help=3 | wta=None | date=2023-05-04 22:03:08 +0000 UTC
   Easy class if you can manage the few assignments she gives, but you won't really learn anything practical, only conceptual stuff that you would usually find on interview questions. Lectures are pretty monotone and I'd prefer to just review the slides on my own, but overall not the worst professor.
 
-=== Weili Wu (legacyId 1530329) ===
-avgRating: 3 | avgDifficulty: 2.7 | numRatings: 40 | dept: Computer Science
-target_course_reviews: 4
-- class=CS4347 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-06-03 14:14:56 +0000 UTC
-  Simply read off powerpoints for her lectures and would often have her TA teach in her place. Homeworks were long, often multiple practice sections from the textbook for one assignment. Would receive little to no feedback on our group project or exams. Applies a massive curve at the end of the semester (I scored below 40 on both midterm and final)
-- class=CS4347 | diff=3 | clarity=2 | help=2 | wta=1 | date=2025-04-08 18:28:47 +0000 UTC
-  She nice person, just wish she would speak English better. Ok teacher.
-- class=CS4347 | diff=3 | clarity=3 | help=3 | wta=None | date=2024-05-03 06:01:17 +0000 UTC
-  Professor is nice and understanding, extends due dates of HW and projects if students ask. Didn't teach a lot of SQL and we were kind of expected to learn it ourselves. Exams are worth 70% and are difficult. The content of the class is focused more on database theory from the 1970s rather than real world practical application.
-- class=CS4347 | diff=2 | clarity=4 | help=4 | wta=1 | date=2023-05-21 06:26:50 +0000 UTC
-  Very good professor for database systems. Lectures are a bit confusing, but she records them so you can go back and rewatch what you are confused about. There is a good amount of homework, but it does well in preparing you for what is on the Exams. There is also a group project that is a bit difficult but graded very easily.
-
 === Sruthi Chappidi (legacyId 2531709) ===
-avgRating: 3 | avgDifficulty: 3.1 | numRatings: 32 | dept: Computer Science
-target_course_reviews: 4
+avgRating: 3 | avgDifficulty: 3.1 | numRatings: 32 (all-time) | dept: Computer Science
 - class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-08-23 02:05:49 +0000 UTC
   Good professor. Easy A if you pay attention. Willing to go beyond to help students.
+- class=CS3354 | diff=3 | clarity=4 | help=4 | wta=1 | date=2025-06-10 14:07:35 +0000 UTC
+  - Lectures are detailed and note-heavy. Willing to help if you're stuck.
+- Assignments are simple enough
+- Group projects are a big part of the course; demanding, but you got 7-8 teammates
+- Picky on tests, but not as important as projects
+- Downside: Annoying weekly quizzes that you can only take Friday-Saturday
+- Straightforward and proactive
 - class=CS3345 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-05-22 00:07:42 +0000 UTC
   she's amazing. take her
 - class=CS3345 | diff=1 | clarity=5 | help=5 | wta=1 | date=2024-12-19 10:45:14 +0000 UTC
@@ -937,19 +1359,32 @@ target_course_reviews: 4
 - class=CS3345 | diff=4 | clarity=2 | help=2 | wta=None | date=2024-10-13 04:58:56 +0000 UTC
   Not a good lecturer, very hard to follow and understand so most people end up tuning her out. You are better off just reading the textbook and going off of that. Lectures and class in general feels disorganized. She tells us one thing then changes it last minute. There is lots of homework and quizzes, however the projects are not too hard.
 
-=== Nidhiben Solanki (legacyId 2648929) ===
-avgRating: 3.6 | avgDifficulty: 3.2 | numRatings: 65 | dept: Computer Science
-target_course_reviews: 3
-- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2024-12-15 06:02:01 +0000 UTC
-  The lectures were very engaging and the professor is very proficient at teaching databases. However, be prepared for the professor to randomly call on you to answer her questions. The exams, HW, project were all very fair. The professor is also very approachable if you have questions regarding the class.
-- class=CS4347 | diff=4 | clarity=4 | help=4 | wta=1 | date=2024-12-14 05:47:17 +0000 UTC
-  Lectures are okay, and homeworks are similar to what you will see on the exam. You won't see anything that she didn't teach on the exams. Her grading criteria is very straightforward but I think she makes the class a little bit more challenging than it should be. Also be aware, she does cold calling. The course is very organized which is a plus
-- class=CS4347 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-04-18 22:12:17 +0000 UTC
-  Exams are like trivia and the homeworks are trivial also. Very monotonous lectures. Does not seem interested.
+=== Parisa Darbari (legacyId 3071618) ===
+avgRating: 4.2 | avgDifficulty: 3.2 | numRatings: 5 (all-time) | dept: Computer Science
+- class=CS3345 | diff=2 | clarity=4 | help=4 | wta=1 | date=2026-02-08 22:23:09 +0000 UTC
+  I went to 5 classes, ended with an A. I couldn't learn much from her lectures bc it was hard to follow her train of thought. The material itself wasn't difficult so I just taught myself. And the tests weren't that bad as long as you studied a fair amount.
+- class=CS3345 | diff=3 | clarity=4 | help=4 | wta=1 | date=2026-01-29 00:39:51 +0000 UTC
+  Decent professor with good lectures. Her exams were formatted very good and they were pretty easy if you studied. Assignments were sometimes unclear and there were grading mistakes. However, would take her if you are already kinda familiar with data structures and want to pass the class easily.
+- class=CS3345 | diff=4 | clarity=4 | help=4 | wta=None | date=2026-01-13 16:07:04 +0000 UTC
+  The class is really fast and sometimes she doesn't explain well. Midterms are weighted pretty heavily, but she gives a review. However, there are always a few things outside of it. On the bright side, she curves and doesn't give minus grades. She cares about her students as well.
+- class=CS4349 | diff=4 | clarity=4 | help=4 | wta=1 | date=2025-12-20 03:09:27 +0000 UTC
+  I think she is very caring and a good professor. Her accent can be really hard to understand sometimes but she tries her best to make the concepts clear. She curves generously when the average of the class is bad. Overall, she is not a bad choice if you are ready to study a little bit on your own.
+- class=CS4349 | diff=3 | clarity=5 | help=5 | wta=1 | date=2025-08-23 02:14:49 +0000 UTC
+  New professor but very caring with students and a lenient grader. Gives lots of partial points. Exams make most of the grade. Attend lectures and read her notes and you'll get an A.
+
+=== Anurag Nagar (legacyId 2038564) ===
+avgRating: 4.4 | avgDifficulty: 3 | numRatings: 68 (all-time) | dept: Computer Science
+- class=CS6375 | diff=4 | clarity=5 | help=5 | wta=1 | date=2025-01-10 21:46:57 +0000 UTC
+  I could attend his lectures everyday. Four hours seems like four minutes and I wish I could take another. Maybe I will go for my PhD do that I can.
+- class=CS6375 | diff=2 | clarity=5 | help=5 | wta=1 | date=2024-05-13 13:48:10 +0000 UTC
+  Outstanding professor. Teaches the foundation and applications of data science very well. Useful for getting jobs in industry.
+- class=CS6375 | diff=3 | clarity=5 | help=5 | wta=1 | date=2023-12-26 17:01:16 +0000 UTC
+  Amazing prof for ML, he teaches the concepts you need for the exam very clearly, goes over examples in class, accessible outside for class for assignments, he helps with quiz questions in class, assignments and group project are not too difficult, but start when assigned, take 1 note sheet for exams, provides big curve at the end
+- class=CS6375 | diff=5 | clarity=5 | help=5 | wta=1 | date=2023-08-08 21:08:04 +0000 UTC
+  Best professor so far, highly recommended
 
 === Neeraj Gupta (legacyId 1916155) ===
-avgRating: 2.5 | avgDifficulty: 3.6 | numRatings: 112 | dept: Computer Science
-target_course_reviews: 3
+avgRating: 2.5 | avgDifficulty: 3.6 | numRatings: 112 (all-time) | dept: Computer Science
 - class=CS4348 | diff=5 | clarity=2 | help=2 | wta=None | date=2025-12-10 19:21:30 +0000 UTC
   This class is very test heavy with both exams and the quizzes making up 70% of the total grade. The professor is a harsh grader too which in hindsight makes sense with how nitpicky he is with student questions and answers in class. Overall a rude person and monotone teacher but it doesn't really affect you if you don't interact with him.
 - class=CS4348 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-12-07 08:34:28 +0000 UTC
@@ -957,46 +1392,36 @@ target_course_reviews: 3
 - class=CS4348 | diff=5 | clarity=1 | help=1 | wta=None | date=2025-10-08 16:06:56 +0000 UTC
   A majority of the good reviews for this prof are 100% him on an alt. He is very condescending and unopen to suggestions with his teaching style. Exams/quizzes are ONLY free response with little partial credit. Asks many questions in class and when people answers he is mean to them. Definitely would not take him again. Why teach if you hate students
 
-=== Cody Hatfield (legacyId 3165787) ===
-avgRating: 5 | avgDifficulty: 1 | numRatings: 2 | dept: Computer Science
-target_course_reviews: 2
-- class=CS4348 | diff=1 | clarity=5 | help=5 | wta=1 | date=2026-05-30 01:21:34 +0000 UTC
-  Prof Hatti is the goat!! Made UTD enjoyable for the first time ever
-- class=CS4348 | diff=1 | clarity=5 | help=5 | wta=1 | date=2026-05-29 18:30:43 +0000 UTC
-  He was one of the best and easiest professors I taken at UTD. I would have gotten a worse score with a different professor. His exams are very leniently graded especially take home final and bonus questions were free points. He also allowed resubmissions for HWs and projects and allowed late work. I also enjoyed his current events lectures.
+=== Klyne Smith (legacyId 2405884) ===
+avgRating: 3.9 | avgDifficulty: 2.4 | numRatings: 88 (all-time) | dept: Computer Science
+- class=CS3354 | diff=2 | clarity=5 | help=5 | wta=1 | date=2026-05-08 16:33:20 +0000 UTC
+  He wants you to succeed! He made the Software Engineering content very enjoyable and practical for us. There is a semester-long group project, and your team can make or break your experience. There's only one exam, mostly open-note quizzes, and homework, but you'll need to attend class and pay attention since some questions reference lectures.
+- class=CS3354 | diff=3 | clarity=2 | help=2 | wta=None | date=2026-04-20 14:05:04 +0000 UTC
+  way too much work that doesnt even make sense, chat creates every assignment & he has an attitude.quiz literally before he starts the ch. doesnt even teach just talks abt whatever. A manageable but save urself the time. went on vaca, moved class online, came extremely late, made excuse & demanded cameras on, then made extra credit less after due.
+- class=CS3354 | diff=2 | clarity=5 | help=5 | wta=1 | date=2026-04-08 15:56:52 +0000 UTC
+  I haven't even finished the course yet, but Prof. Klyne is amazing; he's so funny, gives great feedback, and he does not grade harshly. Attendence is mandatory, but lectures are always interesting. He has a way of talking that keeps you engaged. One exam, 6 questions, FR. He cares about his students' learning rather than just performing.
 
-=== Dung Huynh (legacyId 194919) ===
-avgRating: 3.6 | avgDifficulty: 3.5 | numRatings: 31 | dept: Computer Science
-target_course_reviews: 1
-- class=CS4348 | diff=5 | clarity=3 | help=3 | wta=None | date=2023-05-03 23:23:07 +0000 UTC
-  Took for automata, was pretty difficult, luckily there were curves given--guess its been a difficult subject in the past. I'd say his lectures are good, but I just was so bored in his classes and its are to follow when you're not engaged.
+=== Nidhiben Solanki (legacyId 2648929) ===
+avgRating: 3.6 | avgDifficulty: 3.2 | numRatings: 65 (all-time) | dept: Computer Science
+- class=CS4347 | diff=2 | clarity=5 | help=5 | wta=1 | date=2024-12-15 06:02:01 +0000 UTC
+  The lectures were very engaging and the professor is very proficient at teaching databases. However, be prepared for the professor to randomly call on you to answer her questions. The exams, HW, project were all very fair. The professor is also very approachable if you have questions regarding the class.
+- class=CS4347 | diff=4 | clarity=4 | help=4 | wta=1 | date=2024-12-14 05:47:17 +0000 UTC
+  Lectures are okay, and homeworks are similar to what you will see on the exam. You won't see anything that she didn't teach on the exams. Her grading criteria is very straightforward but I think she makes the class a little bit more challenging than it should be. Also be aware, she does cold calling. The course is very organized which is a plus
+- class=CS4347 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-04-18 22:12:17 +0000 UTC
+  Exams are like trivia and the homeworks are trivial also. Very monotonous lectures. Does not seem interested.
 
-=== Sergey Bereg (legacyId 462041) ===
-avgRating: 3.7 | avgDifficulty: 2.8 | numRatings: 155 | dept: Computer Science
-target_course_reviews: 1
-- class=CS3345 | diff=4 | clarity=1 | help=1 | wta=None | date=2024-05-14 10:08:30 +0000 UTC
-  Very disorganized professor. Changed the syllabus after first midterm. No consistency on enforcing the rule or syllabus. Worst professor I have encountered at UTD. Very lazy trying to do the least amount of work by making test questions as few as possible. Would never take again.
+=== Rishabh Iyer (legacyId 2566277) ===
+avgRating: 3.2 | avgDifficulty: 3.8 | numRatings: 10 (all-time) | dept: Computer Science
+- class=CS6375 | diff=3 | clarity=4 | help=4 | wta=1 | date=2026-01-14 20:35:34 +0000 UTC
+  Lectures are pretty good, test is difficult and not curved so grading is a bit tough. Only 1 exam
+- class=CS6375 | diff=4 | clarity=3 | help=3 | wta=None | date=2025-12-18 17:16:15 +0000 UTC
+  Grading is mostly based on one midterm exam (pretty difficult, would recommend spending more than a day studying for it) and an open ended final project. Homeworks are difficult but manageable and my project wasn't graded too harshly. Pretty sure he didn't curve the grade.
+- class=CS6375 | diff=3 | clarity=2 | help=2 | wta=None | date=2025-11-21 03:34:05 +0000 UTC
+  ooooooooof
 
-=== Andrew Nemec (legacyId 3028789) ===
-avgRating: 5 | avgDifficulty: 3.5 | numRatings: 2 | dept: Computer Science
-target_course_reviews: 1
-- class=CS3345 | diff=4 | clarity=5 | help=5 | wta=1 | date=2024-12-17 00:17:24 +0000 UTC
-  For his first semester at UTD he did a great job. His lectures are very organized and he posts his notes online which helps for studying. He is very understanding and wants students to succeed; he curved the first exam after seeing it was too hard. There is a good amount of homework, but it's manageable and there are opportunities for extra credit.
-
-=== Ebru Cankaya (legacyId 1735915) ===
-avgRating: 3.8 | avgDifficulty: 2.6 | numRatings: 81 | dept: Computer Science
-target_course_reviews: 1
-- class=CS4347 | diff=2 | clarity=4 | help=4 | wta=1 | date=2024-12-15 06:59:11 +0000 UTC
-  She really does care about her students and her lectures are pretty good. Homeworks are pretty easy, and while some can take a bit, they are all graded fairly leniently. Exams are not too much harder than HWs and she gives decent review materials. There's an open-ended group project (you can choose a group) and presentation, but it's not too bad.
-
-=== Mohamed Belkoura (legacyId 1848012) ===
-avgRating: 2.9 | avgDifficulty: 2.9 | numRatings: 34 | dept: Computer Science
-target_course_reviews: 1
-- class=CS3345 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-05-18 15:30:03 +0000 UTC
-  Transitioned from online to in person and uses lockdown browser now for exams. Gave a lot of hw that was usually assigned late and was due within a very short period of time. Exams are a review of the slides, not a lot of coding mainly theory questions. Overall tough professor that assigned a lot of hw, also has mandatory attendance and pop quiz
-
-=== Daniel Gibney (legacyId 2927806) ===
-avgRating: 4.1 | avgDifficulty: 3.2 | numRatings: 22 | dept: Computer Science
-target_course_reviews: 1
-- class=CS4349 | diff=4 | clarity=2 | help=2 | wta=None | date=2023-08-30 20:35:00 +0000 UTC
-  he mention this is his first time teaching here... whatever, quite a lot need to be improved still. As a student, I will suggest you don't take him for your good anyway at this point.
+=== John Cole (legacyId 983152) ===
+avgRating: 3.1 | avgDifficulty: 3.4 | numRatings: 205 (all-time) | dept: Computer Science
+- class=CS6360 | diff=4 | clarity=1 | help=1 | wta=None | date=2025-01-21 16:39:13 +0000 UTC
+  Absolute waste of time and money. I wouldn't suggest anyone to take any course with him. He is not responsive to emails, does not fully understand the material he teaches. His slides are not useful at all. Overall his courses provides ZERO value.
+- class=CS6360 | diff=5 | clarity=3 | help=3 | wta=None | date=2024-08-23 23:04:53 +0000 UTC
+  Took him for 2nd semester of emse. Hard grader. Exams are tough as well. Make sure to read grading criteria for assignments properly because he grades very tough. Just try your best. Class gets harder towards the end.

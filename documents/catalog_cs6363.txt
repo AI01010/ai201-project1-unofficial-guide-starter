@@ -1,10 +1,10 @@
-# Source: UTD official catalog (Galaxy) entry for CS 3345
-# URL: https://catalog.utdallas.edu/now/undergraduate/courses/cs3345
-# Fetched: 2026-06-09 18:52:27
+# Source: UTD official catalog (Galaxy) entry for CS 6363
+# URL: https://catalog.utdallas.edu/now/undergraduate/courses/cs6363
+# Fetched: 2026-06-09 18:52:47
 # Note: Stripped HTML to plain text. Header/footer nav still present, M3 cleaning will trim it.
 ---
 
-Data Structures and Foundations of Algorithmic Analysis - UT Dallas 2025 Undergraduate Catalog - The University of Texas at Dallas
+Design and Analysis of Computer Algorithms - UT Dallas 2025 Undergraduate Catalog - The University of Texas at Dallas
 
 Jump to content
 
@@ -60,9 +60,9 @@ Graduate Catalogs
 
 UT Dallas 2025 Undergraduate Catalog
 
-CS3345 - Data Structures and Foundations of Algorithmic Analysis
+CS6363 - Design and Analysis of Computer Algorithms
 
-CS 3345 Data Structures and Foundations of Algorithmic Analysis (3 semester credit hours) Analysis of algorithms including time complexity and Big-O notation. Analysis of stacks, queues, and trees, including B-trees. Heaps, hashing, and advanced sorting techniques. Disjoint sets and graphs. Course emphasizes design and implementation. Prerequisites: ((CE 2305 or CS 2305) with a grade of C or better or (Data Science major and MATH 3315)) and (CE 2336 or CS 2336 or CS 2337) with a grade of C or better. (Same as CE 3345 and SE 3345) (3-0) S
+CS 6363 Design and Analysis of Computer Algorithms (3 semester credit hours) The study of efficient algorithms for various computational problems. Algorithm design techniques. Sorting, manipulation of data structures, graphs, matrix multiplication, and pattern matching. Complexity of algorithms, lower bounds, NP completeness. Prerequisites: CS 5333 and CS 5343. (3-0) S
 
 bugz
 

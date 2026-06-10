@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-08 05:25:28",
+  "generated": "2026-06-09 18:56:46",
   "files": [
     {
       "filename": "reddit_cs3345.txt",
@@ -8,7 +8,7 @@
       "courses": [
         "CS 3345"
       ],
-      "fetched": "2026-06-08 04:58:15",
+      "fetched": "2026-06-09 18:51:45",
       "status": "placeholder",
       "reason": "anonymous JSON blocked (403)"
     },
@@ -19,7 +19,7 @@
       "courses": [
         "CS 4337"
       ],
-      "fetched": "2026-06-08 04:58:17",
+      "fetched": "2026-06-09 18:51:47",
       "status": "placeholder",
       "reason": "anonymous JSON blocked (403)"
     },
@@ -30,7 +30,7 @@
       "courses": [
         "CS 4348"
       ],
-      "fetched": "2026-06-08 04:58:20",
+      "fetched": "2026-06-09 18:51:49",
       "status": "placeholder",
       "reason": "anonymous JSON blocked (403)"
     },
@@ -41,7 +41,7 @@
       "courses": [
         "CS 4349"
       ],
-      "fetched": "2026-06-08 04:58:22",
+      "fetched": "2026-06-09 18:51:52",
       "status": "placeholder",
       "reason": "anonymous JSON blocked (403)"
     },
@@ -52,7 +52,73 @@
       "courses": [
         "CS 4347"
       ],
-      "fetched": "2026-06-08 04:58:25",
+      "fetched": "2026-06-09 18:51:54",
+      "status": "placeholder",
+      "reason": "anonymous JSON blocked (403)"
+    },
+    {
+      "filename": "reddit_cs3354.txt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/utdallas/search.json?q=CS+3354&restrict_sr=1&sort=relevance&t=all&limit=25",
+      "courses": [
+        "CS 3354"
+      ],
+      "fetched": "2026-06-09 18:51:56",
+      "status": "placeholder",
+      "reason": "anonymous JSON blocked (403)"
+    },
+    {
+      "filename": "reddit_cs4383.txt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/utdallas/search.json?q=CS+4383&restrict_sr=1&sort=relevance&t=all&limit=25",
+      "courses": [
+        "CS 4383"
+      ],
+      "fetched": "2026-06-09 18:51:58",
+      "status": "placeholder",
+      "reason": "anonymous JSON blocked (403)"
+    },
+    {
+      "filename": "reddit_cs6360.txt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/utdallas/search.json?q=CS+6360&restrict_sr=1&sort=relevance&t=all&limit=25",
+      "courses": [
+        "CS 6360"
+      ],
+      "fetched": "2026-06-09 18:52:00",
+      "status": "placeholder",
+      "reason": "anonymous JSON blocked (403)"
+    },
+    {
+      "filename": "reddit_cs6363.txt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/utdallas/search.json?q=CS+6363&restrict_sr=1&sort=relevance&t=all&limit=25",
+      "courses": [
+        "CS 6363"
+      ],
+      "fetched": "2026-06-09 18:52:03",
+      "status": "placeholder",
+      "reason": "anonymous JSON blocked (403)"
+    },
+    {
+      "filename": "reddit_cs6364.txt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/utdallas/search.json?q=CS+6364&restrict_sr=1&sort=relevance&t=all&limit=25",
+      "courses": [
+        "CS 6364"
+      ],
+      "fetched": "2026-06-09 18:52:05",
+      "status": "placeholder",
+      "reason": "anonymous JSON blocked (403)"
+    },
+    {
+      "filename": "reddit_cs6375.txt",
+      "source": "reddit",
+      "url": "https://www.reddit.com/r/utdallas/search.json?q=CS+6375&restrict_sr=1&sort=relevance&t=all&limit=25",
+      "courses": [
+        "CS 6375"
+      ],
+      "fetched": "2026-06-09 18:52:07",
       "status": "placeholder",
       "reason": "anonymous JSON blocked (403)"
     },
@@ -63,7 +129,7 @@
       "courses": [
         "CS 3345"
       ],
-      "fetched": "2026-06-08 04:58:26",
+      "fetched": "2026-06-09 18:52:08",
       "status": "placeholder"
     },
     {
@@ -73,7 +139,7 @@
       "courses": [
         "CS 4337"
       ],
-      "fetched": "2026-06-08 04:58:28",
+      "fetched": "2026-06-09 18:52:10",
       "status": "placeholder"
     },
     {
@@ -83,7 +149,7 @@
       "courses": [
         "CS 4348"
       ],
-      "fetched": "2026-06-08 04:58:30",
+      "fetched": "2026-06-09 18:52:11",
       "status": "placeholder"
     },
     {
@@ -93,7 +159,7 @@
       "courses": [
         "CS 4349"
       ],
-      "fetched": "2026-06-08 04:58:32",
+      "fetched": "2026-06-09 18:52:13",
       "status": "placeholder"
     },
     {
@@ -103,7 +169,67 @@
       "courses": [
         "CS 4347"
       ],
-      "fetched": "2026-06-08 04:58:35",
+      "fetched": "2026-06-09 18:52:15",
+      "status": "placeholder"
+    },
+    {
+      "filename": "utdgrades_cs3354.txt",
+      "source": "utdgrades",
+      "url": "https://utdgrades.com/results/CS%203354",
+      "courses": [
+        "CS 3354"
+      ],
+      "fetched": "2026-06-09 18:52:16",
+      "status": "placeholder"
+    },
+    {
+      "filename": "utdgrades_cs4383.txt",
+      "source": "utdgrades",
+      "url": "https://utdgrades.com/results/CS%204383",
+      "courses": [
+        "CS 4383"
+      ],
+      "fetched": "2026-06-09 18:52:18",
+      "status": "placeholder"
+    },
+    {
+      "filename": "utdgrades_cs6360.txt",
+      "source": "utdgrades",
+      "url": "https://utdgrades.com/results/CS%206360",
+      "courses": [
+        "CS 6360"
+      ],
+      "fetched": "2026-06-09 18:52:19",
+      "status": "placeholder"
+    },
+    {
+      "filename": "utdgrades_cs6363.txt",
+      "source": "utdgrades",
+      "url": "https://utdgrades.com/results/CS%206363",
+      "courses": [
+        "CS 6363"
+      ],
+      "fetched": "2026-06-09 18:52:21",
+      "status": "placeholder"
+    },
+    {
+      "filename": "utdgrades_cs6364.txt",
+      "source": "utdgrades",
+      "url": "https://utdgrades.com/results/CS%206364",
+      "courses": [
+        "CS 6364"
+      ],
+      "fetched": "2026-06-09 18:52:22",
+      "status": "placeholder"
+    },
+    {
+      "filename": "utdgrades_cs6375.txt",
+      "source": "utdgrades",
+      "url": "https://utdgrades.com/results/CS%206375",
+      "courses": [
+        "CS 6375"
+      ],
+      "fetched": "2026-06-09 18:52:24",
       "status": "placeholder"
     },
     {
@@ -113,7 +239,7 @@
       "courses": [
         "CS 3345"
       ],
-      "fetched": "2026-06-08 04:58:38",
+      "fetched": "2026-06-09 18:52:27",
       "status": "ok"
     },
     {
@@ -123,7 +249,7 @@
       "courses": [
         "CS 4337"
       ],
-      "fetched": "2026-06-08 04:58:40",
+      "fetched": "2026-06-09 18:52:29",
       "status": "ok"
     },
     {
@@ -133,7 +259,7 @@
       "courses": [
         "CS 4348"
       ],
-      "fetched": "2026-06-08 04:58:42",
+      "fetched": "2026-06-09 18:52:31",
       "status": "ok"
     },
     {
@@ -143,7 +269,7 @@
       "courses": [
         "CS 4349"
       ],
-      "fetched": "2026-06-08 04:58:44",
+      "fetched": "2026-06-09 18:52:34",
       "status": "ok"
     },
     {
@@ -153,8 +279,110 @@
       "courses": [
         "CS 4347"
       ],
-      "fetched": "2026-06-08 04:58:47",
+      "fetched": "2026-06-09 18:52:36",
       "status": "ok"
+    },
+    {
+      "filename": "catalog_cs3354.txt",
+      "source": "catalog",
+      "url": "https://catalog.utdallas.edu/now/undergraduate/courses/cs3354",
+      "courses": [
+        "CS 3354"
+      ],
+      "fetched": "2026-06-09 18:52:39",
+      "status": "ok"
+    },
+    {
+      "filename": "catalog_cs4383.txt",
+      "source": "catalog",
+      "url": "https://catalog.utdallas.edu/now/undergraduate/courses/cs4383",
+      "courses": [
+        "CS 4383"
+      ],
+      "fetched": "2026-06-09 18:52:42",
+      "status": "ok"
+    },
+    {
+      "filename": "catalog_cs6360.txt",
+      "source": "catalog",
+      "url": "https://catalog.utdallas.edu/now/undergraduate/courses/cs6360",
+      "courses": [
+        "CS 6360"
+      ],
+      "fetched": "2026-06-09 18:52:44",
+      "status": "ok"
+    },
+    {
+      "filename": "catalog_cs6363.txt",
+      "source": "catalog",
+      "url": "https://catalog.utdallas.edu/now/undergraduate/courses/cs6363",
+      "courses": [
+        "CS 6363"
+      ],
+      "fetched": "2026-06-09 18:52:47",
+      "status": "ok"
+    },
+    {
+      "filename": "catalog_cs6364.txt",
+      "source": "catalog",
+      "url": "https://catalog.utdallas.edu/now/undergraduate/courses/cs6364",
+      "courses": [
+        "CS 6364"
+      ],
+      "fetched": "2026-06-09 18:52:49",
+      "status": "ok"
+    },
+    {
+      "filename": "catalog_cs6375.txt",
+      "source": "catalog",
+      "url": "https://catalog.utdallas.edu/now/undergraduate/courses/cs6375",
+      "courses": [
+        "CS 6375"
+      ],
+      "fetched": "2026-06-09 18:52:52",
+      "status": "ok"
+    },
+    {
+      "filename": "rmp_utd_cs.txt",
+      "source": "rmp",
+      "url": "https://www.ratemyprofessors.com/school/1273",
+      "courses": [
+        "CS 3345",
+        "CS 4337",
+        "CS 4347",
+        "CS 4348",
+        "CS 4349"
+      ],
+      "fetched": "2026-06-09 18:56:41",
+      "status": "ok",
+      "profs": 50,
+      "total_ratings_kept": 590,
+      "per_course": {
+        "CS3345": 120,
+        "CS4337": 89,
+        "CS4347": 87,
+        "CS4348": 61,
+        "CS4349": 58,
+        "CS3354": 73,
+        "CS4383": 0,
+        "CS6360": 31,
+        "CS6363": 22,
+        "CS6364": 16,
+        "CS6375": 33
+      },
+      "target_courses_covered": [
+        "CS 3345",
+        "CS 4337",
+        "CS 4347",
+        "CS 4348",
+        "CS 4349",
+        "CS 3354",
+        "CS 6360",
+        "CS 6363",
+        "CS 6364",
+        "CS 6375"
+      ],
+      "cs_profs_scanned": 101
     },
     {
       "filename": "trends_placeholder.txt",
@@ -167,32 +395,8 @@
         "CS 4349",
         "CS 4347"
       ],
-      "fetched": "2026-06-08 04:58:57",
+      "fetched": "2026-06-09 18:56:46",
       "status": "placeholder"
-    },
-    {
-      "filename": "rmp_utd_cs.txt",
-      "source": "rmp",
-      "url": "https://www.ratemyprofessors.com/school/1273",
-      "courses": [
-        "CS 3345",
-        "CS 4337",
-        "CS 4348",
-        "CS 4349",
-        "CS 4347"
-      ],
-      "fetched": "2026-06-08 05:25:28",
-      "status": "ok",
-      "target_course_profs": 37,
-      "total_ratings_kept": 409,
-      "per_course": {
-        "CS3345": 118,
-        "CS4337": 89,
-        "CS4347": 84,
-        "CS4348": 63,
-        "CS4349": 55
-      },
-      "cs_profs_scanned": 92
     }
   ]
 }

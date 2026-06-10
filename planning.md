@@ -23,28 +23,21 @@ The official UTD catalog (galaxy) tells you what a course is *supposed* to be: c
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-i scoped the corpus to 5 upper-division UTD CS courses that show up a lot on the sub: CS 3345 (data structures), CS 4337 (programming languages), CS 4348 (operating systems), CS 4349 (advanced algorithms), and CS 4347 (database systems). every row below maps to a real file in `documents/` written by `scripts/fetch_initial.py`. the script is re-runnable so the corpus can be refreshed later.
+i scoped the corpus to 11 UTD CS courses that show up a lot on the sub: 5 upper-div (CS 3345 data structures, CS 4337 programming languages, CS 4347 database systems, CS 4348 operating systems, CS 4349 advanced algorithms), 1 sophomore-ish (CS 3354 software engineering), 1 theory (CS 4383 theory of computation), and 4 grad (CS 6360 database design, CS 6363 algorithms, CS 6364 AI, CS 6375 machine learning). every file in `documents/` is written by `scripts/fetch_initial.py`. the script is re-runnable so the corpus can be refreshed later. full per-file manifest with URLs and timestamps lives in `documents/sources.json` (35 files).
 
-| # | Source | File | Description | URL |
-|---|--------|------|-------------|-----|
-| 1 | UTD Galaxy catalog | `catalog_cs3345.txt` | Official course description for CS 3345 (data structures). HTML-stripped, nav cruft still in there for now. | https://catalog.utdallas.edu/now/undergraduate/courses/cs3345 |
-| 2 | UTD Galaxy catalog | `catalog_cs4337.txt` | Official description for CS 4337 (programming languages). | https://catalog.utdallas.edu/now/undergraduate/courses/cs4337 |
-| 3 | UTD Galaxy catalog | `catalog_cs4348.txt` | Official description for CS 4348 (operating systems concepts). | https://catalog.utdallas.edu/now/undergraduate/courses/cs4348 |
-| 4 | UTD Galaxy catalog | `catalog_cs4349.txt` | Official description for CS 4349 (advanced algorithm design and analysis). | https://catalog.utdallas.edu/now/undergraduate/courses/cs4349 |
-| 5 | UTD Galaxy catalog | `catalog_cs4347.txt` | Official description for CS 4347 (database systems). | https://catalog.utdallas.edu/now/undergraduate/courses/cs4347 |
-| 6 | Rate My Professors (UTD, school id 1273) | `rmp_utd_cs.txt` | UTD CS-dept profs (37 of them) whose recent ratings (last 3 years) are tagged for one of the 5 target courses (CS 3345, 4337, 4347, 4348, 4349, including SE cross-listings). 409 ratings total, each tagged with class code, difficulty, clarity, helpfulness, and "would take again". Fetched via RMP's public GraphQL. | https://www.ratemyprofessors.com/school/1273 |
-| 7 | r/utdallas | `reddit_cs3345.txt` | PLACEHOLDER. reddit's public JSON returns 403 to anonymous requests now, so the script left a stub with manual-paste instructions. needs human-collected threads / comments for CS 3345. | https://www.reddit.com/r/utdallas/search/?q=CS+3345&restrict_sr=1 |
-| 8 | r/utdallas | `reddit_cs4337.txt` | PLACEHOLDER, same situation, needs manual paste-in for CS 4337 threads. | https://www.reddit.com/r/utdallas/search/?q=CS+4337&restrict_sr=1 |
-| 9 | r/utdallas | `reddit_cs4348.txt` | PLACEHOLDER, manual paste-in for CS 4348 threads. | https://www.reddit.com/r/utdallas/search/?q=CS+4348&restrict_sr=1 |
-| 10 | r/utdallas | `reddit_cs4349.txt` | PLACEHOLDER, manual paste-in for CS 4349 threads. | https://www.reddit.com/r/utdallas/search/?q=CS+4349&restrict_sr=1 |
-| 11 | r/utdallas | `reddit_cs4347.txt` | PLACEHOLDER, manual paste-in for CS 4347 threads. | https://www.reddit.com/r/utdallas/search/?q=CS+4347&restrict_sr=1 |
-| 12 | utdgrades.com | `utdgrades_cs3345.txt` | PLACEHOLDER. utdgrades is a SPA, the plain GET returns the JS shell with no grade data. M3 will need a manual copy of the A/B/C/D/F table per course (one file per course already stubbed). | https://utdgrades.com/results/CS%203345 |
-| 13 | utdgrades.com | `utdgrades_cs4337.txt` through `utdgrades_cs4347.txt` | Same as #12, one placeholder per course. | https://utdgrades.com/results/ |
-| 14 | trends.utdnebula.com | `trends_placeholder.txt` | PLACEHOLDER. probed `api.utdnebula.com` with a few obvious endpoint shapes, nothing returned grade data, so this needs either an API-endpoint discovery pass (DevTools on the trends site) or manual copy. covers all 5 courses. | https://trends.utdnebula.com/ |
+| # | Source | Files | Coverage | URL pattern |
+|---|--------|-------|----------|-------------|
+| 1 | UTD Galaxy catalog | 11 files: `catalog_cs<num>.txt` for each of the 11 target courses | Official course descriptions, HTML-stripped (nav cruft still in there, M3 cleaning slices the description out). One per course. | https://catalog.utdallas.edu/now/undergraduate/courses/cs<num> |
+| 2 | Rate My Professors (UTD, school id 1273) | `rmp_utd_cs.txt` | 50 UTD CS-dept profs whose recent ratings (last 3 years) are tagged for one of the 11 target courses (incl. SE cross-listings). 590 ratings total, each tagged with class code, difficulty, clarity, helpfulness, "would take again", and date. Per-course coverage: CS 3345:120, CS 4337:89, CS 4347:87, CS 4348:61, CS 4349:58, CS 3354:73, CS 4383:0, CS 6360:31, CS 6363:22, CS 6364:16, CS 6375:33. Fetched via RMP's public GraphQL. | https://www.ratemyprofessors.com/school/1273 |
+| 3 | r/utdallas | 11 placeholders: `reddit_cs<num>.txt` (one per course) | PLACEHOLDERS. reddit's anonymous JSON returns 403 and the OAuth path is blocked by reddit's "responsible builder" gate. each file has step-by-step manual paste instructions. once threads are pasted in, M3's ingest picks them up automatically because the filenames follow the convention. | https://www.reddit.com/r/utdallas/search/?q=CS+<num>&restrict_sr=1 |
+| 4 | utdgrades.com | 11 placeholders: `utdgrades_cs<num>.txt` (one per course) | PLACEHOLDERS. utdgrades is a SPA, the plain GET returns the JS shell with no grade data. M3 will need a manual copy of the A/B/C/D/F-by-section table per course pasted into each stub. | https://utdgrades.com/results/CS%20<num> |
+| 5 | trends.utdnebula.com | 1 placeholder: `trends_placeholder.txt` | PLACEHOLDER, covers all 11 courses. probed `api.utdnebula.com` with a few obvious endpoint shapes, nothing returned grade data, so this needs either an API endpoint discovery pass (DevTools on the trends site) or manual copy. | https://trends.utdnebula.com/ |
 
 > Note on Discords: most UTD Discords are invite-only or need a hotkey/verification flow i can't automate. dropping them, flagged under Anticipated Challenges.
 >
-> Note on reddit: i'd planned to auto-fetch but reddit now 403s anonymous JSON requests (search and listings). i kept the 5 reddit placeholder files so the file-count and source-coverage shape stays right, and the `reddit_cs<num>.txt` files have step-by-step manual collection instructions in them. once threads are pasted in, M3's ingest picks them up automatically because the filenames follow the convention.
+> Note on reddit: i'd planned to auto-fetch but reddit's anonymous JSON returns 403, and the OAuth route requires creating an app through reddit's developer portal which is gated behind a "responsible builder" policy step. going manual paste-in for now, one block of threads per course file. once that's done the corpus is complete enough for M3.
+>
+> Note on RMP coverage: CS 4383 (theory of computation) came back with zero recent reviews. it's a smaller course that just doesn't get rated much, so M3 will lean entirely on reddit + catalog for that one course.
 
 ---
 

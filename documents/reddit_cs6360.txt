@@ -1,6 +1,6 @@
-# Source: r/utdallas search 'CS 4337'
-# URL: https://www.reddit.com/r/utdallas/search.json?q=CS+4337&restrict_sr=1&sort=relevance&t=all&limit=25
-# Fetched: 2026-06-09 18:51:47
+# Source: r/utdallas search 'CS 6360'
+# URL: https://www.reddit.com/r/utdallas/search.json?q=CS+6360&restrict_sr=1&sort=relevance&t=all&limit=25
+# Fetched: 2026-06-09 18:52:00
 # Note: PLACEHOLDER - reddit returned 403 to anonymous JSON. Needs manual paste-in.
 # Status: placeholder
 ---
@@ -10,8 +10,8 @@ requests (including the search endpoint and subreddit listing endpoints).
 Reddit started blocking anonymous JSON access in mid-2023 and the restriction
 remains in effect. Without OAuth credentials the script cannot fetch threads.
 
-Manual collection steps for CS 4337:
-  1. In a browser, open https://www.reddit.com/r/utdallas/search/?q=CS+4337&restrict_sr=1
+Manual collection steps for CS 6360:
+  1. In a browser, open https://www.reddit.com/r/utdallas/search/?q=CS+6360&restrict_sr=1
   2. Open the top 8-12 threads (sort by relevance, then by top of all time).
   3. For each thread, copy:
        - The post title and body text.

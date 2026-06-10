@@ -1,6 +1,6 @@
 # Source: UTD official catalog (Galaxy) entry for CS 4347
 # URL: https://catalog.utdallas.edu/now/undergraduate/courses/cs4347
-# Fetched: 2026-06-08 04:58:47
+# Fetched: 2026-06-09 18:52:36
 # Note: Stripped HTML to plain text. Header/footer nav still present, M3 cleaning will trim it.
 ---
 

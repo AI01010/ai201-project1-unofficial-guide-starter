@@ -34,7 +34,7 @@ from pathlib import Path
 
 # --- config ---------------------------------------------------------------
 
-COURSES = ["3345", "4337", "4348", "4349", "4347"]
+COURSES = ["3345", "4337", "4348", "4349", "4347", "3354", "4383", "6360", "6363", "6364", "6375"]
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "documents"
@@ -50,7 +50,7 @@ REDDIT_SLEEP = 2.0   # be polite to reddit
 HOST_SLEEP = 1.0     # generic polite delay between hits to the same host
 
 # Hard time-box for RMP + nebula combined (seconds)
-HARD_OPTIONAL_BUDGET = 600  # 10 minutes
+HARD_OPTIONAL_BUDGET = 1800  # 30 minutes
 
 # --- helpers --------------------------------------------------------------
 
@@ -457,10 +457,10 @@ def fetch_catalog(course_num: str, manifest: list) -> None:
 
 # --- 4. Rate My Professors ------------------------------------------------
 
-# Target courses for filtering RMP reviews. Five CS courses the eval set targets.
+# Target courses for filtering RMP reviews. CS courses the eval set targets.
 # Stored as the canonical "CS NNNN" form; normalization compares against the
 # whitespace-stripped variants.
-TARGET_COURSES = ["CS 3345", "CS 4337", "CS 4347", "CS 4348", "CS 4349"]
+TARGET_COURSES = ["CS 3345", "CS 4337", "CS 4347", "CS 4348", "CS 4349", "CS 3354", "CS 4383", "CS 6360", "CS 6363", "CS 6364", "CS 6375"]
 # Set of normalized course codes (no space) used for fast lookup.
 _TARGET_COURSE_KEYS = {c.replace(" ", "") for c in TARGET_COURSES}
 # CS-courses that are cross-listed with SE prefix per the UTD catalog
@@ -477,7 +477,7 @@ RMP_PAGE_SIZE = 20
 # at UTD roughly 1 in 4-5 is CS, so 35 pages -> ~700 profs scanned -> ~140 CS).
 RMP_MAX_SEARCH_PAGES = 40
 # Cap on profs surfaced in the output file (sorted by surviving-rating count desc).
-RMP_MAX_OUTPUT_PROFS = 20
+RMP_MAX_OUTPUT_PROFS = 50
 
 
 def normalize_class_code(raw: str | None) -> str:
@@ -622,6 +622,9 @@ def try_rmp(manifest: list, budget_deadline: float) -> None:
         return
 
     # --- step 2: fetch ratings per prof, filter to target courses --------
+    # Sort by numRatings descending so highest-volume profs come first.
+    # This way, if the budget runs out, we've already captured the heaviest hitters.
+    cs_profs.sort(key=lambda p: -(p.get("numRatings") or 0))
     profs_with_hits: list[dict] = []
     per_course_counts: dict[str, int] = {c: 0 for c in _TARGET_COURSE_KEYS}
     total_kept = 0
