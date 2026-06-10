@@ -76,6 +76,8 @@ I'll re-tune these numbers once I actually see chunks come out. If I notice retr
 
 **Top-k:** 5 to start. Going to tune after I see real retrieval results. If 5 is consistently missing the chunk I know is relevant, I'll bump it up. If it's pulling in junk that pushes the LLM off-target, I'll drop it. The tradeoff: too few and I miss context the LLM needs to answer well, too many and I drown the prompt in loosely-related stuff that drags the answer off course.
 
+**Update after M4 implementation:** kept k=5 but added a course-code metadata filter on top of the semantic search. The first pass without it had a real failure: a query like "what's the workload for CS 4337" returned zero CS 4337 chunks in top-5 because MiniLM weights surrounding words ("workload", "exams") more than the literal "CS 4337" tokens, so reviews from CS 4348 / 3345 with stronger word overlap won out. Fix: `retrieve()` now extracts course codes (and common course-name keywords like "data structures", "machine learning") from the query, applies a ChromaDB `where={"course": ...}` filter, then falls back to unfiltered semantic search if the filter starves the result set. With the filter on, Q1 / Q2 / Q4 from the eval plan all return 5/5 on-target chunks at distances 0.37-0.43.
+
 **Production tradeoff reflection:**
 
 If I were deploying this for real UTD students and cost wasn't the limit, here's what I'd actually weigh:
