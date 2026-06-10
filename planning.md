@@ -60,6 +60,8 @@ Most of what I'm working with is short, opinion-dense text. RMP reviews are usua
 
 I'll re-tune these numbers once I actually see chunks come out. If I notice retrieval pulling back too-short fragments or unrelated stuff, I'll bump chunk size. If chunks look like they're covering 3 different reviews at once, I'll shrink.
 
+**Update after M3 implementation:** I split the chunker per source. RMP chunks by review boundary (each `- class=... | diff=...` line + its comment text becomes one chunk, with the prof name + course code + difficulty/clarity/help/wta tags attached as metadata) instead of using a blind 400-char window. This way a single review can't get split across a chunk boundary and unrelated reviews can't get merged. Catalog and reddit still use the sliding ~400-char window with 50 overlap, with the window aligned to paragraph / sentence / word boundaries at both ends so chunks don't start or end mid-word. Final corpus: 819 chunks (556 RMP, 245 reddit, 18 catalog), min 124 chars, mean 349, max 444.
+
 ---
 
 ## Retrieval Approach
